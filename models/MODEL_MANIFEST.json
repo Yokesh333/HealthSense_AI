@@ -1,0 +1,65 @@
+{
+    "project": "HealthSense AI",
+    "component": "Parkinson Disease ML Predictor",
+    "model": {
+        "algorithm": "Random Forest",
+        "n_estimators": 500,
+        "class_weight": "balanced",
+        "random_state": 42,
+        "min_samples_leaf": 2,
+        "max_features": "sqrt"
+    },
+    "task": {
+        "type": "binary classification",
+        "class_0": "Healthy Control",
+        "class_1": "Parkinson's Disease"
+    },
+    "features": [
+        "AGE_AT_VISIT",
+        "EDUCYRS",
+        "NP1RTOT",
+        "NP2PTOT",
+        "NP3TOT",
+        "NHY",
+        "MCATOT",
+        "GDS_TOTAL",
+        "ESS_TOTAL",
+        "RBD_TOTAL",
+        "SDMTOTAL",
+        "DVT_TOTAL_RECALL",
+        "DVT_DELAYED_RECALL",
+        "LNS_TOTRAW",
+        "TMTASEC",
+        "TMTBSEC",
+        "SCOPA_AUT_TOTAL"
+    ],
+    "preprocessing": {
+        "imputation": "median",
+        "missing_indicators": true
+    },
+    "dataset": {
+        "source": "PPMI",
+        "participants": 2636,
+        "pd": 2196,
+        "healthy_control": 440
+    },
+    "evaluation": {
+        "test_accuracy": 0.9242,
+        "test_balanced_accuracy": 0.9,
+        "test_macro_f1": 0.8727,
+        "test_roc_auc": 0.9781
+    },
+    "explainability": {
+        "method": "SHAP TreeExplainer",
+        "shap_version": "0.52.0",
+        "transformed_feature_count": 34,
+        "top_global_features": [
+            "NHY",
+            "NP3TOT",
+            "NP2PTOT",
+            "SCOPA_AUT_TOTAL",
+            "AGE_AT_VISIT"
+        ]
+    },
+    "clinical_disclaimer": "Research prototype. Predictions and SHAP values describe model behavior and do not constitute a clinical diagnosis or establish causation."
+}

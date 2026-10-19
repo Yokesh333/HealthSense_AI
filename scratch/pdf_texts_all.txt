@@ -1,0 +1,2332 @@
+=== Sample_pdf\alzheimer.pdf (4 pages) ===
+Journal of Alzheimer’s Disease Reports 7 (2023) 37–40
+DOI 10.3233/ADR-220065
+IOS Press
+37
+Short Communication
+A Case of Minimally Progressive Prodromal
+Alzheimer’s Disease
+Michael H. Rosenbloom∗and Terry Barclay
+HealthPartners Neuroscience Center/Research Institute, Saint Paul, MN, USA
+Received 25 August 2022
+Accepted 18 December 2022
+Pre-press 2 January 2023
+Published 19 January 2023
+Abstract. Prodromal Alzheimer’s disease (AD) is a neurodegenerative condition typically progressing to dementia within 3
+years. We describe a case of a mild cognitive impairment (MCI) patient with biomarker evidence for amyloidosis, tau, and
+neurodegeneration who had minimal changes in clinical phenotype during an 11-year period. AD biomarkers were obtained
+with cerebrospinal ﬂuid analysis and amyloid PET imaging, both of which supported a biological diagnosis of AD. However,
+the patient’s neuropsychological proﬁle remained stable over 11 years except for mild memory-retrieval changes. This case
+provides evidence that MCI with supportive AD biomarkers may have an atypically minimal progression.
+Keywords: Biomarkers, cognitive reserve, longitudinal progression, prodromal AD
+INTRODUCTION
+Incorporation of biomarkers into practice has
+enabled clinicians not only an unprecedented oppor-
+tunity to conﬁrm an Alzheimer’s disease (AD)
+diagnosis but also the ability to render a prognosis in
+mild cognitive impairment (MCI). Between 59–61%
+of patients with cognitive impairment and evidence of
+positive AD biomarkers progress to dementia within
+3 years [1]. We report a patient diagnosed with pro-
+dromal AD based on history, neuropsychological
+assessment,andthepresenceofbothpositiveamyloid
+PET and cerebrospinal ﬂuid (CSF) biomarkers fol-
+lowed over an 11-year period who exhibited minimal
+evidence for clinically signiﬁcant disease progression
+based on longitudinal functional status and neuropsy-
+chological assessment.
+∗Correspondence to: Michael H. Rosenbloom, MD, Health-
+Partners Neuroscience Center/Research Institute, 295 Phalen
+Boulevard, Saint Paul, MN 55130, USA. Tel.: +1 651 495
+6300; Fax: +1 651 495 6375;
+E-mail: michael.h.rosenbloom
+@healthpartners.com.
+CASE PRESENTATION
+A 73-year-old Caucasian male with a past medical
+history signiﬁcant for atrial ﬂutter and obstruc-
+tive sleep apnea presented to neurology in October
+2010 with one year of memory problems character-
+ized by difﬁculty managing ﬁnances that resulted
+in bankruptcy. Furthermore, there were problems
+with repetitive statements, misplacing objects, forget-
+ting appointments, and confusion related to turning
+on his computer. By history, he had otherwise
+intact instrumental activities of daily living (IADLs).
+Initial Montreal Cognitive Assessment (MoCA)
+was 27/30. Medications included rosuvastatin, tam-
+sulosin, metoprolol, lisinopril, and escitalopram.
+Neurological examination was unremarkable. He was
+referred for formal cognitive testing in January 2011
+that showed mild deﬁcits (1–1.5 standard deviations
+from community norms) involving learning, memory,
+and attention/executive function. There was rela-
+tively intact memory storage on recognition testing.
+Brain MRI revealed atrophy on visual read affecting
+ISSN 2542-4823 © 2023 – The authors. Published by IOS Press. This is an Open Access article distributed under the terms
+of the Creative Commons Attribution-NonCommercial License (CC BY-NC 4.0).
+
+38
+M.H. Rosenbloom and T. Barclay / Minimally Progressive AD
+Table 1
+Neuropsychological test battery
+Processing Speed
+WAIS-IV Coding
+Word Reading Condition, Delis-Kaplan Executive Function System (DKEFS) Color-Word Test
+Language
+Boston Naming Test
+Animal Naming
+Visuospatial
+WAIS-IV Block Design
+Encoding
+Hopkins Verbal Learning Test – Revised (HVLT-R), Trials 1–3
+Brief Visuospatial Memory Test – Revised (BVMT-R), Trials 1–3
+Memory Retrieval
+HVLT-R Delayed Recall
+BVMT-R Delayed Recall
+Memory Recognition
+HVLT-R Recognition
+BVMT-R Recognition
+Executive
+Trailmaking Test, Part B
+Controlled Oral Word Association Test (FAS)
+Fig. 1. Neuropsychological Test Performance by Cognitive Domain 2010–2021. *T-scores are standardized values calculated using normative
+data (i.e., mean, standard deviation) from test performance of healthy peers of similar age and/or education. Values <29 Impaired; 30–36
+Borderline Impaired; 37–42 Low Average; 43–56 Average;>56 High Average or better. Scores shown here for each cognitive domain were
+obtained by averaging T-scores across individual tests. No clinically signiﬁcant “outlier” values were identiﬁed during this process. Memory
+Recognition scores are not normally distributed.
+the posterior parietal region, inclusive of the pre-
+cuneus and bilateral angular gyrus with sparing of
+the hippocampi. He was diagnosed with amnestic
+MCI and continued to be followed longitudinally in
+clinic. CSF biomarker studies (Athena diagnostics)
+showed A = 435.15 pg/ml, t-tau, 452.8 pg/ml, and p-
+tau = 101.35 pg/ml in October 2013. Based upon the
+positive ﬁndings, he was diagnosed with prodromal
+AD. An August 2016 ﬂorbetapir amyloid PET scan
+conﬁrmed increased uptake involving the prefrontal,
+lateral temporal, and parietal regions consistent with
+conﬁrmed the presence of moderate to severe cere-
+bral amyloid plaques. Genetic testing showed that the
+patient was an APOE 3/4 carrier.
+The patient was followed for a total of 11 years
+between October 2010 and October 2021. During
+this time, he engaged in an active lifestyle inclu-
+sive of routine exercise 3x/week, woodworking, and
+consumption of the Mediterranean diet. Longitudi-
+nal cognitive screening revealed MoCA scores that
+ranged from 25–29 with the most recent being 26/30
+in March 2020. A total of ﬁve subsequent neu-
+ropsychologicalevaluationswereperformedbetween
+October 2013 and August 2021. The battery consisted
+of measures assessing processing speed, language,
+visuospatial functions, encoding, memory retrieval
+and recognition as well as executive functions
+(Table 1). Results showing neuropsychological test
+performance by cognitive domain are depicted in
+Fig. 1 over 5-year intervals including 2010, 2016,
+and 2021. T-scores for processing speed, language,
+visuospatial functions, encoding, and executive func-
+
+M.H. Rosenbloom and T. Barclay / Minimally Progressive AD
+39
+tioning remained stable (i.e., variability not greater
+than 1 standard deviation from baseline) over these
+three time periods (Fig. 1). In 2021, the patient’s
+memory retrieval T-scores declined to a minimal
+degree by 1.3 standard deviations compared to
+baseline; however, his memory-recognition scores
+remained constant between 2010 and 2021, reﬂect-
+ing a stable neuropsychological phenotype. Geriatric
+depression score-15 ranged from 0–3 during this
+time.
+Throughout the course of his condition, the patient
+retained the ability to participate in most IADLs
+including woodworking, medication management,
+and meal preparation. It was recommended he stop
+driving due to inattention and impulsivity rather than
+an observed decline in his skill level according to
+standards during an occupational therapy behind-the-
+wheel assessment in 2014.
+DISCUSSION
+This case study describes a patient presenting
+with subjective and objective cognitive impairment
+who was found to have evidence for amyloi-
+dosis, tau phosphorylation, and neurodegeneration
+(A+/T+/N+) early in the course of his disease, thus
+meeting the NIA-AA research framework for AD,
+but failed to signiﬁcantly progress from a cogni-
+tive or functional standpoint 12 years from symptom
+onset and 8 years following biological conﬁrmation
+of AD [2]. This patient had evidence of neurodegen-
+eration as represented by CSF t-tau. Although there
+was minimal decline in memory-retrieval over the
+course of longitudinal follow-up, the patient’s mem-
+ory storage abilities remained relatively unchanged.
+Neuropsychological evaluation suggested the relative
+decline on tasks of memory-retrieval is a function of a
+dysexecutive process rather than a classical amnestic
+pattern of AD recognition memory dysfunction.
+Understood as a continuum of disease, the entire
+process of AD may last between 15 and 25 years in
+its progression from pre-clinical (NIH stage 1-2) to
+advanced dementia (NIH stage 6 [3]. For an indi-
+vidual aged 70, the typical estimated duration of the
+prodromal phase is 4 years [3]. In addition, 59–61%
+of patients meeting International Working Group-2
+and National Institute of Aging research criteria for
+prodromal AD progress to dementia within 3 years
+[1].
+With a clinical phenotype that remained objec-
+tively stable for >10 years in the setting of early
+biological evidence for an AD process, our patient
+represents an outlier from the typical prodromal AD
+patient. We refer to this presentation as a “prodromal
+AD long-term non-progressor.” This phenomenon
+has been under described in the literature but may rep-
+resent an extreme clinical phenotype that may beneﬁt
+from a deﬁning criteria (e.g., ATN positivity with sta-
+ble neuropsychological testing and function >5 years
+from ATN positivity in the absence of other clinical
+factors contributing to cognitive impairment).
+A potential explanation for the patient’s delayed
+progression may be related to cognitive reserve, a
+concept that relates to lifelong experiences such
+as education and occupation that may enable cer-
+tain individuals to be more resilient to AD-related
+brain changes [4]. This individual had completed
+one year of graduate school and general intellec-
+tual funding was characterized by superior verbal
+comprehension and perceptual reasoning. Further-
+more, his proﬁle showed impairment predominantly
+affecting executive functions as compared to mem-
+ory storage, thus suggesting the outside possibility
+of obstructive sleep apnea (OSA) driving the clinical
+symptomatology. However, CSF analysis performed
+in patients with untreated OSA have demonstrated
+biomarker changes resembling that found in AD [5].
+In addition, our patient may have experienced a more
+benign neurodegenerative condition that has clinical
+symptomatic overlap with AD (e.g., amnestic demen-
+tia). For instance, patients with primary age-related
+tauopathy, a condition characterized by the presence
+of neuroﬁbrillary tangles in the absence of amy-
+loid pathology, may present as a continuum ranging
+from normal cognition to mild amnestic symptoms,
+rarely progressing to a profound dementia syndrome
+[6]. Furthermore, the recently described limbic-
+predominant, age-related TDP-43 encephalopathy
+may present with or without amyloid pathology and
+can be misdiagnosed with AD before neuropathol-
+ogy is obtained [7, 8] It should be noted that this
+latter condition typically affects patients aged ≥80
+and has non-speciﬁc biomarker ﬁndings on imaging
+and CSF.
+Longitudinal biomarker studies have shown vari-
+able conversion rates for MCI depending on whether
+the neurodegenerative process involves or spares the
+medial temporal lobes. FDG-PET studies in sub-
+jects with amnestic MCI reveal that patients with a
+more limbic-predominant pattern of hypometabolism
+have only a 7% dementia conversion rate over
+8.20 ± 3.30 years [9]. On the other hand, longitudinal
+biomarker studies of A+/N+ patients with FDG-PET
+
+40
+M.H. Rosenbloom and T. Barclay / Minimally Progressive AD
+hypometabolism, but lacking hippocampal atrophy
+(as noted in our patient), have shown that these indi-
+viduals are less likely to progress to dementia at 9
+years as compared to those with hippocampal atrophy
+[10]. Whether hippocampal atrophy deserves greater
+weight in terms of its role as a predictive biomarker
+for MCI conversion to dementia is a question that
+deserves further investigation.
+Although this case study was limited by the lack
+of longitudinal biomarker data, we believe this case
+study provides insight into subjects who may have
+atypical longitudinal progression despite the pres-
+ence of positive ATN biomarkers and further supports
+continued investigation into the predicative value of
+molecular PET imaging and CSF biomarkers in clin-
+ical practice.
+ACKNOWLEDGMENTS
+The authors have no acknowledgments to report.
+FUNDING
+The authors have no funding to report.
+CONFLICT OF INTEREST
+The authors have no conﬂict of interest to report.
+REFERENCES
+[1]
+Vos SJ, Verhey F, Frolich L, Kornhuber J, Wiltfang J, Maier
+W, Peters O, Ruther E, Nobili F, Morbelli S, Frisoni GB,
+Drzezga A, Didic M, van Berckel BN, Simmons A, Soininen
+H, Kloszewska I, Mecocci P, Tsolaki M, Vellas B, Lovestone
+S, Muscio C, Herukka SK, Salmon E, Bastin C, Wallin A,
+Nordlund A, de Mendonca A, Silva D, Santana I, Lemos
+R, Engelborghs S, Van der Mussele S, Alzheimer’s Dis-
+ease Neuroimaging Initiative, Freund-Levi Y, Wallin AK,
+Hampel H, van der Flier W, Scheltens P, Visser PJ (2015)
+Prevalence and prognosis of Alzheimer’s disease at the mild
+cognitive impairment stage. Brain 138, 1327-1338.
+[2]
+Jack CR Jr, Bennett DA, Blennow K, Carrillo MC, Dunn B,
+Haeberlein SB, Holtzman DM, Jagust W, Jessen F, Karlaw-
+ish J, Liu E, Molinuevo JL, Montine T, Phelps C, Rankin KP,
+Rowe CC, Scheltens P, Siemers E, Snyder HM, Sperling R,
+Contributors(2018)NIA-AAResearchFramework:Toward
+a biological deﬁnition of Alzheimer’s disease. Alzheimers
+Dement 14, 535-562.
+[3]
+Scheltens P, De Strooper B, Kivipelto M, Holstege H, Chete-
+lat G, Teunissen CE, Cummings J, van der Flier WM (2021)
+Alzheimer’s disease. Lancet 397, 1577-1590.
+[4]
+Stern Y (2012) Cognitive reserve in ageing and Alzheimer’s
+disease. Lancet Neurol 11, 1006-1012.
+[5]
+Liguori C, Mercuri NB, Izzi F, Romigi A, Cordella
+A, Sancesario G, Placidi F (2017) Obstructive sleep
+apnea is associated with early but possibly modiﬁable
+Alzheimer’s disease biomarkers changes. Sleep 40, doi:
+10.1093/sleep/zsx011.
+[6]
+Crary JF, Trojanowski JQ, Schneider JA, Abisambra JF,
+Abner EL, Alafuzoff I, Arnold SE, Attems J, Beach TG,
+Bigio EH, Cairns NJ, Dickson DW, Gearing M, Grinberg
+LT, Hof PR, Hyman BT, Jellinger K, Jicha GA, Kovacs GG,
+Knopman DS, Koﬂer J, Kukull WA, Mackenzie IR, Masliah
+E, McKee A, Montine TJ, Murray ME, Neltner JH, Santa-
+Maria I, Seeley WW, Serrano-Pozo A, Shelanski ML, Stein
+T, Takao M, Thal DR, Toledo JB, Troncoso JC, Vonsattel
+JP, White CL, 3rd, Wisniewski T, Woltjer RL, Yamada M,
+Nelson PT (2014) Primary age-related tauopathy (PART):
+A common pathology associated with human aging. Acta
+Neuropathol 128, 755-766.
+[7]
+Robinson JL, Porta S, Garrett FG, Zhang P, Xie SX, Suh
+E, Van Deerlin VM, Abner EL, Jicha GA, Barber JM, Lee
+VM, Lee EB, Trojanowski JQ, Nelson PT (2020) Limbic-
+predominant age-related TDP-43 encephalopathy differs
+from frontotemporal lobar degeneration. Brain 143, 2844-
+2857.
+[8]
+Nelson PT, Dickson DW, Trojanowski JQ, Jack CR, Boyle
+PA, Arfanakis K, Rademakers R, Alafuzoff I, Attems J,
+Brayne C, Coyle-Gilchrist ITS, Chui HC, Fardo DW, Flana-
+gan ME, Halliday G, Hokkanen SRK, Hunter S, Jicha GA,
+Katsumata Y, Kawas CH, Keene CD, Kovacs GG, Kukull
+WA, Levey AI, Makkinejad N, Montine TJ, Murayama S,
+Murray ME, Nag S, Rissman RA, Seeley WW, Sperling
+RA, White CL, 3rd, Yu L, Schneider JA (2019) Limbic-
+predominant age-related TDP-43 encephalopathy (LATE):
+Consensus working group report. Brain 142, 1503-1527.
+[9]
+Tondo G, Carli G, Santangelo R, Mattoli MV, Presotto L,
+Filippi M, Magnani G, Iannaccone S, Cerami C, Perani
+D, Alzheimer’s Disease Neuroimaging Initiative (2021)
+Biomarker-based stability in limbic-predominant amnestic
+mild cognitive impairment. Eur J Neurol 28, 1123-1133.
+[10]
+Ou YN, Xu W, Li JQ, Guo Y, Cui M, Chen KL, Huang YY,
+Dong Q, Tan L, Yu JT, Alzheimer’s Disease Neuroimaging
+Initiative (2019) FDG-PET as an independent biomarker
+for Alzheimer’s biological diagnosis: A longitudinal study.
+Alzheimers Res Ther 11, 57.
+
+
+=== Sample_pdf\alzheimer_2.pdf (8 pages) ===
+Posterior cortical atrophy misdiagnosed
+as typical Alzheimer’s disease: Clinical
+and neuropsychological evolution over
+eight years. A case report
+Mateo Avilés-Gómez1
+, Suhamny Navas-Peñaranda1
+, Maria P Hurtado-Barreto2
+and Mariana Gaviria-Carrillo3
+Abstract
+Posterior cortical atrophy (PCA) is a challenging diagnosis and is often misdiagnosed due to its subtle and atypical pres-
+entation. We present a woman with early-onset visuospatial dysfunction, apraxia, and dysgraphia. Neuroimaging revealed
+posterior atrophy with sparing of the hippocampi. Clinical features, neuropsychological ﬁndings, and neuroimaging were
+consistent with a diagnosis of PCA. The diagnosis was established based on the three-level PCA classiﬁcation framework.
+This case highlights the importance of clinical evaluation and multidisciplinary collaboration in identifying atypical presen-
+tations of neurodegenerative diseases.
+Keywords
+Alzheimer’s disease, cognitive impairment, dementia, posterior cortical atrophy
+Received: 25 July 2025; accepted: 7 September 2025
+Introduction
+Posterior cortical atrophy (PCA) is a clinico-radiological
+syndrome characterized by neurodegeneration of the par-
+ietal and occipital lobes.1 It manifests clinically with early
+visuoperceptual impairment and symptoms suggestive of
+Gerstmann and Balint syndromes.2 Although episodic
+memory is typically preserved in the early stages, disease
+progression ultimately results in a widespread pattern of
+cognitive impairment.3,4 Patients with PCA present with
+an atypical and non-amnesic cognitive decline, which
+often leads to a delayed or misdiagnosis.5
+The most common underlying cause of PCA is
+Alzheimer’s disease (AD), with a recent meta-analysis
+reporting that almost 94% of PCA cases have neuro-
+pathological evidence of AD.2 However, PCA may also
+result from other neurodegenerative processes, including
+Lewy body disease (PCA-LBD), corticobasal degener-
+ation (PCA-CBD), and prion disease (PCA-Prion).6 In
+most cases, diagnosis is made clinically using the three-
+level classiﬁcation proposed by Crutch et al. Access to bio-
+markers to determine the underlying etiology is limited.
+Consequently, clinicians will have to rely on comprehensive
+clinical evaluations and collaborative efforts to achieve diag-
+nostic clarity.
+We present a 68-year-old woman with PCA, exhibiting
+worsening visuospatial abilities, parietooccipital atrophy,
+bilateral myoclonus and late-stage visual hallucinations, who
+was initially misdiagnosed with typical AD. We discuss the
+clinical reasoning process, differential diagnosis, and chal-
+lenges faced in a low-resource setting, pointing out the neces-
+sity of increasing access to advanced diagnostic methods
+while efﬁciently using clinical and cognitive assessments.
+Case presentation
+We report the case of a woman who presented to our center
+with a diagnosis of AD. The onset of symptoms began
+1Undergraduate Research Group Semineuros, School of Medicine and
+Health Sciences, Universidad del Rosario, Bogotá, Colombia
+2Department of Neuropsychology, Centro Neuronapsis, Bogotá,
+Colombia
+3Neuroscience Research Group (Neuros), Center of Neuroscience –
+Neurovitae, School of Medicine and Health Sciences, Universidad del
+Rosario, Bogotá, Colombia
+Corresponding author:
+Mariana Gaviria-Carrillo, Neuroscience Research Group (Neuros),
+Center of Neuroscience – Neurovitae, Cra 24 #63C-69, School of
+Medicine and Health Sciences, Universidad del Rosario, Bogotá, Colombia.
+Email: mariana.gaviria@urosario.edu.co
+Creative Commons Non Commercial CC BY-NC: This article is distributed under the terms of the Creative Commons Attribution-
+NonCommercial 4.0 License (https://creativecommons.org/licenses/by-nc/4.0/) which permits non-commercial use, reproduction and
+distribution of the work without further permission provided the original work is attributed as speciﬁed on the SAGE and Open Access page (https://us.
+sagepub.com/en-us/nam/open-access-at-sage).
+Case report
+Journal of Alzheimer's
+Disease Reports
+Volume 9: 1–8
+© The Author(s) 2025
+Article reuse guidelines:
+sagepub.com/journals-permissions
+DOI: 10.1177/25424823251388361
+journals.sagepub.com/home/alr
+
+around 2016, when she was 60 years old. She experienced
+problems with board games due to a visuospatial percep-
+tion deﬁcit, where she would make mistakes like moving
+backwards instead of forward, struggle to place game
+pieces correctly and encounter difﬁculties with counting,
+alongside experiencing unexplained hand movements
+described as myoclonus. Subsequently, she developed
+difﬁculties with writing (“she wrote one large letter, then
+a small one”), which progressed to a complete loss of
+writing ability. In the following years, additional symp-
+toms emerged: difﬁculty dressing and right/left disorienta-
+tion. Her family also noted that she struggled to reach and
+grasp objects, even when they were clearly visible. Less
+prominent symptoms consisted of mild retrograde amnesia
+and anomia (Figure 1).
+Due to these symptoms, she consulted neurology, under-
+went neuropsychological assessment (Table 1) and mag-
+netic resonance imaging (MRI) (Figures 2 and 3), and
+was diagnosed with AD. Treatment was initiated with rivas-
+tigmine patches (9.5 mg), escitalopram (20 mg/day), and
+levetiracetam (1000 mg every 12 h). In 2024, she was
+brought to our clinic by her relatives, who expressed con-
+cerns about the diagnosis. In 2024, the patient began experi-
+encing behavioral symptoms, including visual illusions and
+hallucinations, auditory hallucinations, hostile behavior,
+and delusional ideas. Our assessment revealed oculomotor
+apraxia, hyperreﬂexia, polymyoclonus in both hands, a
+positive palmomental reﬂex, ﬁnger agnosia, left/right dis-
+orientation, and both dressing and ideomotor apraxia.
+A third comprehensive neuropsychological assessment
+Figure 1. Timeline of symptom progression.
+2
+Journal of Alzheimer's Disease Reports
+
+Table 1. Evolution of symptoms in neuropsychological tests.
+DOMAIN
+2020
+2022
+2024
+Attention and
+orientation
+Preserved in time, space, and person. Displays
+impaired attention and concentration, associated
+with reduced graphomotor skills. Temporal,
+spatial, and personal orientation remains intact
+Attention deﬁcits center on short and prolonged
+periods. Diminished selective attention and
+alternating attention between stimuli and between
+various tasks. Preserved in space and person.
+Diminished focused attention, and visual sustained
+and selective attention. Auditory digit retention
+compromised. Low processing of speed.
+Preserved in space and person.
+Memory
+Learning curve is slightly ascending, with no further
+improvement past the second trial, despite
+repeated presentations. Loss of recently learned
+information. Memory curve:
+Reduced, downward, and unproductive learning
+curve, showing a severely limited learning capacity
+and an inability to use or beneﬁt from facilitation
+strategies for information encoding. There was a
+clear loss of information over time. Grober and
+Buschke test:
+Deﬁcits in encoding, storage, recall and retrieval
+verbal information. Poor performance in visual
+episodic and semantic memory tests.
+Hopkins Verbal Learning Test:
+Language
+Altered denomination and sentence repetition.
+Preserved comprehension of commands, word
+repetition, reading, writing, comprehension of
+concepts, as well as expressive and receptive
+communication skills.
+Low performance in verbal ﬂuidity (worst in semantic
+areas), and a high quantity of pathological
+phenomena such as circumlocutions and semantic
+and phonological paraphasias. Loss of writing
+abilities such as writing a letter.
+Language expression and comprehension below
+expected performance, phonological paraphasias
+and multiple anomias. Possible verbal apraxia.
+Alexia, agraphia and acalculia.
+Praxis and
+Visuospatial
+process
+Mild impairment in the execution of visuospatial tasks
+such as cube copying, interlaced pentagons, inﬁnity
+symbol, and clock test. Visuoperceptual and
+visuoconstructional apraxia. NO IMAGES
+AVAILABLE FROM THE FIRST ASSESSMENT
+Persistent alterations in visuospatial, visuoperceptual,
+and visuoconstructional abilities according to
+performance on the Rey Figure test. The TMT A
+amd B and symbol-digit-modalities test were
+discontinued.
+Visuoconstructional apraxia shown in the Rey
+complex ﬁgure. Impairment in the ability to
+discriminate right and left. Dressing apraxia,
+apraxia of speech, ocular apraxia and difﬁculties
+focusing on all visual tasks.
+Executive
+functions
+Alterations in the abstraction, planning, sequencing,
+inhibition, attentional control and ﬂexibility
+capacities. Impairment working memory.
+Very low performance in tasks related to working
+memory, diminished calculation skills, and low
+abstraction and categorization capacities. Deﬁcits
+in cognitive ﬂexibility.
+Signiﬁcant low performance on tasks requiring
+organization, calculation, planning, working
+memory, inhibitory control, and verbal ﬂuency
+tasks.
+Avilés-Gómez et al.
+3
+
+was carried out, encompassing appraisals of both functional
+and behavioral domains (Tables 1 and 2). Screening assess-
+ments revealed signiﬁcant impairments in multiple areas,
+encompassing difﬁculties with motor sequencing, instruc-
+tion processing, motor and verbal inhibitory control, audi-
+tory and visual working memory, and abstraction.
+Behavioral questionnaires indicated concerns about self-
+neglect, disorganization, inattention, and verbal apraxia.
+The Cummings Neuropsychiatric Inventory Questionnaire
+(NPI-Q) and the Frontal Behavioral Inventory were admi-
+nistered, revealing delusions, hallucinations, agitation,
+depression, anxiety, apathy, irritability, and disturbances
+in sleep and nighttime behavior (Table 2).
+Overall, the neuropsychological ﬁndings revealed a sub-
+stantial decrease in both cognitive and functional abilities.
+The ability to distinguish left from right was severely
+impaired with signiﬁcant difﬁculties in visual construction
+tasks. In contrast, personal and spatial orientation remained
+preserved (Table 1). Language testing showed reduced pro-
+cessing speed and difﬁculties in both expressive and recep-
+tive language, along with anomia and multiple phonemic
+paraphasias. Impaired word articulation suggested the pres-
+ence of verbal apraxia. Reading, writing, and calculation
+were also impaired, consistent with alexia, agraphia, and
+acalculia. Memory assessment showed signiﬁcant impair-
+ments in encoding, storing, and recalling both visual and
+verbal information.
+Further workup, including MRI (Figures 2 and 3) and
+laboratory testing, was performed to investigate secondary
+or reversible causes of the behavioral symptoms and hallu-
+cinations. Results of complete blood count, vitamin B12,
+HIV-Elisa, VDRL, folic acid, glycated hemoglobin, and
+renal, hepatic, and thyroid function were all within
+normal limits, which rules out metabolic or infectious
+causes.
+This case describes a woman with chronic and progres-
+sive major cognitive impairment of early onset (beginning
+around age 60). The initial manifestations included impair-
+ments in visual-perceptual skills, apraxia, myoclonus, agra-
+phia, and Gerstmann syndrome, with relatively less
+memory involvement. In advanced stages psychotic and
+behavioral
+symptoms
+have
+emerged.
+Neuroimaging
+revealed progressive lobar atrophy (Figure 3), predomin-
+antly in posterior regions, with minimal to no involvement
+of the hippocampi (Figure 2). The clinical picture is sug-
+gestive of PCA syndrome.
+Rivastigmine dosage was increased to 27 mg/day, and
+quetiapine was started at a dose of 12.5 mg every 12 h, in
+conjunction
+with
+the
+implementation
+of
+non-
+pharmacological strategies for managing hallucinations
+and behavioral symptoms. However, the patient continued
+to experience hallucinations, prompting a gradual increase
+in quetiapine to 100 mg/day, without clinical improvement.
+Consequently, levetiracetam was discontinued, and val-
+proic acid along with risperidone 2 mg/day were intro-
+duced. Following the onset of extrapyramidal symptoms
+after this change, valproic acid was substituted with lacosa-
+mide. Currently, the patient has satisfactory control of
+psychotic symptoms, with no signiﬁcant changes in cogni-
+tive functioning.
+Discussion
+This case describes a woman with a progressive major neu-
+rocognitive disorder of early onset. Initial symptoms
+included visuospatial disturbances, apraxia, dysgraphia,
+and myoclonus, along with predominantly posterior brain
+atrophy. These ﬁndings are suggestive of PCA syndrome.
+In most cases, PCA is caused by abnormal accumulation
+of amyloid-β (Aβ) and tau proteins in posterior brain
+Figure 2. Cortical atrophy. (A) Coronal MRI, T2: 2022.
+(B) Coronal MRI, T1: 2024.
+4
+Journal of Alzheimer's Disease Reports
+
+regions, making it one of the atypical clinical presentations
+of AD.7
+This clinico-radiological syndrome can also be caused
+by other neurodegenerative diseases, such as dementia
+with Lewy bodies (DLB) or corticobasal degeneration
+(CBD).3 In our case, we did not observe typical symptoms
+of DLB, including ﬂuctuating cognition, early visual
+hallucinations, spontaneous parkinsonism or REM sleep
+behavior disorder. Although this patient presented neuro-
+leptic sensitivity and hallucinations appeared, they did so
+at an advanced stage of the disease and no other core char-
+acteristics of DLB were identiﬁed.8 CBD typically presents
+with symptoms such as asymmetric limb rigidity or akin-
+esia, dystonia, and/or myoclonus, as well as limb apraxia,
+Figure 3. Sagittal and parasagittal MRI, T1 shows progressive atrophy in parietal and occipital cortex through years. (A) 2018. (B)
+2022. (C) 2024.
+Avilés-Gómez et al.
+5
+
+Table 2. Screening tests and questionnaire results 2024 neuropsychological assessment.
+Dimension
+Test
+Score
+Analysis
+Expected
+Patient
+Global performance
+INECO Frontal Screening
+Motor series
+> 25/30
+0/3
+Inferior
+Conﬂicting instructions
+0/3
+Motor inhibitory control
+0/3
+Digit span backwards
+2/6
+Months backward
+0/2
+Visual working memory
+0/4
+Proverbs
+0/3
+Inhibitory control
+0/6
+TOTAL
+2/30
+Functionality
+Activities of Daily Living
+Barthel Index
+PD 100
+PD 70
+Dependent
+Instrumental Activities of Daily Living
+Lawton and Brody scale
+PD 8
+1-0-0-1-0-1-0-0
+Dependent
+Behavior
+Frontal Behavioral Inventory
+PD < 24
+PD 40
+Signiﬁcant changes
+Cummings Neuropsychiatric Inventory Questionnaire (NPI-Q)
+−
+Delusions YES
+S3 ; F4
+Hallucinations YES
+S3 ; F4
+Agitation NO
+−
+Depression YES
+S2 ; F2
+Anxiety NO
+−
+Joy NO
+−
+Apathy YES
+S2 ; F3
+Disinhibition YES
+S2 ; F2
+Irritability YES
+S2 ; F2
+Motor disturbance YES
+S1 ; F1
+Sleep disturbance YES
+S1 ; F 2
+Appetite NO
+−
+S: Severity; F: Frequency.
+6
+Journal of Alzheimer's Disease Reports
+
+cortical sensory deﬁcits, and alien limb phenomena3; in this
+case, the patient only exhibited myoclonus without display-
+ing the other core characteristics.
+Since the onset of symptoms, the progression observed
+in neuropsychological assessments performed over the
+past years has revealed an initial decline in visuospatial
+and visuoconstructional domains. This deterioration has
+also impacted attentional and executive functioning. A
+mild decline in episodic memory was identiﬁed, particularly
+in retrieval processes; however, this domain remained rela-
+tively preserved compared to the visuospatial impairments.
+Although the clinical picture initially raised suspicion
+of possible AD, it is well established that typical presen-
+tations of this neurodegenerative condition usually begin
+with prominent memory complaints, while visuospatial
+and visuoconstructional abilities tend to remain intact
+in the early stages—contrary to what was observed in
+our patient.
+In the latest neuropsychological evaluation, all cogni-
+tive domains showed signiﬁcant impairment. The patient
+demonstrated
+low
+processing
+speed,
+anosognosia,
+anomia, verbal apraxia, alexia, agraphia, acalculia, and
+marked dysexecutive symptoms. There was also a
+notable disturbance in left-right discrimination and pro-
+found visuoconstructional deﬁcits. Importantly, although
+episodic memory was affected, no intrusions or false
+positives were observed—an uncommon ﬁnding in the
+typical course of AD, further supporting the atypical
+nature of this case.
+The diagnosis of PCA was based on the Crutch et al.
+2017 framework, which proposes a three-level classiﬁca-
+tion system. Level 1 refers to the presence of clinical and
+radiological features consistent with PCA. Level 2 distin-
+guishes
+between
+a
+“pure”
+PCA
+presentation
+and
+“PCA-plus,” where features of other neurodegenerative
+syndromes coexist, particularly when biomarker data are
+unavailable. Level 3 aims to identify the underlying path-
+ology through the use of biological markers. According to
+this framework, the patient meets level 1 criteria: insidious
+onset, gradual progression, prominent early disturbance of
+visual cognitive functions, left/ right disorientation, dress-
+ing apraxia, agraphia, constructional dyspraxia, relative
+spared memory at onset and parieto-occipital atrophy.
+Regarding level 2 criteria non core characteristics of DLB
+nor CBS were identiﬁed. Level 3 could not be established,
+as access to biomarkers and molecular diagnosis are limited.
+Biological conﬁrmation is primarily used to guide inclu-
+sion in clinical trials or to initiate disease-modifying ther-
+apies, but it is not essential for symptomatic treatment.9
+Therefore,
+understanding
+the
+clinical
+presentation,
+symptom progression, and neuroimaging features of the
+various neurodegenerative disorders that cause neurocog-
+nitive impairment is essential—particularly in settings where
+biological conﬁrmation is limited.10 Identifying PCA as a
+unique condition is essential for patients and their families,
+enabling tailored pharmacological and non-pharmacological
+treatment approaches that address visuoperceptual impair-
+ment and posterior cortical neurodegeneration.
+Conclusion
+Establishing a proper diagnosis helps the clinician to rule
+out non-neurodegenerative causes and guide pharmaco-
+logical and neuropsychological management. Moreover,
+for patients and their families, a differential diagnosis can
+elucidate the clinical course, prognosis, and potential herit-
+ability risk. Even in the absence of curative treatments,
+accurately distinguishing AD from other dementia subtypes
+remains crucial, as it ensures individualized therapeutic
+approaches, enables realistic prediction of disease course
+and fosters more effective communication with patients
+and caregivers regarding disease expectations and long-
+term planning.
+Although signiﬁcant progress has been made with bio-
+logical and molecular tools for diagnosing dementia, these
+resources are not yet widely accessible. Consequently, clin-
+ical criteria remain the primary basis for diagnosis in certain
+areas. Healthcare professionals must remain open to the full
+spectrum of cognitive disorders, rather than assuming all
+cognitive decline is due to typical AD. Taking into
+account the timeline of symptom onset, the age at presenta-
+tion, and the pattern of cognitive changes can lead to more
+accurate clinical classiﬁcation. Although PCA is rare, it is a
+late or unrecognized diagnosis.
+Finally, decisions regarding biological diagnosis of the
+underlying pathologic processes should be individualized,
+considering patient age, disease stage, atypical or rapidly
+progressive features, eligibility for clinical trials or disease-
+modifying therapies, and, most importantly, whether the
+results would alter management or prognosis.
+This case highlights the signiﬁcance of collaborative
+work between neurologists and neuropsychologists in
+making a precise diagnosis and in handling and tracking
+patients with PCA.
+Acknowledgements
+The authors have no acknowledgments to report.
+ORCID iDs
+Mateo Avilés-Gómez
+https://orcid.org/0009-0002-0140-8860
+Suhamny Navas-Peñaranda
+https://orcid.org/0009-0009-1236-
+194X
+Mariana Gaviria-Carrillo
+https://orcid.org/0000-0003-2282-
+066X
+Ethical considerations
+This study was conducted in accordance with the principles of the
+Declaration of Helsinki.
+Avilés-Gómez et al.
+7
+
+Consent to participate
+Written informed consent was obtained from the patient prior to
+participation.
+Consent for publication
+Written informed consent for publication of their clinical details
+and/or clinical images was obtained from the relative of the
+patient. A copy of the consent form is available for review by
+the editor of this journal. Patient conﬁdentiality was safe-
+guarded by anonymizing all personal information and clinical
+images.
+Author contribution(s)
+Mateo Avilés-Gómez: Investigation; Methodology; Writing – ori-
+ginal draft; Writing – review & editing.
+Suhamny Navas-Peñaranda: Writing – original draft.
+Maria P Hurtado-Barreto: Conceptualization; Investigation;
+Writing – original draft; Writing – review & editing.
+Mariana Gaviria-Carrillo: Conceptualization; Formal analysis;
+Investigation; Project administration; Visualization; Writing – ori-
+ginal draft; Writing – review & editing.
+Funding
+The authors received no ﬁnancial support for the research, author-
+ship, and/or publication of this article.
+Declaration of conﬂicting interests
+The authors declared no potential conﬂicts of interest with
+respect to the research, authorship, and/or publication of this
+article.
+References
+1. Jones D, Pelak V and Rogalski E. Atypical presentations of
+Alzheimer disease. Contin Lifelong Learn Neurol 2024; 30:
+1614–1641.
+2. Schott JM and Crutch SJ. Posterior cortical atrophy. Contin
+Lifelong Learn Neurol 2019; 25: 52–75.
+3. Crutch SJ, Schott JM, Rabinovici GD, et al. Consensus clas-
+siﬁcation of posterior cortical atrophy. Alzheimers Dement
+2017; 13: 870–884.
+4. Hotz T, Sharma M and Narapareddy B. A case of posterior
+cortical atrophy presenting with mood and psychotic symp-
+toms. Case Rep Psychiatry 2024; 2024: 2220082.
+5. Polsinelli AJ and Apostolova LG. Atypical Alzheimer disease
+variants. Contin Lifelong Learn Neurol 2022; 28: 676–701.
+6. Chapleau M, La Joie R, Yong K, et al. Demographic, clinical,
+biomarker, and neuropathological correlates of posterior cortical
+atrophy: an international cohort study and individual participant
+data meta-analysis. Lancet Neurol 2024; 23: 168–177.
+7. Montembeault M and Migliaccio R. Atypical forms of
+Alzheimer’s disease: patients not to forget. Curr Opin
+Neurol 2023; 36: 245–252.
+8. Parmera JB, Rodriguez RD, Studart A, et al. Corticobasal
+syndrome: a diagnostic conundrum. Dement Neuropsychol
+2016; 10: 267–275.
+9. Jack CR Jr, Andrews JS, Beach TG, et al. Revised criteria for
+diagnosis and staging of Alzheimer’s disease: Alzheimer’s
+Association Workgroup. Alzheimers Dement 2024; 20:
+5143–5169.
+10. Videt-Dussert A, Plonka A, Derreumaux A, et al. Handwriting
+graphical parameters analysis in posterior cortical atrophy: a
+case report. Clin Neurol Neurosurg 2021; 208: 106876.
+8
+Journal of Alzheimer's Disease Reports
+
+
+=== Sample_pdf\HealthSenseAI_Synthetic_Alzheimer_Clinical_Report.pdf (2 pages) ===
+SYNTHETIC TEST DOCUMENT — NOT A REAL PATIENT RECORD
+Page 1
+NEUROLOGY OUTPATIENT CLINICAL REPORT
+Memory Disorders Evaluation
+Patient ID
+HS-ALZ-TEST-001
+Visit Date
+18 Aug 2026
+Age
+72 years
+Sex
+Female
+Education
+16 years
+Referral
+Progressive memory difficulty
+Document status: Synthetic clinical-style document created only for HealthSense AI testing. It does not describe a real person.
+1. Chief Complaint
+Progressive short-term memory difficulty for approximately 2 years, with increasing difficulty managing appointments,
+finances, and recently learned information.
+2. History of Present Illness
+The patient and her daughter report gradual worsening of recent memory beginning around 2024. She frequently repeats
+questions, misplaces household objects, forgets recent conversations, and occasionally misses scheduled appointments.
+She remains independent with basic activities of daily living but requires assistance with online banking and medication
+organization. No abrupt onset, head injury, seizure, or focal neurological event is reported.
+3. Medical History
+Hypertension, hyperlipidemia, and osteoarthritis. No previous stroke or known neurological disease.
+4. Current Medications
+Medication
+Dose / Schedule
+Indication
+Amlodipine
+5 mg once daily
+Hypertension
+Atorvastatin
+20 mg nightly
+Hyperlipidemia
+Acetaminophen
+500 mg as needed
+Osteoarthritis pain
+5. Neurological Examination
+Alert and cooperative. Oriented to person and place; required prompting for the exact date. Speech fluent with mild
+word-finding pauses. Cranial nerves grossly intact. No resting tremor. Strength 5/5 in all extremities. Gait stable without
+freezing or postural instability.
+6. Cognitive Assessment
+Assessment
+Result
+Comment
+MMSE
+23 / 30
+Errors in orientation, delayed recall and serial subtraction
+MoCA
+19 / 30
+Impaired delayed recall, executive function and attention
+CDR
+1
+Mild dementia range
+ADAS-Cog
+18 / 70
+Cognitive impairment present
+FAQ
+10 / 30
+Reduced instrumental functional independence
+7. Laboratory Results
+Test
+Result
+Comment
+Vitamin B12
+486 pg/mL
+Within expected range
+TSH
+2.1 mIU/L
+Within expected range
+Folate
+12.4 ng/mL
+Within expected range
+HbA1c
+5.8 %
+No diagnostic diabetes range
+CBC
+Unremarkable
+No major abnormality reported
+
+SYNTHETIC TEST DOCUMENT — NOT A REAL PATIENT RECORD
+Page 2
+8. Brain Imaging
+MRI Brain: Mild-to-moderate generalized cerebral volume loss with greater prominence in the medial temporal regions
+bilaterally. No acute infarct, hemorrhage, or mass lesion. Mild chronic small-vessel ischemic change.
+Imaging source page: 2
+9. Clinical Impression
+Progressive amnestic cognitive impairment with impairment in instrumental activities of daily living. The clinical pattern and
+cognitive testing are concerning for an Alzheimer-type neurocognitive disorder. Specialist correlation and biomarkers may
+be considered where clinically appropriate.
+10. Assessment Summary
+Domain
+Finding
+Memory
+Prominent recent-memory impairment and impaired delayed recall
+Executive function
+Reduced attention, organization and serial calculation
+Language
+Mild word-finding difficulty
+Motor
+No prominent parkinsonian signs
+Imaging
+Medial temporal-predominant atrophy; mild small-vessel disease
+Function
+Basic ADLs preserved; assistance needed for selected IADLs
+11. Plan / Recommendations
+Continue neurological follow-up. Review medication adherence and safety. Consider formal neuropsychological follow-up
+and biomarker testing if clinically indicated. Discuss cognitive-support strategies and caregiver involvement.
+12. Information Not Available
+Amyloid PET: not available. CSF amyloid/tau biomarkers: not available. APOE genotype: not available. ADAS subtest-level
+scores: not available.
+Testing expectation: disease_context = alzheimers. The report intentionally contains ADNI-compatible fields; the system must use only values
+actually present.
+
+
+=== Sample_pdf\HealthSenseAI_Synthetic_Parkinsons_Clinical_Report.pdf (2 pages) ===
+SYNTHETIC TEST DOCUMENT — NOT A REAL PATIENT RECORD
+Page 1
+NEUROLOGY OUTPATIENT CLINICAL REPORT
+Movement Disorders Evaluation
+Patient ID
+HS-PD-TEST-001
+Visit Date
+22 Aug 2026
+Age
+64 years
+Sex
+Male
+Education
+14 years
+Referral
+Progressive tremor and slowness
+Document status: Synthetic clinical-style document created only for HealthSense AI testing. It does not describe a real person.
+1. Chief Complaint
+Left-hand resting tremor, slowness of movement, stiffness, and reduced walking speed for approximately 18 months.
+2. History of Present Illness
+The patient reports gradual onset of a left upper-limb resting tremor approximately 18 months ago. Over the subsequent
+year he developed increasing slowness when dressing, writing, and turning in bed. Family noticed reduced facial expression
+and softer speech. He reports occasional constipation and reduced sense of smell. No major head injury or stroke is
+reported.
+3. Medical History
+Hypertension and gastroesophageal reflux disease. No known prior neurological disorder.
+4. Current Medications
+Medication
+Dose / Schedule
+Indication
+Carbidopa/Levodopa
+25/100 mg, one tablet three times daily Motor symptoms
+Losartan
+50 mg once daily
+Hypertension
+Pantoprazole
+40 mg once daily
+GERD
+5. Neurological Examination
+Alert and oriented to person, place and time. Mild hypomimia and hypophonia. Resting tremor of the left hand, reduced with
+voluntary movement. Bradykinesia with left-sided predominance. Increased rigidity at the left wrist and elbow. Mildly
+reduced left arm swing. Mild shuffling gait but independent. No dyskinesia observed.
+6. Movement Disorder Scores
+Assessment
+Result
+Comment
+UPDRS Part III
+32 / 132
+Motor impairment, left greater than right
+Hoehn & Yahr
+2
+Bilateral involvement without postural instability
+MoCA
+27 / 30
+Mild recall/attention error; no major cognitive impairment
+7. Levodopa Response
+At a supervised follow-up assessment, motor performance improved following levodopa administration. The patient reports
+improved stiffness and movement speed after medication. No clinically significant dyskinesia was observed at the current
+dose.
+8. Laboratory Results
+Test
+Result
+Comment
+CBC
+Unremarkable
+No major abnormality reported
+Electrolytes
+Within expected range
+No significant abnormality
+TSH
+1.9 mIU/L
+Within expected range
+Vitamin B12
+522 pg/mL
+Within expected range
+
+SYNTHETIC TEST DOCUMENT — NOT A REAL PATIENT RECORD
+Page 2
+9. Brain Imaging
+MRI Brain: Mild generalized age-related volume loss and mild chronic microvascular white-matter change. No acute infarct,
+mass, or hemorrhage.
+DaT-SPECT: Reduced striatal dopamine-transporter uptake, greater on the left, consistent with presynaptic dopaminergic
+deficit.
+Imaging source page: 2
+10. Clinical Impression
+The presentation is consistent with a parkinsonian syndrome characterized by asymmetric resting tremor, bradykinesia,
+rigidity and reduced arm swing. The gradual course, asymmetric findings and reported levodopa response support a clinical
+impression of idiopathic Parkinson's disease. Final diagnosis and treatment decisions require specialist assessment.
+11. Assessment Summary
+Domain
+Finding
+Resting tremor
+Present, predominantly left upper limb
+Bradykinesia
+Present, left greater than right
+Rigidity
+Present, left upper limb
+Gait / posture
+Mild shuffling gait and reduced left arm swing; independent
+UPDRS
+Part III = 32 / 132
+Hoehn & Yahr
+Stage 2
+Cognition
+MoCA 27 / 30
+Imaging
+Reduced striatal dopamine-transporter uptake on DaT-SPECT
+12. Plan / Recommendations
+Continue movement-disorders follow-up. Review levodopa response and adverse effects. Encourage individualized physical
+activity and physiotherapy assessment. Monitor gait, falls, swallowing, cognition, mood, sleep and medication response.
+13. Information Not Available
+Formal UPDRS Part II score: not available. Detailed non-motor symptom scale: not available. Genetic testing: not
+performed.
+Testing expectation: disease_context = parkinsons. ADNI analysis should be skipped for this report.
+
+
+=== Sample_pdf\parkinson.pdf (8 pages) ===
+Review began 07/04/2025 
+Review ended 07/13/2025 
+Published 07/17/2025
+© Copyright 2025
+Balcerzak et al. This is an open access
+article distributed under the terms of the
+Creative Commons Attribution License CC-
+BY 4.0., which permits unrestricted use,
+distribution, and reproduction in any
+medium, provided the original author and
+source are credited.
+DOI: 10.7759/cureus.88177
+Drug-Induced Parkinsonism or Parkinson’s
+Disease: A Diagnostic Challenge in a Psychiatric
+Patient
+Wiktoria Balcerzak , Agnieszka Gorzkowska , Marta Konieczna , Anna Blach  , Anetta Lasek-Bal 
+1. Department of Neurology, Upper-Silesian Medical Center, Medical University of Silesia, Katowice, POL 2.
+Department of Neurology, School of Health Sciences, Medical University of Silesia, Katowice, POL 3. Department of
+Cardiology and Structural Heart Diseases, Medical University of Silesia, Katowice, POL 4. Department of Nuclear
+Medicine, Voxel Diagnostic Center, Katowice, POL
+Corresponding author: Wiktoria Balcerzak, balcerzak.wiktoria97@gmail.com
+Abstract
+Drug-induced parkinsonism (DIP) is the second most common cause of parkinsonian syndromes after
+idiopathic Parkinson’s disease (iPD), accounting for approximately 15-25% of cases in older adults. While
+DIP typically results from antipsychotic-induced dopamine receptor blockade and is often reversible, iPD is
+a progressive neurodegenerative disorder characterized by asymmetrical onset, resting tremor, and good
+response to levodopa. Distinguishing between these conditions is clinically important but often challenging.
+The aim of this article is to discuss the diagnostic and therapeutic challenges involved in differentiating DIP
+from iPD in patients with psychiatric disorders who are chronically treated with antipsychotics. Based on the
+case of a 52-year-old man with a long-standing history of schizophrenia treatment, the diagnostic process
+and clinical manifestations leading to the final diagnosis are presented. The patient developed Parkinsonian
+symptoms during olanzapine therapy, initially suggesting DIP. This paper discusses the clinical indicators
+differentiating DIP from iPD, as well as the critical role of single photon emission computed tomography
+(SPECT) with ioflupane-123 (DaTSCAN) in the differential diagnosis of Parkinsonism in selected, ambiguous
+cases. The described case illustrates the phenomenon of so-called "unmasked Parkinson’s disease" and
+highlights the need for detailed neurological monitoring in patients suspected of having DIP. It is essential
+to consider iPD as an independent cause of movement disorders in patients treated with antipsychotics.
+Early diagnosis and appropriate treatment of the underlying cause of Parkinsonism can significantly reduce
+extrapyramidal symptoms and improve the patient’s quality of life.
+Categories: Neurology, Psychiatry, Nuclear Medicine
+Keywords: datscan, drug-induced parkinsonism, neuroleptics, parkinson' s disease, schizophrenia
+Introduction
+Drug-induced parkinsonism (DIP) is the second most common cause of parkinsonian syndromes in the
+elderly, after idiopathic Parkinson’s disease (iPD). DIP accounts for approximately 15-25% of all
+Parkinsonism cases in older adults. It most frequently develops in patients receiving treatment with
+dopamine D2 receptor antagonists, particularly antipsychotics (e.g., first-generation agents such as
+haloperidol and chlorpromazine and second-generation agents such as risperidone and olanzapine). By
+contrast, idiopathic Parkinson’s disease has a prevalence of approximately 1-2% in individuals over 60 years
+of age and an incidence of about 10-18 per 100,000 person-years [1,2]. Elderly individuals, women, and those
+using high-potency first-generation antipsychotics are especially at risk [1].
+DIP symptoms typically emerge within a few weeks of initiating pharmacotherapy or increasing the
+medication dose. In most cases, symptoms resolve after discontinuation of the causative agent. However, in
+some patients, Parkinsonian symptoms persist despite stopping or reducing the antipsychotics. In such
+cases, it may sometimes be interpreted as the manifestation of previously undiagnosed, subclinical iPD
+unmasked by the drug [2].
+Idiopathic Parkinson’s disease is a progressive neurodegenerative disorder characterized by asymmetric
+bradykinesia, rigidity, resting tremor, and postural instability. Unlike DIP, iPD often begins insidiously, with
+motor symptoms developing slowly over the years, and is frequently accompanied by non-motor prodromal
+features such as hyposmia, rapid eye movement (REM) sleep behavior disorder, depression, and autonomic
+dysfunction.
+A key differentiating factor between DIP and iPD is presynaptic dopaminergic integrity, which can be
+evaluated using dopamine transporter SPECT imaging (DaTSCAN). In DIP, DaTSCAN typically shows normal
+striatal uptake, indicating preserved nigrostriatal neurons. In contrast, iPD shows reduced and often
+asymmetric tracer uptake, reflecting underlying neurodegeneration.
+1
+2
+1
+3, 4
+2
+ 
+Open Access Case Report
+How to cite this article
+Balcerzak W, Gorzkowska A, Konieczna M, et al. (July 17, 2025) Drug-Induced Parkinsonism or Parkinson’s Disease: A Diagnostic Challenge in a
+Psychiatric Patient. Cureus 17(7): e88177. DOI 10.7759/cureus.88177
+
+Cohort studies indicate that individuals diagnosed with DIP have a significantly increased risk of developing
+iPD in the future, suggesting that DIP may represent one of the potential prodromal presentations of PD [3].
+Consequently, patients with DIP should remain under long-term neurological observation, even after the
+resolution of initial symptoms, with particular attention paid to early signs of developing iPD. Additionally,
+clinicians should consider not only the current clinical presentation but also each patient’s individual risk
+factors and the potential for future development of full-blown iPD.
+The diagnostic distinction between DIP and iPD is particularly important in patients with chronic psychotic
+disorders because dopaminergic treatment of Parkinsonism risks exacerbating psychosis. Accurate diagnosis
+guides appropriate therapy and helps balance motor symptom control with psychiatric stability. Initiating
+dopaminergic therapy in patients with chronic psychotic disorders is inherently risky due to the potential
+exacerbation of psychosis, requiring close psychiatric monitoring and interdisciplinary management.
+This article presents the case of a patient who developed Parkinsonian symptoms during long-term
+psychiatric treatment. The case required an in-depth diagnostic evaluation to differentiate iPD from DIP and
+to initiate appropriate symptomatic therapy.
+Case Presentation
+A 52-year-old male patient with a 25-year history of treatment for schizophrenia was admitted to the
+Neurology Department for a planned short diagnostic hospitalization lasting three days. He was referred by
+his treating psychiatrist due to progressive muscle rigidity, predominantly in the lower limbs (more
+pronounced on the left side), bradykinesia, and worsening balance, with increasingly frequent falls over the
+past four years. The patient's psychiatric history included chronic schizophrenia with longstanding
+symptoms such as persecutory delusions and occasional auditory hallucinations, which had remained stable
+for many years on the current medication regimen. He reported that symptoms were most severe in the
+morning, with partial improvement as the day progressed. Importantly, he did not report any prodromal
+non-motor symptoms of Parkinson’s disease, such as a diminished sense of smell, constipation, dream-
+enactment behaviors during sleep (REM sleep behavior disorder), or other autonomic disturbances, prior to
+the onset of his movement problems. There was no known history of substance abuse, head trauma, or
+relevant family history of movement disorders. No additional social or occupational history was documented
+as directly relevant to the differential diagnosis.
+Over the last 10 years, the patient had been taking a second-generation antipsychotic, olanzapine, at 10 mg
+once daily, along with mianserin 60 mg once daily (no reliable information was available regarding earlier
+antipsychotic treatments or doses). Due to progressive complaints of left-sided limb rigidity, bradykinesia,
+balance difficulties, and increasingly frequent falls, the patient had been started on oral levodopa
+treatment, a dopamine agonist, and biperiden six months ago. These symptoms progressively impacted his
+daily activities and increased his dependence on others for mobility and self-care. At the time of admission,
+the daily doses of the medications were as follows: levodopa 600 mg in three doses, ropinirole 8 mg once a
+day, and biperiden 4 mg once a day (levodopa equivalent daily dose, LEDD: 960 mg). The patient’s
+psychiatric regimen (olanzapine and mianserin) had remained unchanged. Notably, his mental state
+remained stable throughout the introduction of dopaminergic therapy (based on clinical assessment, as no
+standardized psychiatric rating scales were available), and he had experienced partial improvement in his
+Parkinsonian motor symptoms with this treatment.
+Neurological examination revealed the following: the patient was alert and oriented to person, place, and
+time but psychomotorically slowed, with hypomimia, dysarthric speech, axial rigidity, peripheral left-sided
+facial nerve paresis, increased extrapyramidal muscle tone in all four limbs, bradykinesia with left-sided
+predominance, resting and postural tremor in the left upper limb, propulsion and lateropulsion with a
+tendency to fall to the left, and a parkinsonian gait with a stooped posture and reduced arm swing. A
+levodopa challenge test (LCT) was performed following a standard protocol. The patient was kept in an
+overnight OFF state (withdrawal of dopaminergic medication for at least 12 hours) before the test. Baseline
+motor assessment was conducted using the UPDRS part III, with an OFF score of 52 points. The patient then
+received 200 mg of soluble levodopa, and motor symptoms were reassessed 60 minutes post-dose, improving
+to 37 points, indicating a 30% improvement. As this met the standard threshold for a positive response,
+repeat testing was not pursued. Mental status was clinically assessed and found to be stable, without signs of
+acute psychosis or mood disorder, though no formal psychometric scales were applied. Laboratory
+investigations, including routine hematology and biochemistry panels, were unremarkable. Vital signs were
+stable throughout admission with no significant abnormalities. A consultation with a speech therapist
+revealed hypokinetic dysarthria, with no evidence of dysphagia.
+Brain MRI showed two minor findings: vascular-degenerative changes and an arachnoid granulation in the
+right transverse sinus, measuring approximately 12 × 9 mm.
+It is important to note that treatment strategies for DIP and iPD differ fundamentally, especially in the
+context of a comorbid psychiatric condition. [2] Patients with schizophrenia who are treated with
+dopaminergic replacement therapy are at risk for exacerbation of psychiatric symptoms. Therefore, it was
+decided to extend the diagnostic workup with a DaTSCAN before increasing the levodopa dose. The
+ 
+2025 Balcerzak et al. Cureus 17(7): e88177. DOI 10.7759/cureus.88177
+2 of 8
+
+DaTSCAN results were abnormal, showing bilateral reduced dopamine transporter activity with right-sided
+predominance (Figure 1). Based on these findings, a diagnosis of idiopathic Parkinson’s disease was
+established.
+FIGURE 1: A. A 52-year-old patient’s DaTSCAN SPECT image showing
+significantly reduced, asymmetric uptake of 123I-ioflupane in the
+striatum. Lack of tracer accumulation bilaterally in the putamen and
+asymmetry of tracer uptake in the caudate nuclei with significantly
+lower activity on the right side. Abnormal increased tracer accumulation
+in the background. B. Normal DaTSCAN SPECT reference image
+showing normal uptake in the striatum and background.
+DaTSCAN: Dopamine transporter scan; SPECT: Single photon emission computed tomography
+The attached images are fully diagnostic images of this type of examination. The single photon emission
+computed tomography (SPECT) method is characterized by significantly lower resolution than other imaging
+methods, such as CT or MRI, and the scans obtained have a ‘blurred’ component. A sharper image would require
+digital processing, which would not be consistent with the nature of this examination.
+Following the confirmation of iPD, the patient’s antiparkinsonian regimen was adjusted. The levodopa daily
+dose was gradually increased to 1000mg in four divided doses (250mg each), while the ropinirole dose was
+reduced from 8mg once daily to 4mg once daily as part of the withdrawal plan, with further tapering planned
+to minimize potential neuropsychiatric side effects.
+At the six-month follow-up visit, conducted as a planned single-day diagnostic admission, the patient’s
+antiparkinsonian regimen included levodopa 1000 mg daily in four divided doses (250 mg each) and
+biperiden 4 mg once daily. Ropinirole, which had been gradually tapered in the preceding months, was fully
+discontinued at this visit. Antipsychotic treatment was continued without change (olanzapine 10 mg/day
+and mianserin 60 mg/day). The patient showed sustained improvement in bradykinesia and rigidity, no
+longer experienced falls, and reported better overall mobility and independence in daily activities. His
+mental state remained stable without psychotic exacerbation. The patient’s quality of life improved notably
+owing to symptom control and diagnostic clarity. No new therapies were initiated at this time, and
+continued neurological and psychiatric follow-up was recommended. This case also involved
+interdisciplinary collaboration between neurology and psychiatry. Treatment planning and diagnostic
+evaluation were coordinated with the patient’s treating psychiatrist to balance motor symptom management
+with psychiatric stability.
+Discussion
+Differentiating between DIP and iPD is a diagnostic challenge that requires a thorough analysis of the
+clinical picture, along with additional testing. Important features include timing of onset, symmetry of
+motor signs, resting tremors, response to medication changes or withdrawal, levodopa responsiveness, and
+imaging such as DaTSCAN. 
+Key clinical features that help differentiate DIP from iPD include: 1) Timing: DIP develops within weeks of
+starting or increasing antipsychotic dose; iPD has an insidious, gradual onset. 2) Symmetry: DIP is usually
+bilateral and symmetric; iPD often starts asymmetrically. 3) Resting tremor: Rare or mild in DIP; common
+and unilateral at onset in iPD. 4) Response to drug withdrawal: DIP often improves or resolves after reducing
+ 
+2025 Balcerzak et al. Cureus 17(7): e88177. DOI 10.7759/cureus.88177
+3 of 8
+
+or stopping antipsychotics; iPD does not remit spontaneously. 5) Levodopa responsiveness: Typically poor
+in DIP; robust improvement in iPD. 6) DaTSCAN: Dopamine transporter SPECT imaging is generally normal
+in DIP (indicating preserved presynaptic dopaminergic neurons), while in iPD it is abnormal, showing
+reduced striatal uptake (often with an asymmetric pattern corresponding to the more affected side).
+A structured comparison of these key features is provided in Table 1 [4-6].
+Criterion
+DIP
+iPD
+Association
+with
+medication
+Clear temporal relationship with exposure to dopamine-
+blocking agents (e.g., antipsychotics). Symptoms
+typically develop within weeks to months of starting or
+increasing dose.
+No association with medication use. Onset is insidious and
+spontaneous, with no identifiable pharmacologic trigger.
+Symmetry
+of
+symptoms
+Usually bilateral or only mildly asymmetric.
+Typically asymmetric, often starting on one side of the body.
+Rest
+tremor
+Rare or mild if present; often symmetric.
+Common, prominent, usually unilateral at onset.
+Non-motor
+symptoms
+Typically, absent. Lacks prodromal features such as
+hyposmia, REM sleep behavior disorder, or autonomic
+dysfunction.
+Frequently present, including hyposmia, REM sleep behavior
+disorder, constipation, depression, and other autonomic
+symptoms.
+Course
+after drug
+withdrawal
+Symptoms often improve or resolve within weeks to
+months after reducing or stopping the offending
+medication (though ~20% may have persistent
+symptoms).
+Chronic, progressive course independent of any drug withdrawal.
+Symptoms do not remit spontaneously.
+Response
+to
+levodopa
+Typically, minimal or absent.
+Usually robust improvement (>30% in levodopa challenge test).
+DaTSCAN
+imaging
+Normal dopamine transporter uptake (preserved
+presynaptic function).
+Abnormal, showing reduced and often asymmetric striatal uptake.
+Additional
+features
+May coexist with other drug-induced movement
+disorders (e.g., akathisia, dystonia, tardive dyskinesia).
+Classic parkinsonian features without medication-induced
+movement disorders (though levodopa-induced dyskinesias may
+develop over time).
+Diagnostic
+criteria
+Presence of parkinsonism (bradykinesia plus tremor
+and/or rigidity); clear temporal relationship to dopamine-
+blocking medication; no prior parkinsonian signs;
+improvement with drug reduction or withdrawal (if
+possible); exclusion of other causes.
+Parkinsonism (bradykinesia plus tremor and/or rigidity); exclusion
+of alternative causes (including DIP); supportive criteria: unilateral
+onset, progressive course, clear levodopa response, levodopa-
+induced dyskinesias, resting tremor; no absolute exclusion criteria
+(e.g., normal DaTSCAN).
+TABLE 1: Diagnostic criteria and key differentiating features of drug-induced parkinsonism
+versus idiopathic Parkinson’s disease.
+iPD: Idiopathic Parkinson’s disease; DIP: Drug-induced parkinsonism; DaTSCAN: Dopamine transporter scan.
+Adapted from [4-6]
+Additionally, it is important to consider the formal diagnostic criteria. DIP is defined by Parkinsonism with a
+clear temporal relationship to dopamine-blocking medication use, no prior Parkinsonian signs, and
+improvement after drug reduction or withdrawal. By contrast, iPD is diagnosed by Parkinsonism without a
+secondary cause, often with asymmetric onset, a progressive course, and a clear, sustained response to
+levodopa therapy.
+DIP most commonly presents with a symmetrical distribution of motor symptoms, typically affecting the
+upper limbs. In contrast, motor symptoms in iPD patients, especially in the early stages, are often clearly
+asymmetrical, which is a significant differentiating feature. Resting tremors, a hallmark of iPD, are less
+common and usually milder in DIP. The clinical picture of DIP is predominantly characterized by muscle
+rigidity, bradykinesia, and various extrapyramidal signs, including dystonia, dyskinesia, and akathisia.
+Changes in speech articulation are also frequently observed [7,8].
+ 
+2025 Balcerzak et al. Cureus 17(7): e88177. DOI 10.7759/cureus.88177
+4 of 8
+
+In contrast, resting tremors play a significant diagnostic role in iPD. The clinical course of iPD is
+characterized by gradual progression and the presence of non-motor symptoms such as olfactory
+disturbances, depressive symptoms, REM sleep behavior disorder, and signs of autonomic dysfunction, all of
+which may suggest a neurodegenerative etiology [8].
+In our patient, the clinical picture alone was equivocal. He presented with bilateral Parkinsonian signs, but
+there was notable asymmetry (left-sided predominance of bradykinesia, rigidity, and tremor) and the
+presence of a resting tremor, features more suggestive of iPD. On the other hand, he lacked some features
+often associated with idiopathic PD (such as any non-motor symptoms or a strictly unilateral onset), and his
+parkinsonism developed in the context of ongoing antipsychotic therapy, which initially pointed toward DIP.
+These mixed clinical features were not sufficient to definitively differentiate between DIP and iPD based on
+history and examination alone.
+Several findings in this case ultimately pointed toward a diagnosis of idiopathic Parkinson’s disease rather
+than drug-induced Parkinsonism: 1) Gradual progression of symptoms over four years, without any recent
+change in antipsychotic dose. 2) Asymmetry of motor signs, with left-sided bradykinesia, rigidity, and
+resting tremor. 3) Partial but significant response to levodopa (30% improvement on challenge test). 4)
+Abnormal DaTSCAN with asymmetric reduced striatal uptake, confirming presynaptic dopaminergic neuron
+loss.
+The temporal relationship and response to treatment modification are significant factors in differentiating
+between DIP and iPD. DIP typically develops within a short timeframe, usually a few days to several weeks,
+after the initiation or dose increase of an antipsychotic. In most cases, symptoms resolve after
+discontinuation of the drug, supporting a direct causal link (approximately two-thirds of patients recover
+within seven weeks, though some may take up to 18 months) [2]. In contrast, iPD follows a chronic,
+progressive course that is independent of pharmacotherapy [9].
+Another key differentiating factor is the clinical response to levodopa treatment. In iPD, a notable
+improvement in motor function is typically observed, while in DIP, the effect is generally minimal or absent.
+Due to the risk of exacerbating psychotic symptoms, LCT should be performed cautiously and only in
+carefully selected patients [2]. In this case, withdrawal of the antipsychotic was not possible due to the
+patient's psychiatric condition. Additionally, while quetiapine can cause extrapyramidal symptoms, it carries
+a significantly lower risk compared to typical antipsychotics [2]. The result of the LCT (<50% improvement)
+was inconclusive, and as such, the assessment of Parkinsonian symptoms in response to pharmacotherapy
+did not further support the diagnostic process.
+A particularly valuable diagnostic tool in this context is DaTSCAN. In DIP, striatal tracer uptake is typically
+normal, indicating preserved presynaptic neuronal function. In iPD, a significant reduction in signal is
+observed, reflecting the neurodegenerative nature of the disease. However, it is important to note that some
+DIP patients may initially show normal DaTSCAN results, which may later evolve to reveal reduced uptake,
+suggesting a subclinical form of iPD [10]. In other words, an initially normal scan in a patient with presumed
+DIP doesn’t completely rule out the possibility of underlying neurodegeneration; it may simply mean the
+disease process has not advanced enough to be detected at that time. In the presented case, DaTSCAN was
+the decisive test. Obtaining a DaTSCAN is especially useful in challenging cases like this one, where clinical
+features are mixed or confounded by medication effects. In fact, one of the primary indications for DaTSCAN
+imaging is to help differentiate DIP from iPD when the diagnosis is uncertain. That said, DaTSCAN should be
+used judiciously, reserved for scenarios in which the diagnosis remains unclear after thorough clinical
+evaluation, given its cost and limited availability [10].
+In clinical practice, careful analysis of the patient’s history, symptom distribution, onset dynamics, and the
+presence of non-motor signs may not always enable an accurate distinction between DIP and iPD. In such
+cases, dopamine system imaging should be employed to guide appropriate diagnostic and therapeutic
+management. The authors would like to emphasize that it is critical to consider less obvious causes of
+movement disorders in these patients, as this can initiate the diagnostic process.
+Additionally, in real-world clinical settings, neurologists should not only consider the current clinical
+presentation and the results of ancillary tests but also take into account individual risk factors and the
+potential for future development of full-blown iPD. For this reason, the use of prodromal Parkinson’s
+disease criteria, as proposed by the Movement Disorder Society (MDS), is recommended to assess the risk of
+idiopathic disease emergence in patients diagnosed with DIP. These research criteria aim to estimate the
+probability that an individual is in the early neurodegenerative stage before classic motor symptoms fully
+develop. They incorporate multiple risk and prodromal markers, including non-motor features (such as REM
+sleep behavior disorder, hyposmia, constipation, and depression), subtle motor signs, abnormal DaTSCAN
+findings, and risk factors like family history or environmental exposures (e.g., pesticides). This probabilistic
+approach supports early recognition and monitoring in high-risk individuals [4].
+From a therapeutic perspective, this case underscores the substantial challenge of managing Parkinsonian
+symptoms in a patient with a chronic psychotic disorder. The pharmacological treatments for iPD and for
+ 
+2025 Balcerzak et al. Cureus 17(7): e88177. DOI 10.7759/cureus.88177
+5 of 8
+
+schizophrenia have opposite effects on the dopamine system: treating Parkinson’s disease requires
+enhancing dopaminergic activity (e.g., with levodopa or dopamine agonists), whereas treating schizophrenia
+requires suppressing dopaminergic activity (e.g., with D2-receptor-blocking antipsychotics). This
+fundamental conflict means that attempts to improve Parkinsonian symptoms with dopaminergic drugs can
+potentially destabilize the patient’s psychiatric condition, while reducing or discontinuing antipsychotic
+medication to alleviate Parkinsonism can risk a psychotic relapse. Effective management, therefore,
+demands a delicate balance and close collaboration between neurologists and psychiatrists. Formal
+psychiatric rating scales were not performed in this case, but the patient’s mental state remained stable
+throughout dopaminergic therapy. One limitation in our management approach was the lack of formal
+psychiatric rating scale assessments (such as the Positive and Negative Syndrome Scale [PANSS] or Brief
+Psychiatric Rating Scale [BPRS]) to quantitatively monitor the patient’s psychotic symptoms over the course
+of treatment.
+In patients where diagnostic findings support a diagnosis of iPD, management should follow standard PD
+treatment protocols. Treatment must address both the motor symptoms of iPD and any coexisting
+psychiatric disorders. The cornerstone of iPD treatment is dopaminergic therapy, most commonly levodopa
+combined with a decarboxylase inhibitor, such as levodopa/benserazide or levodopa/carbidopa. Treatment
+should begin with the lowest effective dose, gradually increasing based on the patient's clinical
+response [11].
+In patients diagnosed with schizophrenia or other psychotic disorders, dosing should be particularly
+cautious. Treatment should start at low doses and be increased slowly to minimize the risk of triggering or
+exacerbating psychotic symptoms [12,13]. Close psychiatric monitoring is essential to detect any early signs
+of psychosis exacerbation during dopaminergic therapy. Alternative dopaminergic options, such as
+dopamine agonists (DAs), including ropinirole, pramipexole, and rotigotine, are often used, but their adverse
+effects profile limits their use in patients with psychiatric comorbidities [14,15]. Studies have shown that
+amantadine is associated with an increased risk of psychotic symptoms, such as hallucinations and
+delusions, and therefore is not recommended for patients with iPD and a history of psychiatric illness [16].
+In the case of the diagnosed patient, levodopa was initiated following suspicion of iPD, and the dose was
+gradually increased. Ropinirole was initially introduced, but, recognizing its higher propensity to induce
+hallucinations and other neuropsychiatric side effects, it was carefully reduced and eventually withdrawn to
+mitigate the risk of psychiatric complications. Biperiden, while helpful in alleviating both DIP and iPD
+symptoms, should be used cautiously in patients with psychiatric symptoms, as in this case, because
+anticholinergic agents can cause central nervous system side effects such as confusion, hallucinations, and
+cognitive impairment that may exacerbate psychiatric conditions [11].
+For patients with a history of psychotic episodes, dopaminergic therapy should be combined with atypical
+antipsychotics that have low D2 receptor blockade potential, primarily quetiapine or clozapine. Clozapine,
+despite requiring regular blood count monitoring due to the risk of agranulocytosis, is considered the most
+effective antipsychotic for treating psychosis in PD patients, as it has minimal impact on motor symptoms. If
+our patient had shown signs of worsening psychosis, switching to clozapine with appropriate hematological
+monitoring would have been a preferred option. Quetiapine, on the other hand, tends to be better tolerated
+but has limited efficacy in managing psychotic symptoms [2,13,17]. In the case of our patient, who was
+treated with olanzapine, we recommend continuing this therapeutic option, given its benefits in managing
+psychiatric symptoms.
+The primary therapeutic strategy for managing DIP is modifying the existing pharmacotherapy, particularly
+the antipsychotic medications. In collaboration with the treating psychiatrist, efforts should be made to
+reduce the dose of the causative drug or, if possible, discontinue it altogether. This should lead to gradual
+clinical remission of the Parkinsonian symptoms [18]. However, it is important to note that for medications
+with long half-lives, improvement may be delayed and can take several months. Furthermore, it is estimated
+that in approximately 20% of patients, Parkinsonian symptoms persist despite drug withdrawal or may even
+worsen over time [2].
+The treatment of iPD should be comprehensive, encompassing both pharmacological and non-
+pharmacological interventions to improve the quality of life for patients and their caregivers. Key elements
+of this approach include physical rehabilitation, occupational therapy, psychological support, and education
+for both the patient and their caregivers. These multidisciplinary interventions not only address motor and
+non-motor symptoms but also help maintain patient independence, reduce caregiver burden, and improve
+overall quality of life, underscoring the need for integrated, patient-centered care models.
+Conclusions
+This case underscores the diagnostic and therapeutic challenges associated with Parkinsonian syndromes in
+patients receiving long-term antipsychotic treatment. While DIP often resolves after withdrawal of the
+causative agent, symptoms may persist or progress, raising suspicion of iPD unmasked by antipsychotic use.
+Accurate diagnosis requires a comprehensive assessment of the clinical course, including evaluation for
+non-motor symptoms when present, response to levodopa therapy, and, when clinical features remain
+ 
+2025 Balcerzak et al. Cureus 17(7): e88177. DOI 10.7759/cureus.88177
+6 of 8
+
+ambiguous, dopamine transporter SPECT imaging, which can provide objective evidence in selected cases
+and help support diagnostic confidence. Patients with DIP also remain at increased risk of developing iPD,
+underscoring the need for long-term neurological follow-up even after apparent symptom resolution.
+When iPD is confirmed, treatment should follow established guidelines with careful adjustments for the
+psychiatric context, including close psychiatric monitoring, ideally with formal rating scales when feasible,
+to minimize the risk of exacerbating psychosis. This emphasizes close interdisciplinary collaboration
+between neurology and psychiatry to balance dopaminergic therapy and psychiatric stability. Early
+implementation of appropriate treatment can significantly improve motor function and quality of life.
+Looking ahead, interdisciplinary management involving neurologists, psychiatrists, and rehabilitation
+specialists should become the standard of care to enable early diagnosis, personalized treatment based on
+individual risk profiles, and ultimately, better patient outcomes.
+Additional Information
+Author Contributions
+All authors have reviewed the final version to be published and agreed to be accountable for all aspects of the
+work.
+Concept and design:  Wiktoria Balcerzak, Agnieszka Gorzkowska, Anna Blach, Marta Konieczna, Anetta
+Lasek-Bal
+Acquisition, analysis, or interpretation of data:  Wiktoria Balcerzak, Agnieszka Gorzkowska, Anna Blach,
+Marta Konieczna, Anetta Lasek-Bal
+Drafting of the manuscript:  Wiktoria Balcerzak, Agnieszka Gorzkowska, Anna Blach, Marta Konieczna
+Critical review of the manuscript for important intellectual content:  Wiktoria Balcerzak, Agnieszka
+Gorzkowska, Anna Blach, Marta Konieczna, Anetta Lasek-Bal
+Supervision:  Wiktoria Balcerzak, Agnieszka Gorzkowska, Anetta Lasek-Bal
+Disclosures
+Human subjects: Informed consent for treatment and open access publication was obtained or waived by all
+participants in this study. Conflicts of interest: In compliance with the ICMJE uniform disclosure form, all
+authors declare the following: Payment/services info: All authors have declared that no financial support
+was received from any organization for the submitted work. Financial relationships: All authors have
+declared that they have no financial relationships at present or within the previous three years with any
+organizations that might have an interest in the submitted work. Other relationships: All authors have
+declared that there are no other relationships or activities that could appear to have influenced the
+submitted work.
+Acknowledgements
+The authors thank Barbara Rogoz, MD, PhD.
+References
+1. 
+Wisidagama S, Selladurai A, Wu P, et al.: Recognition and management of antipsychotic-induced
+parkinsonism in older adults: a narrative review. Medicines (Basel). 2021, 8:10.3390/medicines8060024
+2. 
+Feldman M, Marmol S, Margolesky J: Updated perspectives on the management of drug-induced
+parkinsonism (DIP): insights from the clinic. Ther Clin Risk Manag. 2022, 18:1129-42.
+10.2147/TCRM.S360268
+3. 
+Jeong S, Cho H, Kim YJ, et al.: Drug-induced parkinsonism: A strong predictor of idiopathic Parkinson's
+disease. PLoS One. 2021, 16:e0247354. 10.1371/journal.pone.0247354
+4. 
+Postuma RB, Berg D, Stern M, et al.: MDS clinical diagnostic criteria for Parkinson's disease . Mov Disord.
+2015, 30:1591-601. 10.1002/mds.26424
+5. 
+Shin HW, Chung SJ: Drug-induced parkinsonism. J Clin Neurol. 2012, 8:15-21. 10.3988/jcn.2012.8.1.15
+6. 
+Munhoz RP, Tumas V, Pedroso JL, Silveira-Moriyama L: The clinical diagnosis of Parkinson's disease . Arq
+Neuropsiquiatr. 2024, 82:1-10. 10.1055/s-0043-1777775
+7. 
+Frei K, Truong DD, Fahn S, et al.: The nosology of tardive syndromes. J Neurol Sci. 2018, 389:10-6.
+10.1016/j.jns.2018.02.008
+8. 
+Morley JF, Pawlowski SM, Kesari A, et al.: Motor and non-motor features of Parkinson's disease that predict
+persistent drug-induced parkinsonism. Parkinsonism Relat Disord. 2014, 20:738-42.
+10.1016/j.parkreldis.2014.03.024
+9. 
+Sethi KD, Zamrini EY: Asymmetry in clinical features of drug-induced parkinsonism . J Neuropsychiatry Clin
+Neurosci. 1990, 2:64-6. 10.1176/jnp.2.1.64
+10. 
+Olivares Romero J, Arjona Padillo A: Diagnostic accuracy of 123 I-FP-CIT SPECT in diagnosing drug-induced
+parkinsonism: a prospective study. Neurologia. 2013, 28:276-82. 10.1016/j.nrl.2012.05.005
+ 
+2025 Balcerzak et al. Cureus 17(7): e88177. DOI 10.7759/cureus.88177
+7 of 8
+
+11. 
+Fox SH, Katzenschlager R, Lim SY, et al.: International Parkinson and movement disorder society evidence-
+based medicine review: Update on treatments for the motor symptoms of Parkinson's disease. Mov Disord.
+2018, 33:1248-66. 10.1002/mds.27372
+12. 
+Friedberg G, Zoldan J, Weizman A, Melamed E: Parkinson Psychosis Rating Scale: a practical instrument for
+grading psychosis in Parkinson's disease. Clin Neuropharmacol. 1998, 21(5):280-284.
+13. 
+Friedman JH, Factor SA: Atypical antipsychotics in the treatment of drug-induced psychosis in Parkinson's
+disease. Mov Disord. 2000, 15(2):201-211. 10.1002/1531-8257(200003)15:2<201::aid-mds1001>3.0.co;2-d
+14. 
+Garcia-Ruiz PJ, Martinez Castrillo JC, Alonso-Canovas A, et al.: Impulse control disorder in patients with
+Parkinson's disease under dopamine agonist therapy: a multicentre study. J Neurol Neurosurg Psychiatry.
+2014, 85:840-4. 10.1136/jnnp-2013-306787
+15. 
+Soileau LG, Talbot NC, Storey NR, et al.: Impulse control disorders in Parkinson's disease patients treated
+with pramipexole and ropinirole: a systematic review and meta-analysis. Neurol Sci. 2024, 45:1399-408.
+10.1007/s10072-023-07254-1
+16. 
+Rodríguez-Violante M, Velázquez-Osuna S, Cervantes-Arriaga A, et al.: Prevalencia, factores asociados y
+fenomenología de la psicosis en pacientes con enfermedad de Parkinson [Prevalence, associated factors and
+phenomenology of psychosis in patients with Parkinson's disease]. Gac Med Mex. 2015, 151(2):169-175.
+17. 
+Abdul-Rahman T, Herrera-Calderón RE, Aderinto N, et al.: Clearing the fog: a review of antipsychotics for
+Parkinson's-related hallucinations: a focus on pimavanserin, quetiapine and clozapine. J Integr Neurosci.
+2024, 23:80. 10.31083/j.jin2304080
+18. 
+Conn H, Jankovic J: Drug-induced parkinsonism: diagnosis and treatment. Expert Opin Drug Saf. 2024,
+23:1503-13. 10.1080/14740338.2024.2418950
+ 
+2025 Balcerzak et al. Cureus 17(7): e88177. DOI 10.7759/cureus.88177
+8 of 8
+
+
+=== Sample_pdf\parkinson_2.pdf (8 pages) ===
+Case Report
+Comorbid Normal Pressure Hydrocephalus with Parkinsonism:
+A Clinical Challenge and Call for Awareness
+A. Cucca
+,1 M. C. Biagioni
+,1 K. Sharma,1 J. Golomb,2 R. M. Gilbert,1
+A. Di Rocco,1 and J. E. Fleisher3
+1Department of Neurology, The Marlene & Paolo Fresco Institute for Parkinson’s & Movement Disorders,
+New York University School of Medicine, NYU Langone Medical Center, New York, NY, USA
+2Department of Neurosurgery, Adult Hydrocephalus Program, NYU School of Medicine, New York, NY, USA
+3Department of Neurological Sciences, Rush University Medical Center, Chicago, IL, USA
+Correspondence should be addressed to A. Cucca; alberto.cucca@nyumc.org
+Received 11 October 2017; Revised 6 December 2017; Accepted 24 December 2017; Published 21 January 2018
+Academic Editor: Pablo Mir
+Copyright © 2018 A. Cucca et al. This is an open access article distributed under the Creative Commons Attribution License, which
+permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+Idiopathic normal pressure hydrocephalus (iNPH) is the most common cause of hydrocephalus in adults. The diagnosis may be
+challenging, requiring collaborative efforts between different specialists. According to the International Society for Hydrocephalus
+and Cerebrospinal Fluid Disorders, iNPH should be considered in the differential of any unexplained gait failure with insidious
+onset. Recognizing iNPH can be even more difficult in the presence of comorbid neurologic disorders. Among these, idiopathic
+Parkinson’s disease (PD) is one of the major neurologic causes of gait dysfunction in the elderly. Both conditions have their peak
+prevalence between the 6th and the 7th decade. Importantly, postural instability and gait dysfunction are core clinical features
+in both iNPH and PD. Therefore, diagnosing iNPH where diagnostic criteria of PD have been met represents an additional
+clinical challenge. Here, we report a patient with parkinsonism initially consistent with PD who subsequently displayed rapidly
+progressive postural instability and gait dysfunction leading to the diagnosis of concomitant iNPH. In the following sections, we
+will review the clinical features of iNPH, as well as the overlapping and discriminating features when degenerative parkinsonism is
+in the differential diagnosis. Understanding and recognizing the potential for concomitant disease are critical when treating both
+conditions.
+1. Background
+Idiopathic normal pressure hydrocephalus (iNPH) is a neu-
+rological condition clinically characterized by the triad of
+gait dysfunction, cognitive abnormalities, and urinary dis-
+orders [1]. iNPH is morphologically characterized by the
+expansion of the lateral and third cerebral ventricles in the
+absence of macroscopic obstructions to the CSF outflow.
+The pathogenesis of iNPH remains unknown; however CSF
+dynamics show two major abnormalities: a pulsatile increase
+in CSF pressure and an increased outflow resistance. Ven-
+tricular enlargement with near normalization of hydrostatic
+pressure takes place but the pathophysiology involved in
+these phenomena remains highly disputed [2]. Typically,
+iNPH shows an insidious onset without any specific prior
+event detectable on medical history. The progression is
+usually slow, spanning months or years. Gait dysfunction is
+usually the first reported abnormality and is characterized
+by reduced step height during the swing phase, reduced
+stride length and reduced velocity [3–5]. Equilibrium-related
+gait variables are particularly affected, including wide base,
+increased external rotation of the knees, and enlarged foot
+rotation angles [6]. Other frequent features include propul-
+sion or retropulsion, festination, freezing of gait (FoG), and
+hesitancy of gait which may confer a “magnetic” character.
+Kinematic abnormalities of the lower limbs show a bilateral
+and symmetric distribution [7]. Dynamic balance during
+transitional movements, like standing or turning, is severely
+impaired. Cognitive symptoms of iNPH include impaired
+attention, short-term recall, and executive function that
+ultimately evolve into dementia [8]. In a recent observational
+study, up to 46% of patients with NPH were found to
+Hindawi
+Case Reports in Neurological Medicine
+Volume 2018, Article ID 2513474, 8 pages
+https://doi.org/10.1155/2018/2513474
+
+2
+Case Reports in Neurological Medicine
+display depressive symptoms, and apathy is also common
+[9]. Bladder symptoms usually involve detrusor hyperactivity,
+manifesting as increased urinary urgency and frequency [10,
+11]. According to the International Society for Hydrocephalus
+and Cerebrospinal Fluid Disorders guidelines, “probable
+NPH” is defined by the combination of gait dysfunction
+with insidious onset after age 40 without precipitating events,
+lasting at least 3–6 months in the absence of comorbidities
+which could fully explain the symptoms [12]. In clinical
+practice, the latter carries the most controversy. First, the age
+of these patients, usually between the 6th and the 7th decade
+of life, is associated with a high risk of comorbid factors
+potentially affecting walking, such as peripheral neuropathy,
+arthritis, or degenerative spine disease. Therefore it can be
+difficult to know whether the gait disorder is purely due to
+iNPH. For the same reason, a coexisting neurodegenerative
+condition like idiopathic Parkinson’s disease (PD) or other
+parkinsonism must also be considered. Since each condition
+requires different treatments, recognizing coexisting PD and
+iNPH is essential.
+2. Case Report
+A 79-year-old right-handed female with lumbar spondylosis
+and chronic low back pain presented with a two-year, slowly
+progressive history of mild left hand resting tremor, stooped
+posture, generalized slowness, and fatigue. She reported a
+decline in her balance, though denied falls, and she was
+able to walk independently. She denied urinary symptoms,
+constipation, dysphagia, hypophonia, hyposmia, and symp-
+toms of REM behavioral disorder. She denied cognitive or
+behavioral problems and denied previous exposure to neu-
+roleptics, antiemetics, or head trauma. Her family history was
+noncontributory. Baseline examination revealed a pleasant
+woman with normal mental status who scored a 28/30 on
+the Montreal Cognitive Assessment (MoCA), with points
+missed for delayed recall. She displayed mild hypomimia
+with decreased blink rate. Myerson’s sign was present, with
+no palmomental and no grasp reflex. Vertical saccades were
+slightly hypometric in both directions. There was a near-
+constant, low-frequency chin tremor. Her slow pill-rolling
+tremor of the left hand was unmasked by distraction and
+contralateral activation, and associated cogwheeling was
+appreciated in the ipsilateral wrist. There was slight rigidity
+affecting the left extremities and mild bilateral bradykinesia.
+Chair mobility was normal, and her gait notable for bilaterally
+diminished arm swing, affecting the left more than the right.
+Cadence, stride length, and ground clearance were slightly
+reduced. She had no FoG. She recovered from the pull test in
+4 steps, yielding a UPDRS motor score of 21. The remainder
+of her physical examination was notable for bilateral, sym-
+metrically reduced deep tendon reflexes in the lower limbs
+and a positive Romberg test. Electromyography and nerve
+conduction studies demonstrated a primarily sensory, large
+fiber peripheral neuropathy affecting both legs, with no evi-
+dence of radiculopathy, plexopathy, or myopathy. The patient
+was diagnosed with PD according to the United Kingdom
+Parkinson’s Disease Society Brain Bank (UKPDSBB) criteria.
+She was started on rasagiline 1 mg once a day.
+Six months later, she reported occasional detailed
+visual hallucinations with retained insight and progressive
+decline in her hand dexterity. Her physical examination
+was unchanged. A brain MRI revealed mild prominence
+of the ventricular system and cortical sulci along with
+multiple foci of periventricular, subcortical, and brainstem
+T2/FLAIR hyperintensities, consistent with chronic non-
+specific microvascular changes (Figure 1). Rasagiline was
+discontinued due to a lack of efficacy and the potential contri-
+bution to hallucinations. Carbidopa-levodopa 25–100 mg was
+initiated and gradually titrated up to one full tablet TID. After
+6 months, the patient reported improvements in stiffness,
+general slowness, and tremor. Her UPDRS motor score on
+levodopa improved by 19% and hallucinations completely
+resolved.
+Over the following months, the patient experienced
+progressive gait deterioration with marked unsteadiness,
+particularly during transfers, with frequent falls and severe
+FoG. Near-falls began occurring daily, she was unable to
+walk unassisted when outdoors, and FoG episodes became
+disabling. She also reported increased urinary frequency,
+occasional urinary incontinence, mild forgetfulness affecting
+her short-term memory, and difficulties with word retrieval.
+Her mood significantly deteriorated, with increased apa-
+thy and pervasive sadness. On examination, her MoCA
+decreased to 22/30, with abnormal verbal recall, visuospatial
+function, executive function, and mental calculation. Her
+examination was notable for severe gait failure, with markedly
+decreased stride length and cadence, en bloc turns, freezing,
+and absent postural reflexes. Her gait failure was notably
+out of proportion to her otherwise stable appendicular signs.
+Carbidopa-levodopa was increased up to 1.5 tablets TID
+without benefit.
+In considering the possibility of iNPH, we ordered a
+repeat brain MRI (Figure 1). The ventricular size was further
+increased and ventriculomegaly was out of proportion to
+sulcal enlargement. Confluent areas of T2 hyperintensity
+were detected in the periventricular white matter. On sagittal
+sections, a strong flow void was noted at the cerebral aqueduct
+(Figure 2). The patient underwent a large volume lumbar
+puncture (LP) with pre- and post-LP testing. Approximately
+40 cc of clear CSF was withdrawn. Standard CSF analysis
+was unremarkable. Observation of gait after LP revealed
+improved velocity and uniformity of cadence relative to
+pre-LP baseline. There was a distinct improvement in the
+patient’s ability to make 180∘turns with no evidence of FoG.
+Video gait analysis was performed on a distance of 18 m
+with postprocessing of gait speed and stride length. Both
+parameters significantly improved compared to her pre-LP
+condition (Figure 3). Additionally, her post-LP neuropsycho-
+logical assessment revealed significant improvement in Trail
+Making B (Table 1).
+Given her response to LP, a ventricular-peritoneal (VP)
+shunt was placed without complications. Over the following
+weeks, she experienced a dramatic improvement in balance
+and walking. She was able to walk unassisted for long
+distances. Her functional independence, per the Schwab and
+England Activities of Daily Living scale, improved from
+80% (doing most of daily chores takes twice as long) to
+
+Case Reports in Neurological Medicine
+3
+(a)
+(b)
+A: 62.2mm
+(c)
+A: 68.8 mm
+(d)
+Figure 1: Brain MRI imaging. (a) Baseline coronal MPR sequences. (b) One-year follow-up coronal MPR sequences: periventricular white
+matter hypointensity (red arrows). Slight narrowing of cortical gyri on the vertex with enlarged Sylvian fissure. (c) Baseline Axial T2-weighted
+sequences. (d) One-year follow-up axial T2-weighted sequences: increased periventricular white matter hyperintensity (red arrows).
+
+4
+Case Reports in Neurological Medicine
+Table 1: Functional independence, neuropsychological assessment, and freezing of gait.
+Pre-LP
+Post-LP
+Postshunt
+6 months after shunt
+Schwab and England ADL
+80%, completely
+independent in most
+chores; takes twice as long
+80%,completely
+independent in most
+chores; takes twice as long
+100%, completely
+independent; able to do
+all chores without
+slowness, difficulty, or
+impairment
+100%, completely
+independent; able to do
+all chores without
+slowness, difficulty, or
+impairment
+MoCA
+22
+25
+26
+Trail Making A
+52.0 sec
+36.4 sec
+29.1 sec
+39.1 sec
+Trail Making B
+93.3 sec
+95.8 sec
+71.8 sec
+69.7 sec
+UPDRS part II FoG
+2 (occasional freezing when
+walking)
+0 (none)
+0 (none)
+Figure 2: One-year follow-up brain MRI, sagittal T2 section. A
+strong flow void artifact is noted at the Sylvian aqueduct.
+100
+120
+140
+80
+60
+40
+20
+0
+Pre-LP
+Post-LP
+Stride length (cm)
+Velocity (cm/sec)
+24 hours
+after shunt after shunt
+2 months
+after shunt
+6 months
+Figure 3: Video gait analysis at distance of 18 m.
+100% (completely independent, able to do all chores without
+slowness, difficulty, or impairment). Falls, near-falls, and
+her bladder symptoms ceased. UPDRS part II FoG item
+improved from 2 to 0. On examination, walking speed,
+stride length, and heel strike significantly increased, with
+resolution of FoG. Her pull test normalized. Gait profile
+and neuropsychological assessment were repeated according
+to the same baseline procedures approximately two and
+six months after shunt placement (Figure 3 and Table 1).
+On both postshunt assessments, video analysis showed a
+significant and sustained improvement in stride length and
+mean gait velocity. Neuropsychological assessment revealed
+a significant improvement in all measured outcomes, and
+her MoCA improved by 3 points. Improvements in gait
+and balance were sustained over one year of follow-up.
+Appendicular symptoms including bradykinesia, stiffness,
+and resting tremor persisted but were well controlled without
+adjustments in the patient’s dopaminergic regimen.
+3. Discussion
+Our patient presented with a two-year history of progres-
+sive slowness, fatigue, and mild asymmetric resting tremor.
+According to UKPDSBB, the clinical diagnosis of PD requires
+the presence of bradykinesia and at least one of the following:
+muscular rigidity, 4–6 Hz resting tremor, and postural insta-
+bility. Baseline physical examination revealed the presence
+of all cardinal features included in the UKPDSBB criteria
+for PD, and our patient was diagnosed accordingly. In
+2015, the International Movement Disorder Society (MDS)
+published revised PD diagnostic criteria [15]. The presence
+of “recurrent falls because of impaired balance within 3 years
+of onset” is among the red flags arguing against a diagnosis
+of clinically established PD. Notably, each red flag must be
+countered by at least one supportive diagnostic criterion,
+including a clear and dramatic response to dopaminergic
+therapy (a ≥30% improvement on clinical examination,
+for which our patient’s 19% initial improvement did not
+qualify), unequivocal motor fluctuations, levodopa-induced
+dyskinesias, rest tremor of a limb, and either olfactory loss
+or cardiac sympathetic denervation. In our case, while she
+initially met the UKPDSBB criteria for PD, the patient’s rapid
+progression of gait impairment and recurrent falls within 3
+years are red flags arguing against idiopathic PD; her rest
+tremor constitutes one of the supportive criteria to argue
+for the PD diagnosis; however two supportive criteria are
+required to counterbalance these red flags. The concomitant
+presence of NPH may challenge the practical applicability of
+these criteria in the setting of comorbidities. Alternatively,
+this discrepancy may suggest that she has parkinsonism, but
+not idiopathic PD. It is likely that a longer follow-up period
+will provide meaningful observational data to either confirm
+or challenge the diagnosis of underlying PD.
+Approximately 2.5 years after her PD diagnosis, our
+patient’s gait and balance dramatically deteriorated, a far
+
+Case Reports in Neurological Medicine
+5
+more rapid decline than expected for PD and disproportion-
+ate to her otherwise well-controlled parkinsonian symptoms.
+Optimization of dopaminergic therapy is considered the first
+line strategy to relieve FoG and improve gait function in PD;
+however this was ineffective [16]. Additionally, she reported
+the insidious onset of psychological, cognitive, and urologic
+symptoms. For all of the above reasons, we considered the
+possibility of NPH. From a clinical viewpoint, gait dysfunc-
+tion is mandatory to diagnose iNPH. At least one more abnor-
+mality, namely, urinary symptoms or cognitive impairment, is
+required to support a probable diagnosis [17]. Radiologically,
+iNPH is characterized by a noncongenital, nonobstructive
+enlargement of ventricular size not attributable to cerebral
+atrophy, as indicated by an Evans index greater than 0.3. Sup-
+portive criteria include enlargement of the temporal horns
+of the lateral ventricles out of proportion to the degree of
+hippocampal atrophy; upbowing of the corpus callosum with
+callosal angle ≥40∘; and abnormal MRI signal intensity of the
+periventricular white matter [18]. Additionally, the Sylvian
+fissure is typically enlarged, particularly when compared to
+otherwise tight cortical sulci with crowding of the gyri at
+the vertex (the so-called “high convexity sign”). Long echo-
+time brain MRI sequences can detect the aqueduct flow
+void artifact due to hyperdynamic CSF flow. Our patient’s
+MRIs were obtained at baseline and approximately one year
+later when iNPH was suspected. Although slice differences
+limit optimal comparability, a subtle high convexity sign
+was appreciable on her follow-up MRI, as was moderate
+ventriculomegaly, periventricular white matter changes, and
+a prominent flow void at the Sylvian aqueduct; however the
+imaging did not demonstrate disproportionately enlarged
+subarachnoid spaces or a grossly enlarged Sylvian fissure. Our
+patient underwent a large volume tap test, yielding a marked
+objective improvement in gait function. She was diagnosed
+with comorbid iNPH and successfully treated with VP shunt.
+Dramatic benefits in gait, neuropsychological domains, and
+clinical assessments were immediately observed and sus-
+tained over one-year follow-up.
+Between 46 and 63% of patients with iNPH show some
+degree of benefit from large volume CSF subtraction [18, 19].
+CSF tap test is regarded as an important test for the prediction
+of shunt effectiveness, with a sensitivity ranging from 70%
+to 80%, according to different observations [20, 21]. In the
+absence of a clear response to single tap test, a three day-
+long continuous lumbar drain can be considered to increase
+diagnostic accuracy. However, according to the international
+guidelines, a decision exclusively based on predictive tests
+exposes patients to a high risk of misdiagnosis. False negatives
+include those patients who, despite underlying iNPH, fail
+to significantly improve after the test, possibly due to a
+high degree of comorbidity or to irreversible progression
+of the disease following an extensive delay in diagnosis.
+False positives, conversely, may involve a placebo response
+inherent to any invasive medical procedure, particularly
+where the patient has expectations of benefit [22]. Hence,
+a positive response to a tap test should be regarded as a
+mere supportive criterion [23]. Shunt placement may still be
+considered in the absence of a clear response to predictive
+tests when a strong clinical suspicion remains, though the
+patient must be counseled appropriately and have clear
+expectations. CSF drainage is the only effective treatment and
+is generally configured between a lateral cerebral ventricle
+and the abdominal cavity (VP shunt). The guidelines of the
+American Academy of Neurology support the use of a shunt
+as effective therapy emphasizing that diagnostic delay is the
+major cause of poor therapeutic outcome [24].
+4. Comorbid iNPH and Degenerative
+Parkinsonism: A Call for Awareness
+The role of comorbidity in patients with iNPH must be
+considered according to International Society for Hydro-
+cephalus and Cerebrospinal Fluid Disorder [25]. Identifying
+comorbidities in patients with iNPH is critical, allowing for
+optimization of the patient’s care for each diagnosis, maxi-
+mizing their clinical outcome. As recently observed by Broggi
+et al., given current demographic trends, the coexistence of
+iNPH and neurodegenerative diseases is expected to increase
+[26]. According to a Swedish population study, the prevalence
+of iNPH is approximately 200/100,000 in the range of age
+from 70 to 79 [13]. According to preliminary data from
+an ongoing prospective single-center study, approximately
+45% of patients meeting the diagnostic criteria of probable
+iNPH show concurrent signs of parkinsonism [27]. Impor-
+tantly, these patients display decreased striatal uptake on
+I123-ioflupane (DatScan) single-photon emission computed
+tomography (SPECT), consistent with an underlying degen-
+erative parkinsonism. Recently, Odagiri et al. retrospectively
+analyzed 127 patients with definite iNPH [14]. Twenty-one
+of these patients reported parkinsonian symptoms including
+tremor, hypomimia, and stiffness and were referred for a
+metaiodobenzylguanidine SPECT to rule out an underlying
+alpha-synucleinopathy. One-third of this sample showed
+reduced cardiac uptake. Since iNPH does not cause cardiac
+sympathetic-adrenergic denervation, SPECT positivity has
+been interpreted as an actual comorbidity between iNPH and
+alpha-synucleinopathy. The possibility that cooccurrence of
+iNPH and PD may represent more than just a comorbidity
+but rather a discrete phenotype resulting from a common
+pathogenic substrate remains to be conclusively addressed.
+Diagnosing both conditions in the same patient requires
+a willingness to critically review the established diagnosis,
+appreciate deviations from the usual course, and consider
+potential explanations. For example, an individual with
+levodopa-responsive parkinsonism who develops new, per-
+vasive gait failure and subacute cognitive complaints might
+have concomitant iNPH. Conversely, a patient successfully
+shunted for iNPH who develops progressive, asymmetric
+parkinsonism should raise suspicion for degenerative parkin-
+sonism. In Table 2, we compare the main clinical and epi-
+demiological aspects of iNPH and PD to guide the diagnostic
+process and highlight key differences between these two
+conditions. Both PD and iNPH are considered among the
+most common gait disorders in elderly and both are “hypoki-
+netic movement disorders,” characterized by reduced speed,
+reduced stride length, and poor ground clearance along with
+an abnormal dynamic equilibrium manifesting as insufficient
+adaptation to sudden perturbations with increased risk of
+
+6
+Case Reports in Neurological Medicine
+Table 2: Comparing signs and symptoms of iNPH versus PD.
+iNPH
+PD
+Prevalence
+2 cases/1000 in individuals > 70
+years old [13]
+10 cases/1,000 in individuals 70–79
+years old [14]
+Age at onset
+Adults over the age of 60
+Incidence peak between 70 and 79 years
+Urinary disturbance
+Common, nonspecific
+Common, nonspecific
+Cognitive dysfunction
+Frontal, executive dysfunction
+Frontal, executive dysfunction; global cognitive
+impairment usually denotes disease progression
+Bradykinesia
+62% of patients display bradykinesia affecting
+their lower limbs symmetrically; upper limbs are
+typically spared
+Cardinal feature of the disease; upper limbs are
+usually affected early on in an asymmetric fashion
+Rest tremor
+Absent
+Cardinal feature of the disease; observed in about
+60% of patients
+Rigidity
+Rare
+Cardinal feature of the disease; observed in about
+60% of patients
+Hallucinations
+Absent
+Usually manifesting with visual misperceptions
+and passage illusions with retained insight; florid
+hallucinations typically arise in advanced stages
+Cortical deficits (aphasia,
+apraxia, agnosia)
+Absent
+Rare
+Response to L-dopa
+Absent, mild, or inconsistent
+Excellent, sustained, supportive diagnostic criteria
+Response to shunt
+placement
+>60% of patients
+Absent
+MRI/CT
+Ventriculomegaly
+Noncontributory
+Time course of gait failure
+Early feature
+If present early, regarded as a “red flag” for the
+diagnosis of disease
+Gait velocity
+Decreased
+Decreased
+Step length
+Decreased
+Decreased
+Arm swing
+Normal
+Reduced or abolished
+Freezing of gait
+Early feature
+Most commonly observed in the advanced stages
+Responsiveness to cues
+Absent or poor
+Significant
+Step height
+Reduced
+Reduced
+Base
+Wide
+Narrow
+falling [28–30]. FoG is frequently encountered in both dis-
+orders, defined as the episodic inability to generate effective
+stepping manifesting with the patient’s feeling of having his
+feet glued to the floor [31]. Generally, most clinicians tend
+to favor the diagnosis of iNPH in the presence of a wide-
+based, prominently magnetic gait with relatively spared arm
+swing [32]. Conversely, PD is more likely to be considered
+when global bradykinesia, narrow gait base, reduced arm
+swing, responsiveness to cues, asymmetric rigidity, bradyki-
+nesia, resting tremor, or camptocormia are observed. How-
+ever, most of the behavioral and cognitive abnormalities in
+PD—such as executive dysfunction, apathy, depression, and
+bradyphrenia—can overlap with those observed in patients
+with iNPH [33]. Parkinsonian signs—including bradykinesia
+and rigidity—are commonly observed in the lower limbs of
+patients with iNPH. It is also a common clinical experience
+that mixed hydrocephalic and parkinsonian gait features
+coexist, with various degrees of levodopa responsiveness.
+In a recent review of 16 studies including 1256 iNPH
+patients, Espay et al. showed that shunt responsiveness,
+one of the cornerstones of iNPH diagnosis, declines dra-
+matically over longer observational periods, challenging the
+current diagnostic construct [34]. In these patients, the
+frequent finding of associated neurodegenerative patholo-
+gies on postmortem examinations suggests that ventricular
+enlargement may signal subclinical parenchymal changes,
+therefore representing the only macroscopic sign of a neu-
+rodegenerative disorder. In the absence of known secondary
+causes of hydrocephalus, iNPH should therefore represent a
+diagnosis of exclusion and the possibility of an underlying
+neurodegenerative disease manifesting with hydrocephalic
+presentation must be carefully considered. For these patients,
+any interventional approach should be extensively discussed
+and proper counseling offered, highlighting the potential for
+short-lived benefits from shunting.
+5. Conclusion
+Here we reported a case of comorbid iNPH in a patient
+suffering from idiopathic PD. Both PD and iNPH represent
+
+Case Reports in Neurological Medicine
+7
+prevalent, treatable conditions in the elderly. Despite the
+recent implementation of international guidelines, diagnos-
+tic accuracy of iNPH remains poor. Without appropriate
+recognition of iNPH symptoms, patients may be missing the
+possibility of improving their quality of life and functional
+independence. Suspecting iNPH in the setting of PD repre-
+sents an additional diagnostic challenge and may reflect a
+radiographic and symptomatic expression of the underlying
+neurodegenerative disease, though further study is required.
+We hope to raise awareness about the potential overlap of
+these two conditions to optimize patient care.
+Conflicts of Interest
+The authors declare that there are no conflicts of interest
+regarding the publication of this article.
+References
+[1] B. R. Nassar and C. F. Lippa, “Idiopathic Normal Pressure
+Hydrocephalus,” Gerontology and Geriatric Medicine, vol. 2, p.
+233372141664370, 2016.
+[2] S. Qvarlander, B. Lundkvist, L.-O. D. Koskinen, J. Malm, and A.
+Eklund, “Pulsatility in CSF dynamics: Pathophysiology of idio-
+pathic normal pressure hydrocephalus,” Journal of Neurology,
+Neurosurgery & Psychiatry, vol. 84, no. 7, pp. 735–741, 2013.
+[3] D. Shprecher, J. Schwalb, and R. Kurlan, “Normal pressure
+hydrocephalus: Diagnosis and treatment,” Current Neurology
+and Neuroscience Reports, vol. 8, no. 5, pp. 371–376, 2008.
+[4] M. A. Williams and J. Malm, “Diagnosis and treatment of idio-
+pathic normal pressure hydrocephalus,” Continuum: Lifelong
+Learning in Neurology, vol. 22, no. 2, pp. 579–599, 2016.
+[5] J. G. Nutt, C. D. Marsden, and P. D. Thompson, “Human walking
+and higher-level gait disorders, particularly in the elderly,”
+Neurology, vol. 43, no. 2, pp. 268–279, 1993.
+[6] H. Stolze, J. P. Kuhtz-Buschbeck, H. Dr¨ucke, K. J¨ohnk, M. Illert,
+and G. Deuschl, “Comparative analysis of the gait disorder
+of normal pressure hydrocephalus and Parkinson’s disease,”
+Journal of Neurology, Neurosurgery & Psychiatry, vol. 70, no. 3,
+pp. 289–297, 2001.
+[7] E. Mori, “Gait disturbance in idiopathic normal pressure hydro-
+cephalus,” Brain and Nerve, vol. 60, no. 3, pp. 219–224, 2008.
+[8] P. Hellstrom, M. Edsbagge, E. Blomsterwall et al., “Neuropsy-
+chological effects of shunt treatment in idiopathic normal
+pressure hydrocephalus,” Neurosurgery, vol. 63, no. 3, pp. 527–
+535, 2008.
+[9] H. Israelsson, P. Allard, A. Eklund, and J. Malm, “Symptoms
+of depression are common in patients with idiopathic nor-
+mal pressure hydrocephalus: The INPH-CRasH study,” Neuro-
+surgery, vol. 78, no. 2, pp. 161–168, 2016.
+[10] M. Kiefer and A. Unterberg, “The differential diagnosis
+and treatment of normal-pressure hydrocephalus,” Deutsches
+Arzteblatt International, vol. 109, no. 1-2, pp. 15–25, 2012.
+[11] S. Jonas and J. Brown, “Neurogenic bladder in normal pressure
+hydrocephalus,” Urology, vol. 5, no. 1, pp. 44–50, 1975.
+[12] H. C. Jones and P. M. Klinge, “Hydrocephalus 2008, 17-
+20th September, Hannover Germany: A conference report,”
+Cerebrospinal Fluid Research, vol. 5, article no. 19, 2008.
+[13] D. Jaraj, K. Rabiei, T. Marlow, C. Jensen, I. Skoog, and C.
+Wikkelsø, “Prevalence of idiopathic normal-pressure hydro-
+cephalus,” Neurology, vol. 82, no. 16, pp. 1449–1454, 2014.
+[14] H. Odagiri, T. Baba, Y. Nishio et al., “Clinical characteristics
+of idiopathic normal pressure hydrocephalus with Lewy body
+diseases,” Journal of the Neurological Sciences, vol. 359, no. 1-2,
+pp. 309–311, 2015.
+[15] R. B. Postuma, D. Berg, M. Stern et al., “MDS clinical diagnostic
+criteria for Parkinson’s disease,” Movement Disorders, vol. 30,
+no. 12, pp. 1591–1601, 2015.
+[16] A. Cucca, M. C. Biagioni, J. E. Fleisher et al., “Freezing of
+gait in Parkinson’s disease: from pathophysiology to emerging
+therapies,” Neurodegenerative Disease Management, vol. 6, no.
+5, pp. 431–446, 2016.
+[17] N. Relkin, A. Marmarou, P. Klinge, M. Bergsneider, and P.
+M. Black, “Diagnosing Idiopathic Normal-pressure Hydro-
+cephalus,” Neurosurgery, vol. 57, no. suppl 3, pp. S2-4–S2-16,
+2005.
+[18] N. Miskin, H. Patel, A. M. Franceschi et al., “Diagnosis of
+Normal-Pressure Hydrocephalus: Use of Traditional Measures
+in the Era of Volumetric MR Imaging,” Radiology, p. 161216,
+2017.
+[19] P. Klinge, A. Marmarou, M. Bergsneider, N. Relkin, and P.
+M. L. Black, “INPH guidelines, part V: Outcome of shunting
+in idiopathic normal-pressure hydrocephalus and the value of
+outcome assessment in shunted patients,” Neurosurgery, vol. 57,
+no. 3, pp. -40–S2, 2005.
+[20] M. Ishikawa, M. Hashimoto, E. Mori, N. Kuwana, and H. Kazui,
+“The value of the cerebrospinal fluid tap test for predicting shunt
+effectiveness in idiopathic normal pressure hydrocephalus,”
+Fluids and Barriers of the CNS, vol. 9, no. 1, article no. 1, 2012.
+[21] R. Walchenbach, E. Geiger, R. T. W. M. Thomeer, and J. A.
+L. Vanneste, “The value of temporary external lumbar CSF
+drainage in predicting the outcome of shunting on normal
+pressure hydrocephalus,” Journal of Neurology, Neurosurgery &
+Psychiatry, vol. 72, no. 4, pp. 503–506, 2002.
+[22] T. Liu, “Route of placebo administration: Robust placebo effects
+in laboratory and clinical settings,” Neuroscience & Biobehav-
+ioral Reviews, vol. 83, pp. 451–457, 2017.
+[23] A. Marmarou, M. Bergsneider, P. Klinge, N. Relkin, and P. M.
+L. Black, “INPH guidelines, part III: The value of supplemental
+prognostic tests for the preoperative assessment of idiopathic
+normal-pressure hydrocephalus,” Neurosurgery, vol. 57, no. 3,
+pp. -17–S2, 2005.
+[24] J. J. Halperin, R. Kurlan, J. M. Schwalb, M. D. Cusimano, G.
+Gronseth, and D. Gloss, “Practice guideline: Idiopathic normal
+pressure hydrocephalus: Response to shunting and predictors
+of response,” Neurology, vol. 85, no. 23, pp. 2063–2071, 2015.
+[25] J. Malm, N. R. Graff-Radford, M. Ishikawa et al., “Influence of
+comorbidities in idiopathic normal pressure hydrocephalus -
+research and clinical care. A report of the ISHCSF task force on
+comorbidities in INPH,” Fluids and Barriers of the CNS, vol. 10,
+no. 1, article no. 22, 2013.
+[26] M. Broggi, L. Romito, V. Redaelli, and A. Franzini, “Normal
+pressure hydrocephalus and Parkinsonism: The essential team-
+work between the neurosurgeon and the neurologist,” World
+Neurosurgery, vol. 82, no. 6, pp. E837–E838, 2014.
+[27] M. Broggi, V. Redaelli, G. Tringali et al., “Normal Pressure
+Hydrocephalus and Parkinsonism: Preliminary Data on Neuro-
+surgical and Neurological Treatment,” World Neurosurgery, vol.
+90, pp. 348–356, 2016.
+[28] T. Pringsheim, N. Jette, A. Frolkis, and T. D. L. Steeves, “The
+prevalence of Parkinson’s disease: a systematic review and meta-
+analysis,” Movement Disorders, vol. 29, no. 13, pp. 1583–1590,
+2014.
+
+8
+Case Reports in Neurological Medicine
+[29] A. Fasano, M. Plotnik, F. Bove, and A. Berardelli, “The neurobi-
+ology of falls,” Neurological Sciences, vol. 33, no. 6, pp. 1215–1223,
+2012.
+[30] J. Jankovic, “Gait Disorders,” Neurologic Clinics, vol. 33, no. 1, pp.
+249–268, 2015.
+[31] N. Giladi and A. Nieuwboer, “Understanding and treating
+freezing of gait in Parkinsonism, proposed working definition,
+and setting the stage,” Movement Disorders, vol. 23, no. 2, pp.
+S423–S425, 2008.
+[32] J. K. Krauss, J. P. Regel, D. W. Droste, M. Orszagh, J. J.
+Borremans, and W. Vach, “Movement disorders in adult hydro-
+cephalus,” Movement Disorders, vol. 12, no. 1, pp. 53–60, 1997.
+[33] M. Picascia, B. Minafra, R. Zangaglia et al., “Spectrum of cog-
+nitive disorders in idiopathic normal pressure hydrocephalus,”
+Functional Neurology, vol. 31, no. 3, pp. 143–147, 2016.
+[34] A. J. Espay, G. A. Da Prat, A. K. Dwivedi et al., “Deconstructing
+normal pressure hydrocephalus: Ventriculomegaly as early sign
+of neurodegeneration,” Annals of Neurology, vol. 82, no. 4, pp.
+503–513, 2017.
+
+

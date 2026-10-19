@@ -1,0 +1,257 @@
+[
+  {
+    "query_id": 1,
+    "query": "What cognitive assessments are used in Alzheimer's diagnosis?",
+    "results": [
+      {
+        "rank": 1,
+        "chunk_id": "alzheimers_diagnosis__diag1_p0010_c0000",
+        "source": "diag1.pdf",
+        "category": "Alzheimers/Diagnosis",
+        "page": 10,
+        "score": 0.721775,
+        "text_preview": "380 DIAGNOSIS OF EARLY ALZHEIMER’S DISEASE Cognitive assessments Because the cognitive impacts of early-stage AD may vary from patient to patient, it is important to consider which cognitive domains a..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "alzheimers_diagnosis__diag1_p0008_c0000",
+        "source": "diag1.pdf",
+        "category": "Alzheimers/Diagnosis",
+        "page": 8,
+        "score": 0.710633,
+        "text_preview": "378 DIAGNOSIS OF EARLY ALZHEIMER’S DISEASE Primary care: Cognitive, functional, and behavioral assessments Cognitive assessments If a patient is suspected of having AD following an initial assessment ..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "alzheimers_guidelines__guidelines2_p0015_c0000",
+        "source": "guidelines2.pdf",
+        "category": "Alzheimers/guidelines",
+        "page": 15,
+        "score": 0.700015,
+        "text_preview": "References 1. Morris JC. Early-stage and preclinical Alzheimer disease. Alzheimer Dis Assoc Disord. 2005; 19:163–5. [PubMed: 16118535] 2. Dubois B, Feldman HH, Jacova C, Cummings JL, Dekosky ST, Barbe..."
+      },
+      {
+        "rank": 4,
+        "chunk_id": "alzheimers_guidelines__guidelines1_p0014_c0000",
+        "source": "guidelines1.pdf",
+        "category": "Alzheimers/guidelines",
+        "page": 14,
+        "score": 0.69964,
+        "text_preview": "Alzheimer’s Association workgroups on diagnostic guidelines for Alzheimer’s disease. Alzheimers Dement. 2011; 7:263–9. [PubMed: 21514250] 3. Sperling RA, Aisen PS, Beckett LA, Bennett DA, Craft S, Fag..."
+      },
+      {
+        "rank": 5,
+        "chunk_id": "alzheimers_treatments__treatment1_p0024_c0002",
+        "source": "treatment1.pdf",
+        "category": "Alzheimers/Treatments",
+        "page": 24,
+        "score": 0.690898,
+        "text_preview": "Research Diagnostic Criteria for Alzheimer’s Disease: The IWG-2 Criteria. Lancet Neurol. 2014, 13, 614–629. [CrossRef] 71. Jack, C.R.; Bennett, D.A.; Blennow, K.; Carrillo, M.C.; Dunn, B.; Haeberlein,..."
+      }
+    ]
+  },
+  {
+    "query_id": 2,
+    "query": "What are common symptoms of Alzheimer's disease?",
+    "results": [
+      {
+        "rank": 1,
+        "chunk_id": "alzheimers_diagnosis__diag2_p0008_c0001",
+        "source": "diag2.pdf",
+        "category": "Alzheimers/Diagnosis",
+        "page": 8,
+        "score": 0.690662,
+        "text_preview": "inability to manage finances, poor decision-making ability, inability to plan complex or sequential activities c. Impaired visuospatial abilities Symptoms include: inability to recognize faces or comm..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "alzheimers_diagnosis__diag1_p0005_c0000",
+        "source": "diag1.pdf",
+        "category": "Alzheimers/Diagnosis",
+        "page": 5,
+        "score": 0.664084,
+        "text_preview": "375 JPAD - Volume 8, Number 3, 2021 Table 2. Symptoms associated with suspected early stage Alzheimer’s disease Area Cognition (3, 30) Behavior (3, 30, 36) Psychological (3, 36) Physical (3, 36) Other..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "alzheimers_diagnosis__diag2_p0009_c0000",
+        "source": "diag2.pdf",
+        "category": "Alzheimers/Diagnosis",
+        "page": 9,
+        "score": 0.61856,
+        "text_preview": "weight-loss; failure-to-thrive; anxiety; social withdrawal or apathy; depressive and behavioral symptoms (eg, agitation, personality changes, hoarding, delusions); symptoms of presyncope or syncope, t..."
+      },
+      {
+        "rank": 4,
+        "chunk_id": "alzheimers_diagnosis__diag1_p0001_c0000",
+        "source": "diag1.pdf",
+        "category": "Alzheimers/Diagnosis",
+        "page": 1,
+        "score": 0.60678,
+        "text_preview": "371 Received February 22, 2021 Accepted for publication April 28, 2021 Reviews Abstract Alzheimer ’s disease is a progressive, irreversible neurodegenerative disease impacting cognition, function, and..."
+      },
+      {
+        "rank": 5,
+        "chunk_id": "alzheimers_mri__mri1_p0008_c0000",
+        "source": "mri1.pdf",
+        "category": "Alzheimers/MRI",
+        "page": 8,
+        "score": 0.601849,
+        "text_preview": "1300 Journal of Neurology (2019) 266:1293–1302 1 3 credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. References 1. Har..."
+      }
+    ]
+  },
+  {
+    "query_id": 3,
+    "query": "What biomarkers are associated with Alzheimer's disease?",
+    "results": [
+      {
+        "rank": 1,
+        "chunk_id": "alzheimers_guidelines__guidelines1_p0009_c0000",
+        "source": "guidelines1.pdf",
+        "category": "Alzheimers/guidelines",
+        "page": 9,
+        "score": 0.734438,
+        "text_preview": "3.3. Associated biochemical change AD is characterized by numerous biochemical events, including oxidative stress (e.g., isoprostanes) and inflammation (e.g., cytokines). CSF, plasma, and imaging mark..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "alzheimers_general__alzheimer_s_guidelines_p0003_c0001",
+        "source": "alzheimer's guidelines.pdf",
+        "category": "Alzheimers/General",
+        "page": 3,
+        "score": 0.71206,
+        "text_preview": "guidelines flexible to allow for changes that could come from emerging technologies and advances in understanding of biomarkers and the disease process itself. “The guidelines discuss biomarkers curre..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "alzheimers_biomarkers__bio2_p0001_c0000",
+        "source": "bio2.pdf",
+        "category": "Alzheimers/biomarkers",
+        "page": 1,
+        "score": 0.711004,
+        "text_preview": "Ageing Research Reviews 104 (2025) 102599 Available online 28 November 2024 1568-1637/© 2024 The Author(s). Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND license (htt..."
+      },
+      {
+        "rank": 4,
+        "chunk_id": "alzheimers_biomarkers__bio2_p0016_c0000",
+        "source": "bio2.pdf",
+        "category": "Alzheimers/biomarkers",
+        "page": 16,
+        "score": 0.703881,
+        "text_preview": "Ageing Research Reviews 104 (2025) 102599 16 Bird, T.D., 2008. Genetic aspects of Alzheimer disease. Genet. Med.: Off. J. Am. Coll. Med. Genet. 10 (4), 231–239. https://doi.org/10.1097/GIM.0b013e31816..."
+      },
+      {
+        "rank": 5,
+        "chunk_id": "alzheimers_diagnosis__diag4_p0010_c0000",
+        "source": "diag4.pdf",
+        "category": "Alzheimers/Diagnosis",
+        "page": 10,
+        "score": 0.700774,
+        "text_preview": "10 of 20 | DONG et al. TA B LE 3 Blood-­based candidate biomarkers analyzed by metabolomics for Alzheimer's disease prediction. Metabolic pathways Candidate biomarkers Changes References Phospholipid ..."
+      }
+    ]
+  },
+  {
+    "query_id": 4,
+    "query": "What treatments are available for Alzheimer's disease?",
+    "results": [
+      {
+        "rank": 1,
+        "chunk_id": "alzheimers_diagnosis__diag3_p0019_c0001",
+        "source": "diag3.pdf",
+        "category": "Alzheimers/Diagnosis",
+        "page": 19,
+        "score": 0.687368,
+        "text_preview": "for the treatment of Alzheimer’s disease. Bioorg. Med. Chem. Lett., 2019, 29(2), 125-133. http://dx.doi.org/10.1016/j.bmcl.2018.11.034 PMID: 30501965 [99] U.S. Food and drug administration. FDA consum..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "alzheimers_treatments__treatment1_p0001_c0000",
+        "source": "treatment1.pdf",
+        "category": "Alzheimers/Treatments",
+        "page": 1,
+        "score": 0.650407,
+        "text_preview": "Citation: Passeri, E.; Elkhoury, K.; Morsink, M.; Broersen, K.; Linder, M.; Tamayol, A.; Malaplate, C.; Yen, F.T.; Arab-Tehrany, E. Alzheimer’s Disease: Treatment Strategies and Their Limitations. Int..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "alzheimers_treatments__treat4_p0002_c0000",
+        "source": "treat4.pdf",
+        "category": "Alzheimers/Treatments",
+        "page": 2,
+        "score": 0.64698,
+        "text_preview": "www.aging-us.com 3139 AGING AD is characterized by intraneuronal fibrillary tangles and extracellular deposit of amyloid plaques (Aβ) coupled with reactive microgliosis, loss of neurons and synapses i..."
+      },
+      {
+        "rank": 4,
+        "chunk_id": "alzheimers_treatments__treat3_p0001_c0001",
+        "source": "treat3.pdf",
+        "category": "Alzheimers/Treatments",
+        "page": 1,
+        "score": 0.646712,
+        "text_preview": "techniques; gene therapy; pharmacotherapy; stem cell therapy; therapeutic mechanism 1. Introduction AD is a neurodegenerative disease with progressive cognitive impairment. It is pathologically charac..."
+      },
+      {
+        "rank": 5,
+        "chunk_id": "alzheimers_diagnosis__diag1_p0012_c0002",
+        "source": "diag1.pdf",
+        "category": "Alzheimers/Diagnosis",
+        "page": 12,
+        "score": 0.640079,
+        "text_preview": "exercise) may be employed for patients with early AD, with the goal to maintain or even improve cognitive function and retain their ability to perform activities of daily living. For patients in the e..."
+      }
+    ]
+  },
+  {
+    "query_id": 5,
+    "query": "What MRI findings are associated with Alzheimer's disease?",
+    "results": [
+      {
+        "rank": 1,
+        "chunk_id": "alzheimers_mri__mri2_p0004_c0001",
+        "source": "mri2.pdf",
+        "category": "Alzheimers/MRI",
+        "page": 4,
+        "score": 0.685264,
+        "text_preview": "carrying out daily living actions, the brain structural changes at the level of the areas implied in processing visual information could justify the discrepancy between signs and symptoms and underlie..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "alzheimers_diagnosis__diag5_p0003_c0001",
+        "source": "diag5.pdf",
+        "category": "Alzheimers/Diagnosis",
+        "page": 3,
+        "score": 0.68091,
+        "text_preview": "of how AI techniques are enhancing MRI diagnostics in identifying and evaluating AD. 2.2. Exclusion Criteria Articles that did not explicitly focus on diagnosing Alzheimer’s Disease (AD) through MRI i..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "alzheimers_diagnosis__diag5_p0016_c0001",
+        "source": "diag5.pdf",
+        "category": "Alzheimers/Diagnosis",
+        "page": 16,
+        "score": 0.680364,
+        "text_preview": "and pathological aging: A quantified brain MRI study. Dement. Geriatr. Cogn. Disord., 2019, 48(5-6), 297-307. http://dx.doi.org/10.1159/000506124 PMID: 32209796 [22] Banerjee, G.; Jang, H.; Kim, H.J.;..."
+      },
+      {
+        "rank": 4,
+        "chunk_id": "alzheimers_mri__mri5_p0002_c0000",
+        "source": "mri5.pdf",
+        "category": "Alzheimers/MRI",
+        "page": 2,
+        "score": 0.679804,
+        "text_preview": "1. Introduction Early diagnosis of Alzheimer’s disease (AD) is important, because it enables patients and caregivers to prepare for disease progression (Prince et al., 2011). It is also beneficial for..."
+      },
+      {
+        "rank": 5,
+        "chunk_id": "alzheimers_diagnosis__diag3_p0018_c0002",
+        "source": "diag3.pdf",
+        "category": "Alzheimers/Diagnosis",
+        "page": 18,
+        "score": 0.671408,
+        "text_preview": "disease. Pers. Med. Psychiatry, 2018, 7–8, 14-20. http://dx.doi.org/10.1016/j.pmip.2018.03.001 [78] Johnson, K.A.; Fox, N.C.; Sperling, R.A.; Klunk, W.E. Brain imaging in Alzheimer disease. Cold Sprin..."
+      }
+    ]
+  }
+]

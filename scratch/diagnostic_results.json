@@ -1,0 +1,349 @@
+{
+  "PDF1_alzheimer": {
+    "stage1_pymupdf": {
+      "label": "PDF1_alzheimer",
+      "path": "C:\\Users\\Yokesh\\Desktop\\Health_Sense AI\\scratch\\..\\Sample_pdf\\alzheimer.pdf",
+      "success": true,
+      "file_size_mb": 0.22420883178710938,
+      "file_size_bytes": 235100,
+      "page_count": 4,
+      "total_chars": 15676,
+      "pruned": false
+    },
+    "stage2_extract": {
+      "label": "PDF1_alzheimer",
+      "success": true,
+      "status_code": 200,
+      "elapsed_s": 18.657716512680054,
+      "profile": {
+        "disease_context": [
+          "alzheimers"
+        ],
+        "patient_information": {
+          "age": 73.0,
+          "sex": "male",
+          "education": null,
+          "race": "Caucasian",
+          "ethnicity": null
+        },
+        "clinical_scores": {
+          "mmse": null,
+          "moca": 27.0,
+          "cdr": null,
+          "adas": null,
+          "faq": null,
+          "updrs": null,
+          "hoehn_yahr": null,
+          "other_scores": {}
+        },
+        "cognitive_findings": {
+          "memory_impairment": true,
+          "executive_dysfunction": true,
+          "language_deficits": null,
+          "details": [
+            "Mild memory-retrieval decline over 11 years (MoCA 27\u219226)",
+            "Stable memory storage and recognition",
+            "Executive function deficits noted on neuropsych testing",
+            "MoCA scores ranged 25\u201329 during follow\u2011up"
+          ]
+        },
+        "motor_findings": {
+          "resting_tremor": null,
+          "bradykinesia": null,
+          "rigidity": null,
+          "gait_postural_instability": null,
+          "details": []
+        },
+        "symptoms": [
+          "difficulty managing finances",
+          "repetitive statements",
+          "misplacing objects",
+          "forgetting appointments",
+          "confusion with computer use",
+          "inattention",
+          "impulsivity"
+        ],
+        "duration": "11 years",
+        "imaging_findings": [
+          {
+            "modality": "MRI",
+            "finding": "atrophy of posterior parietal region, pre\u2011cuneus and bilateral angular gyrus with sparing of hippocampi",
+            "source_page": 1
+          },
+          {
+            "modality": "Amyloid PET",
+            "finding": "increased uptake in prefrontal, lateral temporal, and parietal regions consistent with moderate\u2011to\u2011severe cerebral amyloid plaques",
+            "source_page": 2
+          }
+        ],
+        "laboratory_findings": [
+          "CSF A\u03b2 = 435.15 pg/ml",
+          "CSF t\u2011tau = 452.8 pg/ml",
+          "CSF p\u2011tau = 101.35 pg/ml",
+          "APOE \u03b53/\u03b54 carrier"
+        ],
+        "medications": [
+          "rosuvastatin",
+          "tamsulosin",
+          "metoprolol",
+          "lisinopril",
+          "escitalopram"
+        ],
+        "family_history": [],
+        "clinical_impression": "prodromal Alzheimer's disease (A+/T+/N+)",
+        "source_pages": {
+          "age": 1,
+          "sex": 1,
+          "race": 1,
+          "moca": 1,
+          "imaging_MRI": 1,
+          "imaging_PET": 2,
+          "csf": 2,
+          "medications": 1,
+          "clinical_impression": 1
+        },
+        "missing_information": [
+          "mmse",
+          "cdr",
+          "adas",
+          "faq",
+          "updrs",
+          "hoehn_yahr",
+          "education (formal years)",
+          "ethnicity",
+          "language_deficits",
+          "motor findings details",
+          "family history"
+        ]
+      },
+      "disease_context": [
+        "alzheimers"
+      ],
+      "missing_information": [
+        "mmse",
+        "cdr",
+        "adas",
+        "faq",
+        "updrs",
+        "hoehn_yahr",
+        "education (formal years)",
+        "ethnicity",
+        "language_deficits",
+        "motor findings details",
+        "family history"
+      ],
+      "is_alzheimers": true,
+      "can_construct_adni": false,
+      "adni_gate_missing": [
+        "MMSE"
+      ]
+    },
+    "stage3_6_analyze": {
+      "label": "PDF1_alzheimer",
+      "success": true,
+      "status_code": 200,
+      "elapsed_s": 0.3691577911376953,
+      "response": {
+        "workflow": "CLINICAL_REPORT",
+        "status": "completed",
+        "disease_context": [
+          "alzheimers"
+        ],
+        "prediction": null,
+        "model": null,
+        "questionnaire_profile": null,
+        "explanation": {
+          "what_results_suggest": "LLM synthesis is currently unavailable. The uploaded report describes findings that were extracted for clinical review.",
+          "why_relevant": "The findings are extracted from the submitted clinical document for structured research analysis.",
+          "what_research_says": [
+            "Biomedical evidence (diag2.pdf): Table 2 Comparison of behaviors associated with normal aging and symptoms and behaviors that may be observed in cognitive-behavioral impairment in Alz...",
+            "Biomedical evidence (diag2.pdf): Evaluation of Neurodegenerative Cognitive Behavioral Syndromes, Alzheimer\u2019s disease and Dementias in the United States,42 the clinician\u2019s approach to ..."
+          ],
+          "next_steps": [
+            "Discuss these screening findings with a qualified healthcare professional.",
+            "Keep track of any changes in memory or physical mobility over time."
+          ],
+          "clinical_notice": "This is an AI-assisted screening/research result and is not a medical diagnosis."
+        },
+        "evidence": [
+          {
+            "chunk_id": "alzheimers_diagnosis__diag2_p0006_c0000",
+            "disease": "alzheimers",
+            "source": "diag2.pdf",
+            "category": "Alzheimers/Diagnosis",
+            "page": 6,
+            "score": 0.654241,
+            "text": "Table 2 Comparison of behaviors associated with normal aging and symptoms and behaviors that may be observed in cognitive-behavioral impairment in Alzheimer\u2019s disease Normal Aging (Occasional and Inconsistent Behaviors) Behaviors and Symptoms in AD (Persistent and Progressively More Frequent Symptoms and Behaviors) Memory Minor lapses of information retrieval with later recall (eg, forgetting an appointment or names and remembering later) Recall slightly slower Memory loss, especially for recently learned information Forgetting important dates and appointments Repetitive questioning for same answer in a short time frame Increasing reliance on memory aids for tasks that they used to do themselves Planning or problem-solving Develops a plan, follows recipes, occasional error when balancing checkbook, may find an error later Difficulty with developing a plan Difficulty following a plan or using a familiar recipe Difficulty working with numbers or paying bills Difficulty starting, focusing, or completing on a project Familiar task completion Occasionally need help to record a television show or to use a device or application Trouble using appliances and devices Confusion or trouble driving to a familiar location Trouble remembering rules of a favorite game Trouble managing a budget Recognition of time or place Occasionally confused about date but remember it later Forget exact location, address, nearby streets, or the route taken to get there Often confused about dates, day of the week, or time; may confuse season in later stages Trouble processing future events; mostly only aware of immediate events Difficulty remembering or confusing the correct timeline of events; may up mix events and people Comprehension of visual images and spatial relationships Vision changes related to cataracts, myopia, less acuity; may affect driving at night and glare Visual processing problems, such as difficulty reading, determining color or contrast, judging distance, recognizing familiar objects, or seeing full picture or surroundings May become disoriented; not knowing the location or how they arrived there Driving more difficult even in daylight due to lower ability to estimate distance and speed of oncoming traffic (continued on next page) Atri 268"
+          },
+          {
+            "chunk_id": "alzheimers_diagnosis__diag2_p0007_c0000",
+            "disease": "alzheimers",
+            "source": "diag2.pdf",
+            "category": "Alzheimers/Diagnosis",
+            "page": 7,
+            "score": 0.644031,
+            "text": "Evaluation of Neurodegenerative Cognitive Behavioral Syndromes, Alzheimer\u2019s disease and Dementias in the United States,42 the clinician\u2019s approach to the evaluation and disclosure process in suspected AD or ADRD should involve triggering an evaluation in individuals when there is a symptom or concern regarding cognitive, behavioral, or functional decline; involving the patient and a care partner or Table 2 (continued) Normal Aging (Occasional and Inconsistent Behaviors) Behaviors and Symptoms in AD (Persistent and Progressively More Frequent Symptoms and Behaviors) Communication, use and recall of words and names during talking and writing Occasional trouble finding word, name, or phrase Difficulty joining or following a conversation Struggling with vocabulary; often puts words together to describe a word Forgetting meaning of some words Using the wrong or imprecise words Becoming less fluent, starting to stutter, getting stuck during speech or have broken speech. Ability to retrace steps May misplace an item but usually able to retrace steps to find the item Frequently misplacing personal items May leave things in odd places and unable to retrace steps to find them Judgment and interpersonal interactions Making an occasional bad decision Being occasionally irritable or less interactive Decline in sound judgment, may include money, finances, personal interactions and actions Engaging in more risky, inappropriate, or unusual behavior More vulnerable to being taken advantage of by unscrupulous telemarketers and fraud Less attention to grooming and hygiene Work or social activities Usually enjoy and participate in family and social events but sometimes need a break May avoid social interactions because they sense a change in their behavior Attend and engage less or abandon or lose interest in previous hobbies, projects, sports, and social activities May not remember how to perform hobby or complete projects Mood and personality Experiencing mild anxiety or sadness in reaction to life events and stressors May prefer using a routine to do things May become anxious, depressed, less motivated, fearful, suspicious, or having labile affect Can be easily upset when in out of comfort zone scenario Overreacting; often frustrated when cannot remember or do things or blaming others Becoming impulsive or insensitive through words or actions. Data from Alzheimer\u2019s Association. 2013 Alzheimer\u2019s disease facts and figures. Alzheimers Dement 2013;9(2):208\u201345; and Schott JM. The neurology of aging: what is normal? Pract Neurol 2017;17(3):172\u201382. The Alzheimer\u2019s Clinical Spectrum 269"
+          },
+          {
+            "chunk_id": "alzheimers_biomarkers__bio4_p0004_c0000",
+            "disease": "alzheimers",
+            "source": "bio4.pdf",
+            "category": "Alzheimers/biomarkers",
+            "page": 4,
+            "score": 0.55242,
+            "text": "people with brain diseases, not just in the clinic, but in the work place and in service industries where diseaserisks manifest, such as banking.35 We must recognise that biomarkers represent mile-markers on a journey taken not only by patients but by family members.36,37 New treatments for Alzheimer\u2019s disease rule the clinic. They\u2019re reshaping the landscape of care for patients living with or at risk for cognitive impairment. To fully realise the optimal impact of tremendous progress in dementia research, we must recognise the value that diagnosis and prognosis, in addition to treatment, have for the care of patients living with or at risk for dementia. Only then will we break the tyranny of treatment and achieve a republic of care. Contributors The authors contributed equally to this manuscript. Both drafted, edited, and approved the \ufb01nal version. Declaration of interests Dr Grill reported grants from the National Institute on Aging (AG066519), Alzheimer\u2019s Association, BrightFocus Foundation, Lilly, Biogen, Genentech, and Eisai and personal fees from SiteRx. Dr Karlawish reported grants from the National Institute on Aging (P30-AG-072979, U54-AG-063546, and U24-AG-057437), Biogen, Lilly, and Novartis. He served on the scienti\ufb01c advisory board for Linus Health and the board of directors for Greenwall Foundation. Acknowledgements We thank Kristin Harkins for helpful comments on this manuscript. The funders had no role in the design or writing of this paper. References 1 Rabinovici GD, Gatsonis C, Apgar C, et al. Association of amyloid positron emission tomography with subsequent change in clinical management among Medicare bene\ufb01ciaries with mild cognitive impairment or dementia. JAMA. 2019;321(13):1286\u20131294. 2 Wolk DA, Sadowsky C, Sa\ufb01rstein B, et al. Use of \ufb02utemetamol F 18-labeled positron emission tomography and other biomarkers to assess risk of clinical progression in patients with amnestic mild cognitive impairment. JAMA Neurol. 2018 Sep 1;75(9):1114\u20131123. 3 Vos SJ, Verhey F, Frolich L, et al. Prevalence and prognosis of Alzheimer\u2019s disease at the mild cognitive impairment stage. Brain. 2015;138(Pt 5):1327\u20131338. 4 Ong KT, Villemagne VL, Bahar-Fuchs A, et al. Abeta imaging with 18F-\ufb02orbetaben in prodromal Alzheimer\u2019s disease: a prospective outcome study. J Neurol Neurosurg Psychiatr. 2015;86(4):431\u2013436. 5 Grill JD, Cox CG, Kremen S, et al. Patient and caregiver reactions to clinical amyloid imaging. Alzheimers Dement. 2017;13(8):924\u2013932. 6 Frisoni GB, Barkhof F, Altomare D, et al. AMYPAD diagnostic and patient management study: rationale and design. Alzheimers Dement. 2019;15(3):388\u2013399. 7 Teipel SJ, Spottke A, Boecker H, et al. Patient-related bene\ufb01ts of amyloid PET"
+          },
+          {
+            "chunk_id": "alzheimers_guidelines__guidelines1_p0005_c0000",
+            "disease": "alzheimers",
+            "source": "guidelines1.pdf",
+            "category": "Alzheimers/guidelines",
+            "page": 5,
+            "score": 0.546811,
+            "text": "Test (executive function), the Boston Naming Test, letter and category fluency (language), figure copying (spatial skills), and digit span forward (attention). If formal cognitive testing is not feasible, then cognitive function can be assessed using a variety of simple, informal techniques. For example, the clinician can ask a patient to learn a street address and to recall it after a delay interval of a few minutes (e.g., John Brown, 42 Market Street, Chicago). Alternatively, the clinician can ask the patient to name three objects (e.g., a pen, a paper clip, and a dollar bill), place them in different locations around the room and subsequently ask the patient to recall the names of the objects and their locations, again after a brief delay. These types of approaches are relatively easy to perform during an office visit, and will yield informative results. It is important, however, for clinicians to recognize that these informal tests will likely be insensitive to subtle cognitive dysfunction during the early stages of MCI, and will often yield normal performance. In addition, these approaches typically do not assess cognitive domains beyond memory. Finally, it must be recognized that atypical clinical presentations of AD may arise, such as the visual variant of AD (involving posterior cortical atrophy) or the language variant (sometimes called logopenic aphasia), and these clinical profiles are also consistent with MCI due to AD. 2.2.2. Summary of clinical and cognitive evaluation\u2014The initiation of a clinical and cognitive evaluation typically includes a cognitive concern expressed by the patient, an informant, or a clinician observing the patient\u2019s performance. Cognitive decline can be documented by means of the history from the patient, preferably corroborated by an informant, or on the basis of observation by the clinician. Ideally, if serial assessments are available, they would be preferable, but in the setting of a single evaluation, this information is inferred from the history. The patient\u2019s cognition is assessed and found to be outside the normal range of function for the patient\u2019s age and educational background, but not sufficiently impaired to constitute dementia. The impairment can involve one or more cognitive domains. The clinician determines whether memory is prominently impaired, or whether the impairments in other cognitive domains predominate, such as spatial or language impairment. Typically, memory is the most common domain involved among patients who subsequently progress to AD dementia, as noted earlier in the text. There is generally mild functional"
+          },
+          {
+            "chunk_id": "alzheimers_diagnosis__diag2_p0008_c0001",
+            "disease": "alzheimers",
+            "source": "diag2.pdf",
+            "category": "Alzheimers/Diagnosis",
+            "page": 8,
+            "score": 0.533203,
+            "text": "inability to manage finances, poor decision-making ability, inability to plan complex or sequential activities c. Impaired visuospatial abilities Symptoms include: inability to recognize faces or common objects or to find objects in direct view despite good acuity, inability to operate simple implements or orient clothing to the body d. Impaired language functions (speaking, reading, writing) Symptoms include: difficulty thinking of common words while speaking, hesitations; speech, spelling, and writing errors e. Changes in personality, behavior, or comportment Symptoms include: uncharacteristic mood fluctuations, such as agitation, impaired motivation, initiative, apathy, loss of drive, social withdrawal, decreased interest in previous activities, loss of empathy, compulsive or obsessive behaviors, socially unacceptable behaviors From McKhann GM, Knopman DS, Chertkow H, et al. The diagnosis of dementia due to Alzheimer\u2019s disease: recommendations from the National Institute on Aging-Alzheimer\u2019s Association workgroups on diagnostic guidelines for Alzheimer\u2019s disease. Alzheimers Dement 2011;7(3):265; with permission. Atri 270"
+          }
+        ],
+        "web_evidence": [],
+        "agents_executed": [
+          "RAG Agent",
+          "LLM Agent"
+        ],
+        "clinical_notice": "This is an AI-assisted screening/research result derived from a clinical report and is not a medical diagnosis.",
+        "explainability": null,
+        "errors": []
+      },
+      "predicted_class": null,
+      "shap_success": false,
+      "agents_executed": [
+        "RAG Agent",
+        "LLM Agent"
+      ],
+      "llm_synthesis_status": "FALLBACK"
+    }
+  },
+  "PDF2_alzheimer_2": {
+    "stage1_pymupdf": {
+      "label": "PDF2_alzheimer_2",
+      "path": "C:\\Users\\Yokesh\\Desktop\\Health_Sense AI\\scratch\\..\\Sample_pdf\\alzheimer_2.pdf",
+      "success": true,
+      "file_size_mb": 2.3377485275268555,
+      "file_size_bytes": 2451307,
+      "page_count": 8,
+      "total_chars": 22779,
+      "pruned": true
+    },
+    "stage2_extract": {
+      "label": "PDF2_alzheimer_2",
+      "success": true,
+      "status_code": 200,
+      "elapsed_s": 0.21443629264831543,
+      "profile": {
+        "disease_context": [
+          "unknown"
+        ],
+        "patient_information": {
+          "age": null,
+          "sex": null,
+          "education": null,
+          "race": null,
+          "ethnicity": null
+        },
+        "clinical_scores": {
+          "mmse": null,
+          "moca": null,
+          "cdr": null,
+          "adas": null,
+          "faq": null,
+          "updrs": null,
+          "hoehn_yahr": null,
+          "other_scores": {}
+        },
+        "cognitive_findings": {
+          "memory_impairment": null,
+          "executive_dysfunction": null,
+          "language_deficits": null,
+          "details": []
+        },
+        "motor_findings": {
+          "resting_tremor": null,
+          "bradykinesia": null,
+          "rigidity": null,
+          "gait_postural_instability": null,
+          "details": []
+        },
+        "symptoms": [],
+        "duration": null,
+        "imaging_findings": [],
+        "laboratory_findings": [],
+        "medications": [],
+        "family_history": [],
+        "clinical_impression": "Stage-1 extraction service encountered a temporary error.",
+        "source_pages": {},
+        "missing_information": [
+          "Automated structured extraction incomplete. Please retry."
+        ]
+      },
+      "disease_context": [
+        "unknown"
+      ],
+      "missing_information": [
+        "Automated structured extraction incomplete. Please retry."
+      ],
+      "is_alzheimers": false,
+      "can_construct_adni": false
+    },
+    "stage3_6_analyze": {
+      "label": "PDF2_alzheimer_2",
+      "success": true,
+      "status_code": 200,
+      "elapsed_s": 1.5134789943695068,
+      "response": {
+        "workflow": "CLINICAL_REPORT",
+        "status": "completed",
+        "disease_context": [
+          "unknown"
+        ],
+        "prediction": null,
+        "model": null,
+        "questionnaire_profile": null,
+        "explanation": {
+          "what_results_suggest": "The uploaded report describes a temporary error during the extraction process, resulting in missing clinical, imaging, and laboratory information. Consequently, no specific interpretation can be drawn from the available data.",
+          "why_relevant": "Interpretation relies on detailed clinical findings, imaging results, and any model predictions. Because these elements are absent, the report does not provide evidence to support any particular clinical inference.",
+          "what_research_says": [],
+          "next_steps": [
+            "Obtain a complete and error\u2011free version of the clinical report.",
+            "Retry the extraction process to capture structured data.",
+            "Consult a healthcare professional to review the full clinical information.",
+            "If appropriate, consider additional diagnostic evaluations (e.g., neuroimaging, laboratory tests) to gather necessary data."
+          ],
+          "clinical_notice": "This is an AI-assisted screening/research result and is not a medical diagnosis."
+        },
+        "evidence": [],
+        "web_evidence": [],
+        "agents_executed": [
+          "RAG Agent",
+          "LLM Agent"
+        ],
+        "clinical_notice": "This is an AI-assisted screening/research result derived from a clinical report and is not a medical diagnosis.",
+        "explainability": null,
+        "errors": []
+      },
+      "predicted_class": null,
+      "shap_success": false,
+      "agents_executed": [
+        "RAG Agent",
+        "LLM Agent"
+      ],
+      "llm_synthesis_status": "SUCCESS"
+    }
+  }
+}

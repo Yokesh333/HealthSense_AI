@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-dotenv
+pydantic
+scikit-learn==1.5.2
+pandas
+joblib
+pytest
+httpx
+sentence-transformers
+faiss-cpu
+PyMuPDF
+groq
+shap>=0.46.0

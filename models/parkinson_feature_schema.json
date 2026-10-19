@@ -1,0 +1,110 @@
+{
+    "features": [
+        {
+            "name": "AGE_AT_VISIT",
+            "type": "numeric",
+            "required": false,
+            "missing_allowed": true
+        },
+        {
+            "name": "EDUCYRS",
+            "type": "numeric",
+            "required": false,
+            "missing_allowed": true
+        },
+        {
+            "name": "NP1RTOT",
+            "type": "numeric",
+            "required": false,
+            "missing_allowed": true
+        },
+        {
+            "name": "NP2PTOT",
+            "type": "numeric",
+            "required": false,
+            "missing_allowed": true
+        },
+        {
+            "name": "NP3TOT",
+            "type": "numeric",
+            "required": false,
+            "missing_allowed": true
+        },
+        {
+            "name": "NHY",
+            "type": "numeric",
+            "required": false,
+            "missing_allowed": true
+        },
+        {
+            "name": "MCATOT",
+            "type": "numeric",
+            "required": false,
+            "missing_allowed": true
+        },
+        {
+            "name": "GDS_TOTAL",
+            "type": "numeric",
+            "required": false,
+            "missing_allowed": true
+        },
+        {
+            "name": "ESS_TOTAL",
+            "type": "numeric",
+            "required": false,
+            "missing_allowed": true
+        },
+        {
+            "name": "RBD_TOTAL",
+            "type": "numeric",
+            "required": false,
+            "missing_allowed": true
+        },
+        {
+            "name": "SDMTOTAL",
+            "type": "numeric",
+            "required": false,
+            "missing_allowed": true
+        },
+        {
+            "name": "DVT_TOTAL_RECALL",
+            "type": "numeric",
+            "required": false,
+            "missing_allowed": true
+        },
+        {
+            "name": "DVT_DELAYED_RECALL",
+            "type": "numeric",
+            "required": false,
+            "missing_allowed": true
+        },
+        {
+            "name": "LNS_TOTRAW",
+            "type": "numeric",
+            "required": false,
+            "missing_allowed": true
+        },
+        {
+            "name": "TMTASEC",
+            "type": "numeric",
+            "required": false,
+            "missing_allowed": true
+        },
+        {
+            "name": "TMTBSEC",
+            "type": "numeric",
+            "required": false,
+            "missing_allowed": true
+        },
+        {
+            "name": "SCOPA_AUT_TOTAL",
+            "type": "numeric",
+            "required": false,
+            "missing_allowed": true
+        }
+    ],
+    "prediction_output": {
+        "0": "Healthy Control",
+        "1": "Parkinson's Disease"
+    }
+}

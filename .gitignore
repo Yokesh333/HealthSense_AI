@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+env/
+.coverage
+htmlcov/
+
+# Secrets and environment files
+.env
+.env.*
+!.env.example
+
+# Frontend
+node_modules/
+dist/
+build/
+
+# Generated RAG knowledge-base artifacts
+data/knowledge_base/raw/
+data/knowledge_base/chunks/
+data/knowledge_base/embeddings/
+data/knowledge_base/vector_store/
+chroma_db/
+
+# Generated knowledge-base backups
+data/knowledge_base_backup/
+
+# Large datasets
+*.csv
+*.parquet
+
+# Restricted datasets and raw research data
+Datasets/
+scratch/temp_extract/
+*.nii
+*.nii.gz
+*.tar.gz
+*.rda
+*.rds
+
+# Large trained model files
+*.safetensors
+*.pt
+*.pth
+*.h5
+*.joblib
+*.pkl
+
+# Screen recordings and videos
+*.mp4
+
+# Logs and temporary files
+*.log

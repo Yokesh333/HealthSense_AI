@@ -1,0 +1,96 @@
+{
+  "questionnaire_id": "PD_SCREENING",
+  "version": "1.0",
+  "questions": [
+    {
+      "id": "PD_Q01",
+      "question": "Have you noticed any shaking or trembling in your hands, arms, or legs when you are resting?",
+      "answer_options": ["Never", "Rarely", "Sometimes", "Often"],
+      "domain": "tremor",
+      "clinical_concept": "resting tremor",
+      "source_documents": ["A guide to thinking changes in parkinsons.pdf"],
+      "source_references": [{"document": "A guide to thinking changes in parkinsons.pdf", "page": 4}]
+    },
+    {
+      "id": "PD_Q02",
+      "question": "Have you noticed that everyday activities such as walking, getting dressed, or getting up from a chair take longer than they used to?",
+      "answer_options": ["Never", "Rarely", "Sometimes", "Often"],
+      "domain": "slowness of movement",
+      "clinical_concept": "bradykinesia",
+      "source_documents": ["A guide to thinking changes in parkinsons.pdf"],
+      "source_references": [{"document": "A guide to thinking changes in parkinsons.pdf", "page": 5}]
+    },
+    {
+      "id": "PD_Q03",
+      "question": "Do your arms, legs, or body feel unusually stiff or tight as you go about your day?",
+      "answer_options": ["Never", "Rarely", "Sometimes", "Often"],
+      "domain": "stiffness",
+      "clinical_concept": "muscle rigidity",
+      "source_documents": ["A guide to thinking changes in parkinsons.pdf"],
+      "source_references": [{"document": "A guide to thinking changes in parkinsons.pdf", "page": 6}]
+    },
+    {
+      "id": "PD_Q04",
+      "question": "Have you noticed changes in the way you walk, such as taking smaller, shuffling steps or having less arm swing?",
+      "answer_options": ["Never", "Rarely", "Sometimes", "Often"],
+      "domain": "walking changes",
+      "clinical_concept": "shuffling gait",
+      "source_documents": ["A guide to thinking changes in parkinsons.pdf"],
+      "source_references": [{"document": "A guide to thinking changes in parkinsons.pdf", "page": 7}]
+    },
+    {
+      "id": "PD_Q05",
+      "question": "Do you feel unsteady or have more trouble keeping your balance when you stand or walk?",
+      "answer_options": ["Never", "Rarely", "Sometimes", "Often"],
+      "domain": "balance",
+      "clinical_concept": "postural instability",
+      "source_documents": ["A guide to thinking changes in parkinsons.pdf"],
+      "source_references": [{"document": "A guide to thinking changes in parkinsons.pdf", "page": 8}]
+    },
+    {
+      "id": "PD_Q06",
+      "question": "Do you have difficulty getting out of a deep chair or turning around while walking?",
+      "answer_options": ["Never", "Rarely", "Sometimes", "Often"],
+      "domain": "getting up/turning",
+      "clinical_concept": "motor difficulties / freezing",
+      "source_documents": ["A guide to thinking changes in parkinsons.pdf"],
+      "source_references": [{"document": "A guide to thinking changes in parkinsons.pdf", "page": 9}]
+    },
+    {
+      "id": "PD_Q07",
+      "question": "Have you noticed that your handwriting has become noticeably smaller or harder to control?",
+      "answer_options": ["Never", "Rarely", "Sometimes", "Often"],
+      "domain": "handwriting changes",
+      "clinical_concept": "micrographia",
+      "source_documents": ["A guide to thinking changes in parkinsons.pdf"],
+      "source_references": [{"document": "A guide to thinking changes in parkinsons.pdf", "page": 10}]
+    },
+    {
+      "id": "PD_Q08",
+      "question": "Has your voice become much softer, or do people frequently ask you to speak louder?",
+      "answer_options": ["Never", "Rarely", "Sometimes", "Often"],
+      "domain": "speech/voice changes",
+      "clinical_concept": "hypophonia",
+      "source_documents": ["A guide to thinking changes in parkinsons.pdf"],
+      "source_references": [{"document": "A guide to thinking changes in parkinsons.pdf", "page": 11}]
+    },
+    {
+      "id": "PD_Q09",
+      "question": "Are you finding it more difficult to do fine movements like buttoning a shirt or using utensils?",
+      "answer_options": ["Never", "Rarely", "Sometimes", "Often"],
+      "domain": "everyday movement difficulties",
+      "clinical_concept": "loss of fine motor control",
+      "source_documents": ["A guide to thinking changes in parkinsons.pdf"],
+      "source_references": [{"document": "A guide to thinking changes in parkinsons.pdf", "page": 12}]
+    },
+    {
+      "id": "PD_Q10",
+      "question": "Overall, have these movement changes started to make your normal daily activities harder to manage on your own?",
+      "answer_options": ["Never", "Rarely", "Sometimes", "Often"],
+      "domain": "changes in daily activities",
+      "clinical_concept": "functional decline",
+      "source_documents": ["A guide to thinking changes in parkinsons.pdf"],
+      "source_references": [{"document": "A guide to thinking changes in parkinsons.pdf", "page": 13}]
+    }
+  ]
+}

@@ -1,0 +1,490 @@
+{
+  "diagnosis_cols": [
+    {
+      "file": "Cognitive Assessment\\NEUROPATH_28Jul2026.csv",
+      "column": "NPPDXA",
+      "unique_values": 1,
+      "non_null_count": 121,
+      "counts": {
+        "0": 121
+      }
+    },
+    {
+      "file": "Cognitive Assessment\\NEUROPATH_28Jul2026.csv",
+      "column": "NPPDXB",
+      "unique_values": 1,
+      "non_null_count": 121,
+      "counts": {
+        "0": 121
+      }
+    },
+    {
+      "file": "Cognitive Assessment\\NEUROPATH_28Jul2026.csv",
+      "column": "NPPDXC",
+      "unique_values": 1,
+      "non_null_count": 121,
+      "counts": {
+        "0": 121
+      }
+    },
+    {
+      "file": "Cognitive Assessment\\NEUROPATH_28Jul2026.csv",
+      "column": "NPPDXD",
+      "unique_values": 1,
+      "non_null_count": 121,
+      "counts": {
+        "0": 121
+      }
+    },
+    {
+      "file": "Cognitive Assessment\\NEUROPATH_28Jul2026.csv",
+      "column": "NPPDXE",
+      "unique_values": 1,
+      "non_null_count": 121,
+      "counts": {
+        "0": 121
+      }
+    },
+    {
+      "file": "Cognitive Assessment\\NEUROPATH_28Jul2026.csv",
+      "column": "NPPDXF",
+      "unique_values": 1,
+      "non_null_count": 121,
+      "counts": {
+        "0": 121
+      }
+    },
+    {
+      "file": "Cognitive Assessment\\NEUROPATH_28Jul2026.csv",
+      "column": "NPPDXG",
+      "unique_values": 1,
+      "non_null_count": 121,
+      "counts": {
+        "0": 121
+      }
+    },
+    {
+      "file": "Cognitive Assessment\\NEUROPATH_28Jul2026.csv",
+      "column": "NPPDXH",
+      "unique_values": 1,
+      "non_null_count": 121,
+      "counts": {
+        "0": 121
+      }
+    },
+    {
+      "file": "Cognitive Assessment\\NEUROPATH_28Jul2026.csv",
+      "column": "NPPDXI",
+      "unique_values": 2,
+      "non_null_count": 121,
+      "counts": {
+        "0": 119,
+        "1": 2
+      }
+    },
+    {
+      "file": "Cognitive Assessment\\NEUROPATH_28Jul2026.csv",
+      "column": "NPPDXJ",
+      "unique_values": 1,
+      "non_null_count": 121,
+      "counts": {
+        "0": 121
+      }
+    },
+    {
+      "file": "Cognitive Assessment\\NEUROPATH_28Jul2026.csv",
+      "column": "NPPDXK",
+      "unique_values": 2,
+      "non_null_count": 121,
+      "counts": {
+        "0": 118,
+        "1": 3
+      }
+    },
+    {
+      "file": "Cognitive Assessment\\NEUROPATH_28Jul2026.csv",
+      "column": "NPPDXL",
+      "unique_values": 1,
+      "non_null_count": 121,
+      "counts": {
+        "0": 121
+      }
+    },
+    {
+      "file": "Cognitive Assessment\\NEUROPATH_28Jul2026.csv",
+      "column": "NPPDXM",
+      "unique_values": 2,
+      "non_null_count": 121,
+      "counts": {
+        "0": 120,
+        "1": 1
+      }
+    },
+    {
+      "file": "Cognitive Assessment\\NEUROPATH_28Jul2026.csv",
+      "column": "NPPDXN",
+      "unique_values": 1,
+      "non_null_count": 121,
+      "counts": {
+        "0": 121
+      }
+    },
+    {
+      "file": "Cognitive Assessment\\NEUROPATH_28Jul2026.csv",
+      "column": "NPPDXO",
+      "unique_values": 1,
+      "non_null_count": 121,
+      "counts": {
+        "0": 121
+      }
+    },
+    {
+      "file": "Cognitive Assessment\\NEUROPATH_28Jul2026.csv",
+      "column": "NPPDXP",
+      "unique_values": 3,
+      "non_null_count": 121,
+      "counts": {
+        "9": 81,
+        "8": 39,
+        "0": 1
+      }
+    },
+    {
+      "file": "Cognitive Assessment\\NEUROPATH_28Jul2026.csv",
+      "column": "NPPDXQ",
+      "unique_values": 3,
+      "non_null_count": 121,
+      "counts": {
+        "9": 81,
+        "8": 39,
+        "0": 1
+      }
+    },
+    {
+      "file": "Cognitive Assessment\\NEUROPATH_28Jul2026.csv",
+      "column": "NPPDXR",
+      "unique_values": 2,
+      "non_null_count": 121,
+      "counts": {
+        "0": 62,
+        "1": 59
+      }
+    },
+    {
+      "file": "Cognitive Assessment\\NEUROPATH_28Jul2026.csv",
+      "column": "NPPDXRX",
+      "unique_values": 43,
+      "non_null_count": 59,
+      "counts": {
+        "nan": 62,
+        "ARTAG see var NPFTDT6": 11,
+        "ARTAG see NPFTDT6": 6,
+        "Argyrophilic Grain Disease, Saito Stage III": 2,
+        "ARTAG, moderate, widespread see 17.b": 1,
+        "TDP43 Proteinopathy (Josephs Stage 4) / Late - NC Stage 2": 1,
+        "tau astrogliopathy": 1,
+        "ARTAG: See 17.b.6": 1,
+        "LATE-NC": 1,
+        "ARTAG see var. NPFTDT6": 1
+      }
+    },
+    {
+      "file": "Cognitive Assessment\\NEUROPATH_28Jul2026.csv",
+      "column": "NPPDXS",
+      "unique_values": 2,
+      "non_null_count": 121,
+      "counts": {
+        "0": 91,
+        "1": 30
+      }
+    },
+    {
+      "file": "Cognitive Assessment\\NEUROPATH_28Jul2026.csv",
+      "column": "NPPDXSX",
+      "unique_values": 26,
+      "non_null_count": 30,
+      "counts": {
+        "nan": 91,
+        "LATE-NC": 3,
+        "PART see var NPFTDT9": 2,
+        "LATE": 2,
+        "AGD, Saito stage II": 1,
+        "Tau Astrogliopathy, NOS": 1,
+        "LBD Limbic Predominant without brainstem or neocortical involvment": 1,
+        "ARTAG see var NPFTDT6": 1,
+        "PART see NPFTDT9": 1,
+        "ARTAG See 17 b 6": 1
+      }
+    },
+    {
+      "file": "Cognitive Assessment\\NEUROPATH_28Jul2026.csv",
+      "column": "NPPDXT",
+      "unique_values": 2,
+      "non_null_count": 121,
+      "counts": {
+        "0": 112,
+        "1": 9
+      }
+    },
+    {
+      "file": "Cognitive Assessment\\NEUROPATH_28Jul2026.csv",
+      "column": "NPPDXTX",
+      "unique_values": 8,
+      "non_null_count": 9,
+      "counts": {
+        "nan": 112,
+        "ARTAG, Moderate, Widespread": 2,
+        "Vascular mineralization, mild, hippo, pallidum": 1,
+        "LATE-NC": 1,
+        "Leptomeningeal hemosiderin bilateral anterior temporal lobes": 1,
+        "Meningioma, transitional, WHO grade 1, 0.5cm": 1,
+        "TDP-43 Proteinopathy, Joseph's Stage 3, LATE-NC Stage 2": 1,
+        "ARTAG, Mild, Amygdala, Basal Forebrain, Olfactory Cortex, Parietal White Matter": 1,
+        "LBD, very mild, substantia nigra only": 1
+      }
+    },
+    {
+      "file": "Enrollment\\ARM_28Jul2026.csv",
+      "column": "ARM",
+      "unique_values": 11,
+      "non_null_count": 4703,
+      "counts": {
+        "2.0": 1185,
+        "1.0": 684,
+        "10.0": 618,
+        "3.0": 573,
+        "5.0": 518,
+        "4.0": 272,
+        "8.0": 225,
+        "6.0": 208,
+        "11.0": 168,
+        "7.0": 163
+      }
+    },
+    {
+      "file": "Enrollment\\REGISTRY_28Jul2026.csv",
+      "column": "RGSTATUS",
+      "unique_values": 1,
+      "non_null_count": 12009,
+      "counts": {
+        "nan": 17415,
+        "1.0": 12009
+      }
+    },
+    {
+      "file": "Enrollment\\REGISTRY_28Jul2026.csv",
+      "column": "PTSTATUS",
+      "unique_values": 2,
+      "non_null_count": 11993,
+      "counts": {
+        "nan": 17431,
+        "1.0": 11391,
+        "2.0": 602
+      }
+    },
+    {
+      "file": "Imaging\\MAYOADIRL_MRI_QUALITY_ADNI3_28Jul2026.csv",
+      "column": "STUDY_PROTOCOL_STATUS",
+      "unique_values": 5,
+      "non_null_count": 28244,
+      "counts": {
+        "1": 26337,
+        "2": 1561,
+        "3": 172,
+        "-1": 125,
+        "4": 49
+      }
+    },
+    {
+      "file": "Imaging\\MAYOADIRL_MRI_QUALITY_ADNI3_28Jul2026.csv",
+      "column": "PROTOCOL_STATUS",
+      "unique_values": 5,
+      "non_null_count": 28244,
+      "counts": {
+        "1": 17690,
+        "-1": 9071,
+        "2": 799,
+        "4": 523,
+        "3": 161
+      }
+    }
+  ],
+  "arm_analysis": {
+    "file": "Enrollment\\ARM_28Jul2026.csv",
+    "phases": [
+      "ADNI1",
+      "ADNIGO",
+      "ADNI2"
+    ],
+    "viscodes": [],
+    "counts": {
+      "2.0": 1185,
+      "1.0": 684,
+      "10.0": 618,
+      "3.0": 573,
+      "5.0": 518,
+      "4.0": 272,
+      "8.0": 225,
+      "6.0": 208,
+      "11.0": 168,
+      "7.0": 163
+    }
+  },
+  "demographic_cols": [
+    {
+      "file": "Cognitive Assessment\\ADAS_28Jul2026.csv",
+      "column": "LANGUAGE_CODE"
+    },
+    {
+      "file": "Cognitive Assessment\\CDR_28Jul2026.csv",
+      "column": "LANGUAGE_CODE"
+    },
+    {
+      "file": "Cognitive Assessment\\FAQ_28Jul2026.csv",
+      "column": "LANGUAGE_CODE"
+    },
+    {
+      "file": "Cognitive Assessment\\MMSE_28Jul2026.csv",
+      "column": "LANGUAGE_CODE"
+    },
+    {
+      "file": "Cognitive Assessment\\MOCA_28Jul2026.csv",
+      "column": "LANGUAGE_CODE"
+    },
+    {
+      "file": "Cognitive Assessment\\NEUROPATH_28Jul2026.csv",
+      "column": "NPDAGE"
+    },
+    {
+      "file": "Enrollment\\ADDCOMM_28Jul2026.csv",
+      "column": "LANGUAGE_CODE"
+    },
+    {
+      "file": "Enrollment\\CLIELG_28Jul2026.csv",
+      "column": "LANGUAGE_CODE"
+    },
+    {
+      "file": "Enrollment\\NPSTATUS_28Jul2026.csv",
+      "column": "LANGUAGE_CODE"
+    },
+    {
+      "file": "Enrollment\\REGISTRY_28Jul2026.csv",
+      "column": "LANGUAGE_CODE"
+    },
+    {
+      "file": "Imaging\\ADNI_PICSLASHS_28Jul2026.csv",
+      "column": "IMAGEUID_T1"
+    },
+    {
+      "file": "Imaging\\ADNI_PICSLASHS_28Jul2026.csv",
+      "column": "IMAGEUID_T2"
+    },
+    {
+      "file": "Imaging\\MAYOADIRL_MRI_QUALITY_ADNI3_28Jul2026.csv",
+      "column": "LONI_IMAGE"
+    },
+    {
+      "file": "Imaging\\MRIQC_28Jul2026.csv",
+      "column": "image_id"
+    },
+    {
+      "file": "Imaging\\MRIQC_28Jul2026.csv",
+      "column": "LONIImage"
+    },
+    {
+      "file": "Imaging\\MRIQSM_28Jul2026.csv",
+      "column": "LONIImage"
+    },
+    {
+      "file": "Imaging\\UASPMVBM_28Jul2026.csv",
+      "column": "IMAGEUID"
+    },
+    {
+      "file": "Imaging\\MRI Aquisition\\MRI3META_28Jul2026.csv",
+      "column": "MMSMPRAGE"
+    },
+    {
+      "file": "Imaging\\MRI Aquisition\\MRI3META_28Jul2026.csv",
+      "column": "MMRMPRAGE"
+    },
+    {
+      "file": "Imaging\\MRI Aquisition\\MRI3META_28Jul2026.csv",
+      "column": "LANGUAGE_CODE"
+    },
+    {
+      "file": "Imaging\\MRI Aquisition\\MRIMETA_28Jul2026.csv",
+      "column": "MMSMPRAGE"
+    },
+    {
+      "file": "Imaging\\MRI Aquisition\\MRIMETA_28Jul2026.csv",
+      "column": "MMRMPRAGE"
+    },
+    {
+      "file": "Imaging\\MRI Aquisition\\MRINCLUSIO_28Jul2026.csv",
+      "column": "HEMMORHAGE"
+    },
+    {
+      "file": "Medical history\\ADVERSE_28Jul2026.csv",
+      "column": "LANGUAGE_CODE"
+    },
+    {
+      "file": "Medical history\\ANTIAMYTX_28Jul2026.csv",
+      "column": "LANGUAGE_CODE"
+    },
+    {
+      "file": "Medical history\\INITHEALTH_28Jul2026.csv",
+      "column": "LANGUAGE_CODE"
+    },
+    {
+      "file": "Subject characteristics\\FAMHXPAR_28Jul2026.csv",
+      "column": "MOTHAGE"
+    },
+    {
+      "file": "Subject characteristics\\FAMHXPAR_28Jul2026.csv",
+      "column": "MOTHSXAGE"
+    },
+    {
+      "file": "Subject characteristics\\FAMHXPAR_28Jul2026.csv",
+      "column": "FATHAGE"
+    },
+    {
+      "file": "Subject characteristics\\FAMHXPAR_28Jul2026.csv",
+      "column": "FATHSXAGE"
+    },
+    {
+      "file": "Subject characteristics\\FAMHXPAR_28Jul2026.csv",
+      "column": "LANGUAGE_CODE"
+    },
+    {
+      "file": "Subject characteristics\\FAMHXSIB_28Jul2026.csv",
+      "column": "SIBGENDER"
+    },
+    {
+      "file": "Subject characteristics\\FAMHXSIB_28Jul2026.csv",
+      "column": "SIBAGE"
+    },
+    {
+      "file": "Subject characteristics\\FAMHXSIB_28Jul2026.csv",
+      "column": "SIBSXAGE"
+    },
+    {
+      "file": "Subject characteristics\\FAMHXSIB_28Jul2026.csv",
+      "column": "LANGUAGE_CODE"
+    }
+  ],
+  "ptstatus_analysis": {
+    "file": "Enrollment\\REGISTRY_28Jul2026.csv",
+    "counts": {
+      "nan": 17431,
+      "1.0": 11391,
+      "2.0": 602
+    }
+  },
+  "rgstatus_analysis": {
+    "file": "Enrollment\\REGISTRY_28Jul2026.csv",
+    "counts": {
+      "nan": 17415,
+      "1.0": 12009
+    }
+  }
+}

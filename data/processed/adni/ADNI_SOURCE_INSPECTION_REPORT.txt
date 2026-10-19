@@ -1,0 +1,46 @@
+ADNI Source Inspection Report
+=============================
+
+--- DXSUM.rda ---
+Rows: 15881
+Unique PTIDs: 3788
+VISCODE counts:
+VISCODE
+bl     1645
+v01    1056
+sc      966
+v11     942
+m06     897
+Name: count, dtype: int64
+DIAGNOSIS distribution:
+DIAGNOSIS
+MCI         6565
+CN          6275
+Dementia    2996
+NaN           45
+Name: count, dtype: int64
+
+--- PTDEMOG_31Aug2026.csv ---
+Rows: 6192
+Unique PTIDs: 4905
+VISCODE counts:
+VISCODE
+sc        2495
+v01       1242
+4_sc       776
+f          564
+4_init     468
+Name: count, dtype: int64
+
+--- BLCHANGE_31Aug2026.csv ---
+Rows: 16343
+Unique PTIDs: 3720
+VISCODE counts:
+VISCODE
+bl     1644
+v01    1051
+sc      976
+v11     941
+m06     897
+Name: count, dtype: int64
+

@@ -1,0 +1,348 @@
+=== Sample_pdf\alzheimer.pdf ===
+P1: years. We describe a case of a mild cognitive impairment (MCI) patient with biomarker evidence for amyloidosis, tau, and
+P1: neurodegeneration who had minimal changes in clinical phenotype during an 11-year period. AD biomarkers were obtained
+P1: the patient’s neuropsychological proﬁle remained stable over 11 years except for mild memory-retrieval changes. This case
+P1: of patients with cognitive impairment and evidence of
+P1: 3 years [1]. We report a patient diagnosed with pro-
+P1: lowed over an 11-year period who exhibited minimal
+P1: A 73-year-old Caucasian male with a past medical
+P1: 2010 with one year of memory problems character-
+P2: data (i.e., mean, standard deviation) from test performance of healthy peers of similar age and/or education. Values <29 Impaired; 30–36
+P2: AD. An August 2016 ﬂorbetapir amyloid PET scan
+P2: patient was an APOE 3/4 carrier.
+P2: The patient was followed for a total of 11 years
+P2: Fig. 1 over 5-year intervals including 2010, 2016,
+P3: three time periods (Fig. 1). In 2021, the patient’s
+P3: Throughout the course of his condition, the patient
+P3: This case study describes a patient presenting
+P3: tive or functional standpoint 12 years from symptom
+P3: onset and 8 years following biological conﬁrmation
+P3: of AD [2]. This patient had evidence of neurodegen-
+P3: course of longitudinal follow-up, the patient’s mem-
+P3: process of AD may last between 15 and 25 years in
+P3: prodromal phase is 4 years [3]. In addition, 59–61%
+P3: of patients meeting International Working Group-2
+P3: prodromal AD progress to dementia within 3 years
+P3: tively stable for >10 years in the setting of early
+P3: biological evidence for an AD process, our patient
+P3: patient. We refer to this presentation as a “prodromal
+P3: ble neuropsychological testing and function >5 years
+P3: A potential explanation for the patient’s delayed
+P3: as education and occupation that may enable cer-
+P3: one year of graduate school and general intellec-
+P3: in patients with untreated OSA have demonstrated
+P3: In addition, our patient may have experienced a more
+P3: tia). For instance, patients with primary age-related
+P3: latter condition typically affects patients aged ≥80
+P3: jects with amnestic MCI reveal that patients with a
+P3: 8.20 ± 3.30 years [9]. On the other hand, longitudinal
+P3: biomarker studies of A+/N+ patients with FDG-PET
+P4: (as noted in our patient), have shown that these indi-
+P4: years as compared to those with hippocampal atrophy
+P4: Stern Y (2012) Cognitive reserve in ageing and Alzheimer’s
+P4: disease. Lancet Neurol 11, 1006-1012.
+P4: Neuropathol 128, 755-766.
+P4: mild cognitive impairment. Eur J Neurol 28, 1123-1133.
+
+=== Sample_pdf\alzheimer_2.pdf ===
+P1: eight years. A case report
+P1: cognitive impairment.3,4 Patients with PCA present with
+P1: We present a 68-year-old woman with PCA, exhibiting
+P1: 1Undergraduate Research Group Semineuros, School of Medicine and
+P1: Neurovitae, School of Medicine and Health Sciences, Universidad del
+P1: Center of Neuroscience – Neurovitae, Cra 24 #63C-69, School of
+P1: Email: mariana.gaviria@urosario.edu.co
+P2: around 2016, when she was 60 years old. She experienced
+P2: writing ability. In the following years, additional symp-
+P2: prominent symptoms consisted of mild retrograde amnesia
+P2: levetiracetam (1000 mg every 12 h). In 2024, she was
+P2: cerns about the diagnosis. In 2024, the patient began experi-
+P3: with reduced graphomotor skills. Temporal,
+P3: Reduced, downward, and unproductive learning
+P4: preserved (Table 1). Language testing showed reduced pro-
+P4: cinations. Results of complete blood count, vitamin B12,
+P4: quetiapine was started at a dose of 12.5 mg every 12 h, in
+P4: and behavioral symptoms. However, the patient continued
+P4: to experience hallucinations, prompting a gradual increase
+P4: mide. Currently, the patient has satisfactory control of
+P5: behavior disorder. Although this patient presented neuro-
+P5: Figure 3. Sagittal and parasagittal MRI, T1 shows progressive atrophy in parietal and occipital cortex through years. (A) 2018. (B)
+P6: Patient
+P7: case, the patient only exhibited myoclonus without display-
+P7: past years has revealed an initial decline in visuospatial
+P7: our patient.
+P7: tive domains showed signiﬁcant impairment. The patient
+P7: this framework, the patient meets level 1 criteria: insidious
+P7: onset, gradual progression, prominent early disturbance of
+P7: unique condition is essential for patients and their families,
+P7: for patients and their families, a differential diagnosis can
+P7: and fosters more effective communication with patients
+P7: considering patient age, disease stage, atypical or rapidly
+P7: patients with PCA.
+P7: https://orcid.org/0009-0009-1236-
+P8: Written informed consent was obtained from the patient prior to
+P8: patient. A copy of the consent form is available for review by
+P8: the editor of this journal. Patient conﬁdentiality was safe-
+P8: 1614–1641.
+P8: data meta-analysis. Lancet Neurol 2024; 23: 168–177.
+P8: Alzheimer’s disease: patients not to forget. Curr Opin
+P8: 2016; 10: 267–275.
+P8: 5143–5169.
+
+=== Sample_pdf\HealthSenseAI_Synthetic_Alzheimer_Clinical_Report.pdf ===
+P1: SYNTHETIC TEST DOCUMENT — NOT A REAL PATIENT RECORD
+P1: NEUROLOGY OUTPATIENT CLINICAL REPORT
+P1: Patient ID
+P1: 72 years
+P1: Education
+P1: 16 years
+P1: Progressive short-term memory difficulty for approximately 2 years, with increasing difficulty managing appointments,
+P1: The patient and her daughter report gradual worsening of recent memory beginning around 2024. She frequently repeats
+P1: questions, misplaces household objects, forgets recent conversations, and occasionally misses scheduled appointments.
+P1: Dose / Schedule
+P1: Reduced instrumental functional independence
+P1: Vitamin B12
+P1: 12.4 ng/mL
+P2: SYNTHETIC TEST DOCUMENT — NOT A REAL PATIENT RECORD
+P2: Reduced attention, organization and serial calculation
+P2: 12. Information Not Available
+
+=== Sample_pdf\HealthSenseAI_Synthetic_Parkinsons_Clinical_Report.pdf ===
+P1: SYNTHETIC TEST DOCUMENT — NOT A REAL PATIENT RECORD
+P1: NEUROLOGY OUTPATIENT CLINICAL REPORT
+P1: Patient ID
+P1: 64 years
+P1: Education
+P1: 14 years
+P1: Left-hand resting tremor, slowness of movement, stiffness, and reduced walking speed for approximately 18 months.
+P1: The patient reports gradual onset of a left upper-limb resting tremor approximately 18 months ago. Over the subsequent
+P1: year he developed increasing slowness when dressing, writing, and turning in bed. Family noticed reduced facial expression
+P1: and softer speech. He reports occasional constipation and reduced sense of smell. No major head injury or stroke is
+P1: Dose / Schedule
+P1: Alert and oriented to person, place and time. Mild hypomimia and hypophonia. Resting tremor of the left hand, reduced with
+P1: reduced left arm swing. Mild shuffling gait but independent. No dyskinesia observed.
+P1: At a supervised follow-up assessment, motor performance improved following levodopa administration. The patient reports
+P1: Vitamin B12
+P2: SYNTHETIC TEST DOCUMENT — NOT A REAL PATIENT RECORD
+P2: DaT-SPECT: Reduced striatal dopamine-transporter uptake, greater on the left, consistent with presynaptic dopaminergic
+P2: rigidity and reduced arm swing. The gradual course, asymmetric findings and reported levodopa response support a clinical
+P2: Mild shuffling gait and reduced left arm swing; independent
+P2: Reduced striatal dopamine-transporter uptake on DaT-SPECT
+P2: 12. Plan / Recommendations
+
+=== Sample_pdf\parkinson.pdf ===
+P1: Patient
+P1: Department of Neurology, School of Health Sciences, Medical University of Silesia, Katowice, POL 3. Department of
+P1: from iPD in patients with psychiatric disorders who are chronically treated with antipsychotics. Based on the
+P1: case of a 52-year-old man with a long-standing history of schizophrenia treatment, the diagnostic process
+P1: and clinical manifestations leading to the final diagnosis are presented. The patient developed Parkinsonian
+P1: (SPECT) with ioflupane-123 (DaTSCAN) in the differential diagnosis of Parkinsonism in selected, ambiguous
+P1: highlights the need for detailed neurological monitoring in patients suspected of having DIP. It is essential
+P1: to consider iPD as an independent cause of movement disorders in patients treated with antipsychotics.
+P1: Early diagnosis and appropriate treatment of the underlying cause of Parkinsonism can significantly reduce
+P1: extrapyramidal symptoms and improve the patient’s quality of life.
+P1: Parkinsonism cases in older adults. It most frequently develops in patients receiving treatment with
+P1: contrast, idiopathic Parkinson’s disease has a prevalence of approximately 1-2% in individuals over 60 years
+P1: of age and an incidence of about 10-18 per 100,000 person-years [1,2]. Elderly individuals, women, and those
+P1: some patients, Parkinsonian symptoms persist despite stopping or reducing the antipsychotics. In such
+P1: motor symptoms developing slowly over the years, and is frequently accompanied by non-motor prodromal
+P1: striatal uptake, indicating preserved nigrostriatal neurons. In contrast, iPD shows reduced and often
+P1: Psychiatric Patient. Cureus 17(7): e88177. DOI 10.7759/cureus.88177
+P2: Consequently, patients with DIP should remain under long-term neurological observation, even after the
+P2: clinicians should consider not only the current clinical presentation but also each patient’s individual risk
+P2: The diagnostic distinction between DIP and iPD is particularly important in patients with chronic psychotic
+P2: dopaminergic therapy in patients with chronic psychotic disorders is inherently risky due to the potential
+P2: This article presents the case of a patient who developed Parkinsonian symptoms during long-term
+P2: A 52-year-old male patient with a 25-year history of treatment for schizophrenia was admitted to the
+P2: past four years. The patient's psychiatric history included chronic schizophrenia with longstanding
+P2: for many years on the current medication regimen. He reported that symptoms were most severe in the
+P2: Over the last 10 years, the patient had been taking a second-generation antipsychotic, olanzapine, at 10 mg
+P2: balance difficulties, and increasingly frequent falls, the patient had been started on oral levodopa
+P2: day, and biperiden 4 mg once a day (levodopa equivalent daily dose, LEDD: 960 mg). The patient’s
+P2: Neurological examination revealed the following: the patient was alert and oriented to person, place, and
+P2: tendency to fall to the left, and a parkinsonian gait with a stooped posture and reduced arm swing. A
+P2: levodopa challenge test (LCT) was performed following a standard protocol. The patient was kept in an
+P2: overnight OFF state (withdrawal of dopaminergic medication for at least 12 hours) before the test. Baseline
+P2: motor assessment was conducted using the UPDRS part III, with an OFF score of 52 points. The patient then
+P2: right transverse sinus, measuring approximately 12 × 9 mm.
+P2: context of a comorbid psychiatric condition. [2] Patients with schizophrenia who are treated with
+P3: DaTSCAN results were abnormal, showing bilateral reduced dopamine transporter activity with right-sided
+P3: FIGURE 1: A. A 52-year-old patient’s DaTSCAN SPECT image showing
+P3: significantly reduced, asymmetric uptake of 123I-ioflupane in the
+P3: Following the confirmation of iPD, the patient’s antiparkinsonian regimen was adjusted. The levodopa daily
+P3: dose was gradually increased to 1000mg in four divided doses (250mg each), while the ropinirole dose was
+P3: reduced from 8mg once daily to 4mg once daily as part of the withdrawal plan, with further tapering planned
+P3: At the six-month follow-up visit, conducted as a planned single-day diagnostic admission, the patient’s
+P3: biperiden 4 mg once daily. Ropinirole, which had been gradually tapered in the preceding months, was fully
+P3: and mianserin 60 mg/day). The patient showed sustained improvement in bradykinesia and rigidity, no
+P3: mental state remained stable without psychotic exacerbation. The patient’s quality of life improved notably
+P3: evaluation were coordinated with the patient’s treating psychiatrist to balance motor symptom management
+P3: starting or increasing antipsychotic dose; iPD has an insidious, gradual onset. 2) Symmetry: DIP is usually
+P3: and unilateral at onset in iPD. 4) Response to drug withdrawal: DIP often improves or resolves after reducing
+P4: reduced striatal uptake (often with an asymmetric pattern corresponding to the more affected side).
+P4: months after reducing or stopping the offending
+P4: Abnormal, showing reduced and often asymmetric striatal uptake.
+P4: improvement with drug reduction or withdrawal (if
+P4: improvement after drug reduction or withdrawal. By contrast, iPD is diagnosed by Parkinsonism without a
+P4: upper limbs. In contrast, motor symptoms in iPD patients, especially in the early stages, are often clearly
+P5: characterized by gradual progression and the presence of non-motor symptoms such as olfactory
+P5: In our patient, the clinical picture alone was equivocal. He presented with bilateral Parkinsonian signs, but
+P5: than drug-induced Parkinsonism: 1) Gradual progression of symptoms over four years, without any recent
+P5: Abnormal DaTSCAN with asymmetric reduced striatal uptake, confirming presynaptic dopaminergic neuron
+P5: discontinuation of the drug, supporting a direct causal link (approximately two-thirds of patients recover
+P5: carefully selected patients [2]. In this case, withdrawal of the antipsychotic was not possible due to the
+P5: patient's psychiatric condition. Additionally, while quetiapine can cause extrapyramidal symptoms, it carries
+P5: normal, indicating preserved presynaptic neuronal function. In iPD, a significant reduction in signal is
+P5: DIP patients may initially show normal DaTSCAN results, which may later evolve to reveal reduced uptake,
+P5: suggesting a subclinical form of iPD [10]. In other words, an initially normal scan in a patient with presumed
+P5: In clinical practice, careful analysis of the patient’s history, symptom distribution, onset dynamics, and the
+P5: movement disorders in these patients, as this can initiate the diagnostic process.
+P5: idiopathic disease emergence in patients diagnosed with DIP. These research criteria aim to estimate the
+P5: symptoms in a patient with a chronic psychotic disorder. The pharmacological treatments for iPD and for
+P6: potentially destabilize the patient’s psychiatric condition, while reducing or discontinuing antipsychotic
+P6: psychiatric rating scales were not performed in this case, but the patient’s mental state remained stable
+P6: Psychiatric Rating Scale [BPRS]) to quantitatively monitor the patient’s psychotic symptoms over the course
+P6: In patients where diagnostic findings support a diagnosis of iPD, management should follow standard PD
+P6: should begin with the lowest effective dose, gradually increasing based on the patient's clinical
+P6: In patients diagnosed with schizophrenia or other psychotic disorders, dosing should be particularly
+P6: exacerbating psychotic symptoms [12,13]. Close psychiatric monitoring is essential to detect any early signs
+P6: effects profile limits their use in patients with psychiatric comorbidities [14,15]. Studies have shown that
+P6: delusions, and therefore is not recommended for patients with iPD and a history of psychiatric illness [16].
+P6: In the case of the diagnosed patient, levodopa was initiated following suspicion of iPD, and the dose was
+P6: gradually increased. Ropinirole was initially introduced, but, recognizing its higher propensity to induce
+P6: hallucinations and other neuropsychiatric side effects, it was carefully reduced and eventually withdrawn to
+P6: symptoms, should be used cautiously in patients with psychiatric symptoms, as in this case, because
+P6: For patients with a history of psychotic episodes, dopaminergic therapy should be combined with atypical
+P6: effective antipsychotic for treating psychosis in PD patients, as it has minimal impact on motor symptoms. If
+P6: our patient had shown signs of worsening psychosis, switching to clozapine with appropriate hematological
+P6: but has limited efficacy in managing psychotic symptoms [2,13,17]. In the case of our patient, who was
+P6: reduce the dose of the causative drug or, if possible, discontinue it altogether. This should lead to gradual
+P6: that in approximately 20% of patients, Parkinsonian symptoms persist despite drug withdrawal or may even
+P6: pharmacological interventions to improve the quality of life for patients and their caregivers. Key elements
+P6: of this approach include physical rehabilitation, occupational therapy, psychological support, and education
+P6: for both the patient and their caregivers. These multidisciplinary interventions not only address motor and
+P6: non-motor symptoms but also help maintain patient independence, reduce caregiver burden, and improve
+P6: overall quality of life, underscoring the need for integrated, patient-centered care models.
+P6: patients receiving long-term antipsychotic treatment. While DIP often resolves after withdrawal of the
+P7: and help support diagnostic confidence. Patients with DIP also remain at increased risk of developing iPD,
+P7: individual risk profiles, and ultimately, better patient outcomes.
+P7: declared that they have no financial relationships at present or within the previous three years with any
+P7: parkinsonism (DIP): insights from the clinic. Ther Clin Risk Manag. 2022, 18:1129-42.
+P7: disease. PLoS One. 2021, 16:e0247354. 10.1371/journal.pone.0247354
+P7: Shin HW, Chung SJ: Drug-induced parkinsonism. J Clin Neurol. 2012, 8:15-21. 10.3988/jcn.2012.8.1.15
+P7: 10.1016/j.jns.2018.02.008
+P7: 10.1016/j.parkreldis.2014.03.024
+P7: Olivares Romero J, Arjona Padillo A: Diagnostic accuracy of 123 I-FP-CIT SPECT in diagnosing drug-induced
+P7: parkinsonism: a prospective study. Neurologia. 2013, 28:276-82. 10.1016/j.nrl.2012.05.005
+P8: 2018, 33:1248-66. 10.1002/mds.27372
+P8: 12. 
+P8: grading psychosis in Parkinson's disease. Clin Neuropharmacol. 1998, 21(5):280-284.
+P8: Garcia-Ruiz PJ, Martinez Castrillo JC, Alonso-Canovas A, et al.: Impulse control disorder in patients with
+P8: Soileau LG, Talbot NC, Storey NR, et al.: Impulse control disorders in Parkinson's disease patients treated
+P8: 16. 
+P8: phenomenology of psychosis in patients with Parkinson's disease]. Gac Med Mex. 2015, 151(2):169-175.
+
+=== Sample_pdf\parkinson_2.pdf ===
+P1: New York University School of Medicine, NYU Langone Medical Center, New York, NY, USA
+P1: 2Department of Neurosurgery, Adult Hydrocephalus Program, NYU School of Medicine, New York, NY, USA
+P1: clinical challenge. Here, we report a patient with parkinsonism initially consistent with PD who subsequently displayed rapidly
+P1: usually slow, spanning months or years. Gait dysfunction is
+P1: by reduced step height during the swing phase, reduced
+P1: stride length and reduced velocity [3–5]. Equilibrium-related
+P1: study, up to 46% of patients with NPH were found to
+P2: which could fully explain the symptoms [12]. In clinical
+P2: of these patients, usually between the 6th and the 7th decade
+P2: A 79-year-old right-handed female with lumbar spondylosis
+P2: and chronic low back pain presented with a two-year, slowly
+P2: reduced. She had no FoG. She recovered from the pull test in
+P2: metrically reduced deep tendon reflexes in the lower limbs
+P2: dence of radiculopathy, plexopathy, or myopathy. The patient
+P2: initiated and gradually titrated up to one full tablet TID. After
+P2: 6 months, the patient reported improvements in stiffness,
+P2: Over the following months, the patient experienced
+P2: sections, a strong flow void was noted at the cerebral aqueduct
+P2: (Figure 2). The patient underwent a large volume lumbar
+P2: patient’s ability to make 180∘turns with no evidence of FoG.
+P3: Figure 1: Brain MRI imaging. (a) Baseline coronal MPR sequences. (b) One-year follow-up coronal MPR sequences: periventricular white
+P3: sequences. (d) One-year follow-up axial T2-weighted sequences: increased periventricular white matter hyperintensity (red arrows).
+P4: Figure 2: One-year follow-up brain MRI, sagittal T2 section. A
+P4: strong flow void artifact is noted at the Sylvian aqueduct.
+P4: 120
+P4: to the same baseline procedures approximately two and
+P4: and balance were sustained over one year of follow-up.
+P4: adjustments in the patient’s dopaminergic regimen.
+P4: Our patient presented with a two-year history of progres-
+P4: for PD, and our patient was diagnosed accordingly. In
+P4: of “recurrent falls because of impaired balance within 3 years
+P4: for which our patient’s 19% initial improvement did not
+P4: initially met the UKPDSBB criteria for PD, the patient’s rapid
+P4: years are red flags arguing against idiopathic PD; her rest
+P4: Approximately 2.5 years after her PD diagnosis, our
+P4: patient’s gait and balance dramatically deteriorated, a far
+P5: however this was ineffective [16]. Additionally, she reported
+P5: time brain MRI sequences can detect the aqueduct flow
+P5: void artifact due to hyperdynamic CSF flow. Our patient’s
+P5: MRIs were obtained at baseline and approximately one year
+P5: a prominent flow void at the Sylvian aqueduct; however the
+P5: patient underwent a large volume tap test, yielding a marked
+P5: tained over one-year follow-up.
+P5: Between 46 and 63% of patients with iNPH show some
+P5: exposes patients to a high risk of misdiagnosis. False negatives
+P5: include those patients who, despite underlying iNPH, fail
+P5: inherent to any invasive medical procedure, particularly
+P5: where the patient has expectations of benefit [22]. Hence,
+P5: patient must be counseled appropriately and have clear
+P5: The role of comorbidity in patients with iNPH must be
+P5: comorbidities in patients with iNPH is critical, allowing for
+P5: optimization of the patient’s care for each diagnosis, maxi-
+P5: 45% of patients meeting the diagnostic criteria of probable
+P5: tantly, these patients display decreased striatal uptake on
+P5: I123-ioflupane (DatScan) single-photon emission computed
+P5: analyzed 127 patients with definite iNPH [14]. Twenty-one
+P5: of these patients reported parkinsonian symptoms including
+P5: reduced cardiac uptake. Since iNPH does not cause cardiac
+P5: Diagnosing both conditions in the same patient requires
+P5: have concomitant iNPH. Conversely, a patient successfully
+P5: netic movement disorders,” characterized by reduced speed,
+P5: reduced stride length, and poor ground clearance along with
+P6: years old [13]
+P6: years old [14]
+P6: Incidence peak between 70 and 79 years
+P6: 62% of patients display bradykinesia affecting
+P6: 60% of patients
+P6: 60% of patients
+P6: >60% of patients
+P6: Reduced or abolished
+P6: Reduced
+P6: Reduced
+P6: stepping manifesting with the patient’s feeling of having his
+P6: when global bradykinesia, narrow gait base, reduced arm
+P6: bradyphrenia—can overlap with those observed in patients
+P6: patients with iNPH. It is also a common clinical experience
+P6: In a recent review of 16 studies including 1256 iNPH
+P6: patients, Espay et al. showed that shunt responsiveness,
+P6: current diagnostic construct [34]. In these patients, the
+P6: presentation must be carefully considered. For these patients,
+P6: Here we reported a case of comorbid iNPH in a patient
+P7: recognition of iNPH symptoms, patients may be missing the
+P7: these two conditions to optimize patient care.
+P7: 233372141664370, 2016.
+P7: Learning in Neurology, vol. 22, no. 2, pp. 579–599, 2016.
+P7: of depression are common in patients with idiopathic nor-
+P7: surgery, vol. 78, no. 2, pp. 161–168, 2016.
+P7: Arzteblatt International, vol. 109, no. 1-2, pp. 15–25, 2012.
+P7: [12] H. C. Jones and P. M. Klinge, “Hydrocephalus 2008, 17-
+P7: cephalus,” Neurology, vol. 82, no. 16, pp. 1449–1454, 2014.
+P7: no. 12, pp. 1591–1601, 2015.
+P7: [16] A. Cucca, M. C. Biagioni, J. E. Fleisher et al., “Freezing of
+P7: 5, pp. 431–446, 2016.
+P7: cephalus,” Neurosurgery, vol. 57, no. suppl 3, pp. S2-4–S2-16,
+P7: in the Era of Volumetric MR Imaging,” Radiology, p. 161216,
+P7: outcome assessment in shunted patients,” Neurosurgery, vol. 57,
+P7: Fluids and Barriers of the CNS, vol. 9, no. 1, article no. 1, 2012.
+P7: 90, pp. 348–356, 2016.
+P8: ology of falls,” Neurological Sciences, vol. 33, no. 6, pp. 1215–1223,
+P8: 2012.
+P8: cephalus,” Movement Disorders, vol. 12, no. 1, pp. 53–60, 1997.
+P8: Functional Neurology, vol. 31, no. 3, pp. 143–147, 2016.
+

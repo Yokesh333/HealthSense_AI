@@ -1,0 +1,62 @@
+{
+    "dataset": {
+        "participants": 2636,
+        "features": 17,
+        "PD": 2196,
+        "Healthy_Control": 440
+    },
+    "split": {
+        "train": 1845,
+        "validation": 395,
+        "final_train": 2240,
+        "test": 396
+    },
+    "validation": [
+        {
+            "Model": "Logistic Regression",
+            "Accuracy": 0.8582278481012658,
+            "Balanced Accuracy": 0.8906696140738695,
+            "Precision": 0.9857651245551602,
+            "Recall": 0.8419452887537994,
+            "Macro F1": 0.7985428051001822,
+            "ROC-AUC": 0.9792069632495165
+        },
+        {
+            "Model": "Random Forest",
+            "Accuracy": 0.9367088607594937,
+            "Balanced Accuracy": 0.919614073869393,
+            "Precision": 0.9779874213836478,
+            "Recall": 0.9452887537993921,
+            "Macro F1": 0.8932674744112148,
+            "ROC-AUC": 0.9789306438242609
+        }
+    ],
+    "final_test": {
+        "Model": "Random Forest",
+        "Accuracy": 0.9242424242424242,
+        "Balanced Accuracy": 0.9,
+        "Precision": 0.9716981132075472,
+        "Recall": 0.9363636363636364,
+        "Macro F1": 0.8726851851851851,
+        "ROC-AUC": 0.9780532598714416
+    },
+    "features": [
+        "AGE_AT_VISIT",
+        "EDUCYRS",
+        "NP1RTOT",
+        "NP2PTOT",
+        "NP3TOT",
+        "NHY",
+        "MCATOT",
+        "GDS_TOTAL",
+        "ESS_TOTAL",
+        "RBD_TOTAL",
+        "SDMTOTAL",
+        "DVT_TOTAL_RECALL",
+        "DVT_DELAYED_RECALL",
+        "LNS_TOTRAW",
+        "TMTASEC",
+        "TMTBSEC",
+        "SCOPA_AUT_TOTAL"
+    ]
+}

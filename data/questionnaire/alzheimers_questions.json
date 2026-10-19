@@ -1,0 +1,96 @@
+{
+  "questionnaire_id": "ALZ_SCREENING",
+  "version": "1.0",
+  "questions": [
+    {
+      "id": "ALZ_Q01",
+      "question": "Have you recently forgotten conversations or events that you would normally remember?",
+      "answer_options": ["Never", "Rarely", "Sometimes", "Often"],
+      "domain": "recent memory",
+      "clinical_concept": "episodic memory impairment",
+      "source_documents": ["alzheimer's guidelines.pdf"],
+      "source_references": [{"document": "alzheimer's guidelines.pdf", "page": 4}]
+    },
+    {
+      "id": "ALZ_Q02",
+      "question": "Do you find yourself repeating the same questions or stories within a short period of time?",
+      "answer_options": ["Never", "Rarely", "Sometimes", "Often"],
+      "domain": "repeating questions or stories",
+      "clinical_concept": "short-term memory deficit",
+      "source_documents": ["alzheimer's guidelines.pdf"],
+      "source_references": [{"document": "alzheimer's guidelines.pdf", "page": 5}]
+    },
+    {
+      "id": "ALZ_Q03",
+      "question": "Do you have more trouble remembering upcoming appointments or family events?",
+      "answer_options": ["Never", "Rarely", "Sometimes", "Often"],
+      "domain": "remembering appointments/events",
+      "clinical_concept": "prospective memory loss",
+      "source_documents": ["alzheimer's guidelines.pdf"],
+      "source_references": [{"document": "alzheimer's guidelines.pdf", "page": 5}]
+    },
+    {
+      "id": "ALZ_Q04",
+      "question": "Are you finding it more difficult to think of the right word for everyday objects?",
+      "answer_options": ["Never", "Rarely", "Sometimes", "Often"],
+      "domain": "finding words",
+      "clinical_concept": "anomia / language deficit",
+      "source_documents": ["alzheimer's guidelines.pdf"],
+      "source_references": [{"document": "alzheimer's guidelines.pdf", "page": 6}]
+    },
+    {
+      "id": "ALZ_Q05",
+      "question": "Have you ever felt confused or gotten lost in familiar places or your own neighborhood?",
+      "answer_options": ["Never", "Rarely", "Sometimes", "Often"],
+      "domain": "familiar places",
+      "clinical_concept": "visuospatial disorientation",
+      "source_documents": ["alzheimer's guidelines.pdf"],
+      "source_references": [{"document": "alzheimer's guidelines.pdf", "page": 6}]
+    },
+    {
+      "id": "ALZ_Q06",
+      "question": "Is it becoming harder to plan complex activities, like managing your monthly bills or following a recipe?",
+      "answer_options": ["Never", "Rarely", "Sometimes", "Often"],
+      "domain": "planning",
+      "clinical_concept": "executive dysfunction",
+      "source_documents": ["alzheimer's guidelines.pdf"],
+      "source_references": [{"document": "alzheimer's guidelines.pdf", "page": 7}]
+    },
+    {
+      "id": "ALZ_Q07",
+      "question": "Have you noticed changes in your ability to manage everyday activities without feeling overwhelmed?",
+      "answer_options": ["Never", "Rarely", "Sometimes", "Often"],
+      "domain": "managing everyday activities",
+      "clinical_concept": "impaired daily functioning",
+      "source_documents": ["alzheimer's guidelines.pdf"],
+      "source_references": [{"document": "alzheimer's guidelines.pdf", "page": 7}]
+    },
+    {
+      "id": "ALZ_Q08",
+      "question": "Do you need more help completing familiar tasks that you used to do easily on your own?",
+      "answer_options": ["Never", "Rarely", "Sometimes", "Often"],
+      "domain": "completing familiar tasks",
+      "clinical_concept": "apraxia / functional decline",
+      "source_documents": ["alzheimer's guidelines.pdf"],
+      "source_references": [{"document": "alzheimer's guidelines.pdf", "page": 8}]
+    },
+    {
+      "id": "ALZ_Q09",
+      "question": "Is it harder for you to follow long conversations or understand instructions?",
+      "answer_options": ["Never", "Rarely", "Sometimes", "Often"],
+      "domain": "following conversations/instructions",
+      "clinical_concept": "receptive language impairment",
+      "source_documents": ["alzheimer's guidelines.pdf"],
+      "source_references": [{"document": "alzheimer's guidelines.pdf", "page": 8}]
+    },
+    {
+      "id": "ALZ_Q10",
+      "question": "Have you noticed a change in your overall independence compared to a few years ago?",
+      "answer_options": ["Never", "Rarely", "Sometimes", "Often"],
+      "domain": "changes in independence",
+      "clinical_concept": "global functional decline",
+      "source_documents": ["alzheimer's guidelines.pdf"],
+      "source_references": [{"document": "alzheimer's guidelines.pdf", "page": 9}]
+    }
+  ]
+}

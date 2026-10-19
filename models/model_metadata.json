@@ -1,0 +1,69 @@
+{
+    "project_name": "HealthSense AI",
+    "model_name": "Random Forest",
+    "model_version": "1.0",
+    "training_date": "2026-08-31 13:19:11",
+    "target_name": "target",
+    "target_classes": [
+        "CN",
+        "MCI",
+        "AD"
+    ],
+    "feature_names": [
+        "AGE",
+        "EDUCATION",
+        "ADAS",
+        "CDR",
+        "FAQ",
+        "MMSE",
+        "MOCA",
+        "SEX",
+        "RACE",
+        "ETHNICITY"
+    ],
+    "categorical_features": [
+        "SEX",
+        "RACE",
+        "ETHNICITY"
+    ],
+    "numerical_features": [
+        "AGE",
+        "EDUCATION",
+        "ADAS",
+        "CDR",
+        "FAQ",
+        "MMSE",
+        "MOCA"
+    ],
+    "training_samples": 1147,
+    "validation_samples": 245,
+    "test_samples": 249,
+    "selected_metric": "Macro F1",
+    "test_metrics": {
+        "Accuracy": 0.9437751004016064,
+        "Balanced Accuracy": 0.9229744883655733,
+        "Macro Precision": 0.9229744883655733,
+        "Macro Recall": 0.9229744883655733,
+        "Macro F1": 0.9229744883655733,
+        "Weighted F1": 0.9437751004016064,
+        "ROC-AUC Macro": 0.9893880152279514,
+        "CN Precision": 1.0,
+        "CN Recall": 1.0,
+        "CN F1": 1.0,
+        "MCI Precision": 0.9396551724137931,
+        "MCI Recall": 0.9396551724137931,
+        "MCI F1": 0.9396551724137931,
+        "AD Precision": 0.8292682926829268,
+        "AD Recall": 0.8292682926829268,
+        "AD F1": 0.8292682926829268
+    },
+    "preprocessing_description": "Median imputation with missing indicators for numericals. Constant imputation with OneHotEncoding for categoricals. StandardScaler applied to numericals.",
+    "missing_value_strategy": "SimpleImputer(strategy='median', add_indicator=True)",
+    "random_seed": 42,
+    "diagnosis_mapping": {
+        "CN": "CN",
+        "MCI": "MCI",
+        "Dementia": "AD"
+    },
+    "limitations": "Prototype ML classifier, not clinical diagnosis. AD class mapped from Dementia. MOCA has ~58% missingness."
+}

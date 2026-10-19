@@ -1,0 +1,58 @@
+{
+    "project_name": "HealthSense AI",
+    "model_name": "Random Forest",
+    "model_version": "1.0",
+    "disease": "Parkinson's Disease",
+    "task": "Binary classification",
+    "target_name": "target",
+    "target_classes": {
+        "0": "Healthy Control",
+        "1": "Parkinson's Disease"
+    },
+    "feature_names": [
+        "AGE_AT_VISIT",
+        "EDUCYRS",
+        "NP1RTOT",
+        "NP2PTOT",
+        "NP3TOT",
+        "NHY",
+        "MCATOT",
+        "GDS_TOTAL",
+        "ESS_TOTAL",
+        "RBD_TOTAL",
+        "SDMTOTAL",
+        "DVT_TOTAL_RECALL",
+        "DVT_DELAYED_RECALL",
+        "LNS_TOTRAW",
+        "TMTASEC",
+        "TMTBSEC",
+        "SCOPA_AUT_TOTAL"
+    ],
+    "feature_count": 17,
+    "preprocessing": {
+        "numeric_imputation": "median",
+        "missing_indicators": true,
+        "class_weight": "balanced"
+    },
+    "training": {
+        "training_samples": 2240,
+        "test_samples": 396,
+        "random_state": 42,
+        "n_estimators": 500,
+        "min_samples_leaf": 2,
+        "max_features": "sqrt"
+    },
+    "test_metrics": {
+        "Accuracy": 0.9242424242424242,
+        "Balanced Accuracy": 0.9,
+        "Precision": 0.9716981132075472,
+        "Recall": 0.9363636363636364,
+        "Macro F1": 0.8726851851851851,
+        "ROC-AUC": 0.9780532598714416
+    },
+    "dataset": {
+        "source": "Parkinson's Progression Markers Initiative (PPMI)",
+        "population": "PPMI Parkinson's Disease vs Healthy Control cohort",
+        "participants": 2636
+    }
+}

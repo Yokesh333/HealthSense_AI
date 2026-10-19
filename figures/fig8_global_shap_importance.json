@@ -1,0 +1,62 @@
+[
+  {
+    "feature": "NHY",
+    "mean_abs_shap": 0.1568742941845278
+  },
+  {
+    "feature": "NP3TOT",
+    "mean_abs_shap": 0.1117447518894603
+  },
+  {
+    "feature": "NP2PTOT",
+    "mean_abs_shap": 0.065496699788708
+  },
+  {
+    "feature": "SCOPA_AUT_TOTAL",
+    "mean_abs_shap": 0.0183414356696302
+  },
+  {
+    "feature": "NP3TOT_missing",
+    "mean_abs_shap": 0.0146423202784761
+  },
+  {
+    "feature": "AGE_AT_VISIT",
+    "mean_abs_shap": 0.0145889049097166
+  },
+  {
+    "feature": "NP2PTOT_missing",
+    "mean_abs_shap": 0.0134865735704921
+  },
+  {
+    "feature": "NP1RTOT_missing",
+    "mean_abs_shap": 0.0125290092985913
+  },
+  {
+    "feature": "NHY_missing",
+    "mean_abs_shap": 0.0122794415872918
+  },
+  {
+    "feature": "RBD_TOTAL_missing",
+    "mean_abs_shap": 0.0102789534283812
+  },
+  {
+    "feature": "GDS_TOTAL",
+    "mean_abs_shap": 0.0092124020661561
+  },
+  {
+    "feature": "EDUCYRS",
+    "mean_abs_shap": 0.0087900290299023
+  },
+  {
+    "feature": "NP1RTOT",
+    "mean_abs_shap": 0.0086243571922332
+  },
+  {
+    "feature": "ESS_TOTAL_missing",
+    "mean_abs_shap": 0.0084935704037328
+  },
+  {
+    "feature": "TMTASEC_missing",
+    "mean_abs_shap": 0.0064915665859378
+  }
+]
